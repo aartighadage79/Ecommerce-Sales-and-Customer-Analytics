@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Delivery_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Product_ID,Product_Name,Category,Brand,Quantity,Unit_Price,Discount,Shipping_Charge,GST,Total_Amount,Payment_Mode,Payment_Status,Delivery_Partner,Delivery_Status,Return_Reason,Customer_Rating
+ORD000001,17-04-2025,,C333,Customer 200,Female,42,Bengaluru,Karnataka,P080,Oil,Grocery,Lakme,4,76115,5000,198,12,335616.96,Google Pay,Paid,Blue Dart,In Transit,,4
+ORD000002,03-03-2024,,C199,Customer 386,Male,61,Mumbai,Maharashtra,P199,Sugar,Grocery,Puma,1,47497,0,295,12,53527.04,Wallet,Paid,XpressBees,Cancelled,,5
+ORD000003,11-05-2024,15-05-2024,C460,Customer 415,Male,34,Chennai,Tamil Nadu,P137,Face Wash,Beauty,Samsung,3,46360,5000,126,18,158363.08,Net Banking,Paid,xpressbees,Returned,Size Issue,
+ORD000004,15-12-2025,18-12-2025,C251,Customer 202,Male,69,Mumbai,Maharashtra,P145,Laptop,Electronics,Lakme,4,113831,0,20,18,537305.92,COD,Paid,xpressbees,Returned,Damaged,5
+ORD000005,15-01-2025,22-01-2025,C117,Customer 219,Female,31,Chennai,Tamil Nadu,P169,Mixer,Home & Kitchen,Lakme,2,34143,1000,490,18,79975.68,Net Banking,Pending,XpressBees,Returned,Wrong Product,5
+ORD000006,23-05-2024,,C282,Customer 167,Male,51,Chennai,Tamil Nadu,P043,Face Wash,Beauty,LG,1,90432,1000,81,5,93988.65,Card,Pending,Blue Dart,Cancelled,,4
+ORD000007,05-05-2025,,C331,Customer 22,Female,42,Pune,Maharashtra,P003,Face Wash,Beauty,Nike,2,15129,5000,83,5,26608.05,UPI,,xpressbees,In Transit,,4
+ORD000008,19-12-2024,,C358,Customer 307,Male,27,Delhi,Delhi,P033,Phone,Electronics,LG,4,22249,0,289,5,93749.25,COD,Paid,xpressbees,Cancelled,,3
+ORD000009,15-09-2025,21-09-2025,C219,Customer 299,Male,50,pune,Maharashtra,P073,Shoes,Fashion,Boat,5,145284,500,232,5,762459.6,COD,,Delhivery,Delivered,,3
+ORD000010,17-02-2025,,C441,Customer 19,Male,31,Mumbai,Maharashtra,P161,Shoes,Fashion,Puma,2,45306,0,490,5,95657.1,UPI,Pending,Blue Dart,Cancelled,,3
+ORD000011,10-03-2024,,C271,Customer 393,Female,34,pune,Maharashtra,P030,Shampoo,Beauty,LG,2,105012,500,299,12,235001.76,COD,Pending,Blue Dart,Cancelled,,4
+ORD000012,23-01-2025,,C478,Customer 64,Female,22,Delhi,Delhi,P056,Yoga Mat,Sports,Puma,2,141856,500,319,18,334566.58,Card,Paid,Blue Dart,In Transit,,5
+ORD000013,17-12-2025,21-12-2025,C473,Customer 247,Female,26,Chennai,Tamil Nadu,P135,Lipstick,Beauty,Boat,5,25860,0,185,18,152792.3,Google Pay,,Blue Dart,Delivered,,5
+ORD000014,08-09-2025,14-09-2025,C483,Customer 213,Female,42,Chennai,Tamil Nadu,P022,Laptop,Electronics,Apple,3,118115,1000,72,12,395827.04,Net Banking,Paid,Delhivery,Delivered,,3
+ORD000015,23-03-2025,,C376,Customer 127,Male,57,Mumbai,Maharashtra,P017,Lipstick,Beauty,Lakme,1,2430,500,137,18,2439.06,COD,Paid,XpressBees,Cancelled,,3
+ORD000016,21-08-2024,,C129,Customer 17,Female,61,Chennai,Tamil Nadu,P179,Earbuds,Electronics,LG,2,135152,5000,419,18,313553.14,COD,Paid,Delhivery,Cancelled,,4
+ORD000017,25-08-2025,31-08-2025,C156,Customer 19,Male,21,Bengaluru,Karnataka,P127,Cookware,Home & Kitchen,Nike,4,66685,5000,308,12,293493.76,Google Pay,Paid,Blue Dart,Delivered,,5
+ORD000018,15-12-2025,,C483,Customer 22,Male,61,Hyderabad,Telangana,P088,Yoga Mat,Sports,Boat,2,121852,5000,230,12,267606.08,Wallet,Paid,Ecom Express,In Transit,,3
+ORD000019,15-04-2025,19-04-2025,C404,Customer 463,Male,51,Delhi,Delhi,P083,Earbuds,Electronics,Lakme,1,36109,500,488,5,37901.85,Net Banking,Pending,XpressBees,Returned,Size Issue,
+ORD000020,12-03-2025,,C349,Customer 317,Female,45,Chennai,Tamil Nadu,P040,Football,Sports,Lakme,3,41726,1000,342,18,146933.6,Net Banking,Paid,Delhivery,Cancelled,,3
+ORD000021,31-08-2024,01-09-2024,C462,Customer 104,Female,25,pune,Maharashtra,P128,Sugar,Grocery,Nike,5,12562,1000,276,12,69536.32,COD,,Ecom Express,Returned,Damaged,3
+ORD000022,18-10-2025,,C247,Customer 24,Male,31,Hyderabad,Telangana,P188,Cookware,Home & Kitchen,LG,3,18926,5000,207,18,61342.3,COD,,XpressBees,Cancelled,,4
+ORD000023,16-03-2025,,C453,Customer 47,Female,33,pune,Maharashtra,P194,Football,Sports,Puma,5,27579,0,343,5,145149.9,COD,,Ecom Express,In Transit,,5
+ORD000024,23-01-2025,25-01-2025,C333,Customer 233,Female,53,Mumbai,Maharashtra,P166,Football,Sports,Boat,1,136350,0,195,12,152930.4,UPI,Paid,XpressBees,Delivered,,4
+ORD000025,01-08-2025,02-08-2025,C199,Customer 130,Female,48,Hyderabad,Telangana,P134,Phone,Electronics,LG,4,116464,5000,348,18,544220.72,Net Banking,Pending,xpressbees,Delivered,,5
+ORD000026,04-07-2024,06-07-2024,C093,Customer 396,Male,47,Chennai,Tamil Nadu,P187,Phone,Electronics,Samsung,2,57762,500,131,18,135882.9,Card,Pending,Blue Dart,Returned,Size Issue,4
+ORD000027,16-11-2025,,C202,Customer 223,Female,36,Bengaluru,Karnataka,P098,Shoes,Fashion,Puma,1,2900,1000,355,5,2367.75,Wallet,,XpressBees,In Transit,,3
+ORD000028,20-02-2024,,C393,Customer 107,Male,66,Pune,Maharashtra,P119,Face Wash,Beauty,Boat,3,81558,500,99,18,288242.14,COD,,Ecom Express,In Transit,,3
+ORD000029,01-03-2025,,C323,Customer 300,Female,61,Mumbai,Maharashtra,P108,Laptop,Electronics,Puma,5,147385,5000,441,18,864191.88,UPI,Paid,xpressbees,Cancelled,,3
+ORD000030,17-09-2024,23-09-2024,C082,Customer 14,Female,55,Bengaluru,Karnataka,P026,Shoes,Fashion,LG,4,129708,500,211,18,611880.74,COD,Pending,XpressBees,Delivered,,4
+ORD000031,29-01-2025,31-01-2025,C230,Customer 488,Female,23,Bengaluru,Karnataka,P153,Shoes,Fashion,Samsung,3,45367,1000,164,12,151496.8,Card,,Blue Dart,Delivered,,4
+ORD000032,29-09-2025,,C139,Customer 401,Male,70,Hyderabad,Telangana,P055,Laptop,Electronics,Samsung,5,85290,5000,17,18,497331.06,COD,Paid,Ecom Express,Cancelled,,
+ORD000033,22-12-2024,28-12-2024,C429,Customer 170,Male,30,Bengaluru,Karnataka,P187,Shoes,Fashion,Puma,3,69932,1000,167,5,219411.15,COD,Pending,XpressBees,Returned,Size Issue,4
+ORD000034,21-03-2025,,C149,Customer 299,Male,59,Mumbai,Maharashtra,P068,Shampoo,Beauty,Puma,2,72697,500,115,5,152259.45,Net Banking,Pending,Ecom Express,Cancelled,,4
+ORD000035,10-12-2025,,C441,Customer 231,Female,20,Hyderabad,Telangana,P092,Shoes,Fashion,LG,1,128936,0,371,12,144823.84,Card,Pending,XpressBees,Cancelled,,4
+ORD000036,11-01-2024,,C222,Customer 24,Male,58,Delhi,Delhi,P180,Jeans,Fashion,Lakme,4,66141,500,135,18,311754.82,Card,,Blue Dart,In Transit,,3
+ORD000037,16-05-2024,,C124,Customer 380,Male,59,Bengaluru,Karnataka,P150,T-Shirt,Fashion,LG,5,101202,500,422,12,566643.84,Card,,XpressBees,Cancelled,,4
+ORD000038,02-05-2024,07-05-2024,C142,Customer 289,Male,35,pune,Maharashtra,P009,Oil,Grocery,Lakme,4,110269,1000,158,18,519476.12,COD,,Delhivery,Returned,Size Issue,4
+ORD000039,05-10-2025,10-10-2025,C179,Customer 270,Male,26,pune,Maharashtra,P147,Cookware,Home & Kitchen,Apple,1,40210,0,344,18,47853.72,COD,,Delhivery,Returned,Wrong Product,5
+ORD000040,11-07-2024,,C020,Customer 71,Male,60,Delhi,Delhi,P031,Shampoo,Beauty,Boat,2,28699,5000,245,18,62118.74,Net Banking,Pending,Ecom Express,In Transit,,3
+ORD000041,06-05-2025,12-05-2025,C433,Customer 40,Male,29,pune,Maharashtra,P197,Cookware,Home & Kitchen,Apple,1,95010,0,14,12,106426.88,Net Banking,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000042,17-11-2025,18-11-2025,C116,Customer 53,Female,40,Chennai,Tamil Nadu,P102,Face Wash,Beauty,Boat,1,46209,0,386,18,54982.1,Net Banking,Paid,Delhivery,Returned,Size Issue,4
+ORD000043,24-05-2025,28-05-2025,C315,Customer 468,Female,64,Bengaluru,Karnataka,P188,Cricket Bat,Sports,Samsung,1,21902,5000,97,5,17848.95,Wallet,,xpressbees,Returned,Wrong Product,4
+ORD000044,15-12-2025,,C003,Customer 153,Male,53,Delhi,Delhi,P064,Lipstick,Beauty,Apple,2,141672,0,72,18,334430.88,Wallet,,Ecom Express,Cancelled,,5
+ORD000045,05-06-2025,,C220,Customer 259,Female,43,Delhi,Delhi,P061,Phone,Electronics,LG,5,147895,5000,422,12,823084.64,Google Pay,Pending,Ecom Express,In Transit,,4
+ORD000046,19-08-2025,21-08-2025,C049,Customer 178,Male,55,pune,Maharashtra,P192,Bottle,Home & Kitchen,Puma,1,3861,1000,93,12,3308.48,Net Banking,Pending,XpressBees,Delivered,,5
+ORD000047,11-11-2024,,C467,Customer 220,Female,59,Chennai,Tamil Nadu,P089,Football,Sports,Puma,4,32042,0,385,5,134980.65,Google Pay,,xpressbees,In Transit,,5
+ORD000048,17-11-2025,,C274,Customer 125,Male,43,Pune,Maharashtra,P116,Cricket Bat,Sports,LG,1,99659,500,54,12,111118.56,Net Banking,,Delhivery,In Transit,,3
+ORD000049,24-10-2024,,C267,Customer 4,Male,49,Pune,Maharashtra,P143,Phone,Electronics,Boat,5,35265,500,126,5,184748.55,Wallet,Paid,Blue Dart,In Transit,,4
+ORD000050,30-10-2025,03-11-2025,C460,Customer 431,Male,54,Pune,Maharashtra,P159,Yoga Mat,Sports,Apple,5,134830,1000,286,5,707107.8,UPI,Pending,xpressbees,Returned,Wrong Product,3
+ORD000051,24-03-2025,,C387,Customer 220,Male,60,Chennai,Tamil Nadu,P017,Phone,Electronics,Nike,3,118728,0,45,5,374040.45,Card,Pending,XpressBees,Cancelled,,5
+ORD000052,26-04-2025,01-05-2025,C451,Customer 186,Female,69,Bengaluru,Karnataka,P197,Face Wash,Beauty,Boat,5,130037,5000,366,12,723017.12,Google Pay,,XpressBees,Returned,Wrong Product,3
+ORD000053,12-02-2025,,C349,Customer 296,Male,63,Hyderabad,Telangana,P053,Lipstick,Beauty,Boat,4,141531,0,490,5,594944.7,Google Pay,Paid,Ecom Express,Cancelled,,5
+ORD000054,10-03-2025,15-03-2025,C408,Customer 388,Male,20,Pune,Maharashtra,P148,Bottle,Home & Kitchen,Samsung,5,120572,500,275,5,632766.75,Card,Paid,XpressBees,Delivered,,4
+ORD000055,14-05-2024,16-05-2024,C278,Customer 258,Male,63,Chennai,Tamil Nadu,P016,Oil,Grocery,Puma,4,88160,500,232,18,415798.96,Net Banking,,Delhivery,Returned,Damaged,3
+ORD000056,07-10-2024,,C413,Customer 495,Female,49,Delhi,Delhi,P180,Laptop,Electronics,Lakme,4,82169,1000,87,18,386760.34,Google Pay,,Delhivery,In Transit,,5
+ORD000057,21-09-2025,27-09-2025,C343,Customer 403,Female,50,Chennai,Tamil Nadu,P021,Cricket Bat,Sports,Lakme,5,28530,500,294,12,159537.28,Wallet,Paid,Blue Dart,Returned,Damaged,4
+ORD000058,07-12-2024,13-12-2024,C370,Customer 42,Female,49,Delhi,Delhi,P176,Shampoo,Beauty,Apple,5,87229,500,356,12,488321.12,COD,Paid,Ecom Express,Delivered,,3
+ORD000059,25-05-2025,28-05-2025,C054,Customer 433,Male,23,pune,Maharashtra,P141,Shampoo,Beauty,Samsung,4,42434,500,77,12,189630.56,Google Pay,Paid,Blue Dart,Returned,Wrong Product,4
+ORD000060,20-08-2024,22-08-2024,C115,Customer 239,Male,24,pune,Maharashtra,P169,Sugar,Grocery,Apple,5,72461,5000,79,12,400270.08,Net Banking,Pending,Ecom Express,Delivered,,5
+ORD000061,02-03-2025,08-03-2025,C088,Customer 412,Female,46,Mumbai,Maharashtra,P185,Cookware,Home & Kitchen,Boat,1,66659,500,71,5,69541.5,COD,Pending,Delhivery,Returned,Size Issue,4
+ORD000062,03-07-2024,,C473,Customer 179,Female,46,Bengaluru,Karnataka,P178,Yoga Mat,Sports,Puma,3,138234,1000,132,12,463494.08,UPI,,Ecom Express,In Transit,,5
+ORD000063,13-11-2024,,C018,Customer 449,Female,49,pune,Maharashtra,P130,Yoga Mat,Sports,Boat,2,128581,0,442,18,303972.72,Net Banking,Paid,Blue Dart,Cancelled,,5
+ORD000064,30-09-2025,,C057,Customer 341,Male,44,Mumbai,Maharashtra,P055,Sugar,Grocery,Boat,4,115882,0,20,12,519173.76,Card,Paid,Delhivery,Cancelled,,5
+ORD000065,17-10-2024,,C344,Customer 228,Male,19,Mumbai,Maharashtra,P071,Sugar,Grocery,Apple,2,123398,5000,330,12,271181.12,Wallet,Pending,Delhivery,In Transit,,5
+ORD000066,20-09-2025,22-09-2025,C107,Customer 85,Male,28,Pune,Maharashtra,P095,Sugar,Grocery,Lakme,4,138777,5000,251,18,649423.62,COD,Pending,xpressbees,Delivered,,3
+ORD000067,03-04-2025,,C428,Customer 252,Male,54,Pune,Maharashtra,P190,Earbuds,Electronics,Apple,5,92792,5000,250,5,482170.5,Google Pay,,XpressBees,In Transit,,
+ORD000068,16-11-2025,,C464,Customer 174,Female,22,Chennai,Tamil Nadu,P042,T-Shirt,Fashion,Boat,2,143927,5000,173,18,333971.86,Card,Pending,XpressBees,In Transit,,3
+ORD000069,19-01-2025,25-01-2025,C367,Customer 273,Female,67,pune,Maharashtra,P019,Jeans,Fashion,Lakme,4,46309,5000,423,18,213177.62,Wallet,Pending,xpressbees,Delivered,,3
+ORD000070,12-08-2024,,C415,Customer 281,Female,54,Bengaluru,Karnataka,P085,Laptop,Electronics,Samsung,4,31846,500,294,18,150070.04,UPI,,Blue Dart,Cancelled,,5
+ORD000071,06-03-2025,,C287,Customer 470,Female,70,Bengaluru,Karnataka,P117,Shampoo,Beauty,Nike,2,118391,500,34,12,264673.92,Net Banking,Pending,XpressBees,In Transit,,5
+ORD000072,17-08-2024,24-08-2024,C135,Customer 294,Male,36,Delhi,Delhi,P181,Sugar,Grocery,Nike,3,121691,500,460,18,430738.94,Net Banking,,xpressbees,Delivered,,4
+ORD000073,07-11-2025,,C397,Customer 489,Female,57,Bengaluru,Karnataka,P200,Oil,Grocery,Puma,3,86270,5000,183,5,266692.65,Google Pay,,Delhivery,In Transit,,4
+ORD000074,04-02-2024,10-02-2024,C232,Customer 421,Male,41,Chennai,Tamil Nadu,P020,Rice,Grocery,Lakme,5,16659,500,92,5,87031.35,Card,,Ecom Express,Delivered,,3
+ORD000075,20-07-2025,,C401,Customer 11,Male,70,Bengaluru,Karnataka,P028,T-Shirt,Fashion,Boat,5,149523,1000,119,12,836342.08,UPI,Pending,xpressbees,In Transit,,
+ORD000076,12-04-2024,17-04-2024,C269,Customer 94,Female,54,Bengaluru,Karnataka,P047,Sugar,Grocery,Puma,3,21210,0,483,18,75653.34,COD,,Ecom Express,Delivered,,5
+ORD000077,22-01-2024,,C068,Customer 287,Female,28,Hyderabad,Telangana,P028,Lipstick,Beauty,Samsung,4,48515,500,455,12,217296.8,Google Pay,Pending,Ecom Express,Cancelled,,4
+ORD000078,03-07-2024,06-07-2024,C034,Customer 311,Male,53,pune,Maharashtra,P184,Shampoo,Beauty,Boat,5,134052,5000,106,5,698634.3,UPI,,xpressbees,Returned,Damaged,5
+ORD000079,18-09-2025,,C197,Customer 483,Male,38,Chennai,Tamil Nadu,P138,Shampoo,Beauty,Puma,1,105005,1000,222,5,109438.35,COD,Pending,Ecom Express,Cancelled,,4
+ORD000080,16-02-2024,,C380,Customer 141,Female,30,Hyderabad,Telangana,P149,Cookware,Home & Kitchen,Puma,3,128203,5000,40,12,425206.88,UPI,,xpressbees,In Transit,,4
+ORD000081,06-09-2025,12-09-2025,C396,Customer 251,Female,69,Chennai,Tamil Nadu,P159,Cricket Bat,Sports,Nike,1,139169,0,462,18,164764.58,UPI,Pending,Blue Dart,Delivered,,5
+ORD000082,21-11-2024,28-11-2024,C239,Customer 220,Female,40,Mumbai,Maharashtra,P137,Phone,Electronics,Puma,2,59820,500,368,18,141019.44,Card,Pending,Ecom Express,Delivered,,5
+ORD000083,22-01-2024,27-01-2024,C236,Customer 340,Male,63,Bengaluru,Karnataka,P071,T-Shirt,Fashion,Boat,1,126475,0,30,18,149275.9,UPI,Paid,Ecom Express,Returned,Damaged,4
+ORD000084,14-03-2025,,C410,Customer 138,Female,57,Pune,Maharashtra,P144,Phone,Electronics,LG,4,45147,5000,454,18,207729.56,Net Banking,Pending,Delhivery,In Transit,,4
+ORD000085,19-04-2025,,C406,Customer 122,Female,64,Delhi,Delhi,P134,Bottle,Home & Kitchen,Nike,2,54873,5000,327,5,110326.65,Google Pay,Paid,Delhivery,In Transit,,3
+ORD000086,10-01-2024,,C455,Customer 323,Male,39,Chennai,Tamil Nadu,P007,Rice,Grocery,LG,1,42387,0,1,18,50017.84,UPI,Pending,xpressbees,In Transit,,5
+ORD000087,26-04-2025,,C076,Customer 495,Male,24,Chennai,Tamil Nadu,P106,Jeans,Fashion,Boat,5,65817,0,352,12,368969.44,Wallet,Paid,xpressbees,Cancelled,,3
+ORD000088,27-02-2024,,C120,Customer 366,Male,26,Chennai,Tamil Nadu,P159,Phone,Electronics,Apple,3,43392,1000,80,18,152522.08,Net Banking,Paid,Delhivery,In Transit,,5
+ORD000089,12-10-2024,,C491,Customer 126,Male,57,Hyderabad,Telangana,P105,T-Shirt,Fashion,Nike,5,147312,5000,41,18,863289.18,Net Banking,Paid,XpressBees,Cancelled,,3
+ORD000090,21-09-2025,23-09-2025,C116,Customer 15,Male,21,Bengaluru,Karnataka,P068,Shoes,Fashion,Puma,5,18996,500,189,18,111709.42,Net Banking,,Blue Dart,Returned,Damaged,5
+ORD000091,18-07-2025,,C457,Customer 51,Male,28,Delhi,Delhi,P140,Mixer,Home & Kitchen,LG,1,19582,1000,212,18,22176.92,Google Pay,,Ecom Express,Cancelled,,3
+ORD000092,03-07-2024,,C357,Customer 275,Male,45,Mumbai,Maharashtra,P151,Sugar,Grocery,LG,1,22792,1000,397,18,26183.02,Net Banking,Pending,Ecom Express,Cancelled,,3
+ORD000093,16-02-2024,,C070,Customer 237,Female,65,pune,Maharashtra,P176,Cookware,Home & Kitchen,Nike,5,74318,1000,303,5,389437.65,Google Pay,,xpressbees,Cancelled,,5
+ORD000094,25-02-2025,,C261,Customer 192,Male,18,Mumbai,Maharashtra,P015,Mixer,Home & Kitchen,Lakme,2,18903,500,33,18,44060.02,COD,,XpressBees,Cancelled,,3
+ORD000095,27-04-2024,,C194,Customer 341,Female,66,Bengaluru,Karnataka,P030,Earbuds,Electronics,Samsung,2,76044,1000,124,12,169357.44,UPI,,Blue Dart,Cancelled,,3
+ORD000096,11-10-2024,13-10-2024,C260,Customer 207,Male,18,Pune,Maharashtra,P200,Laptop,Electronics,Nike,5,128734,500,62,12,720419.84,Net Banking,Paid,Delhivery,Delivered,,5
+ORD000097,24-11-2025,,C170,Customer 491,Male,69,Delhi,Delhi,P156,Cricket Bat,Sports,Puma,5,74666,1000,304,12,417350.08,Card,Paid,Delhivery,Cancelled,,4
+ORD000098,21-08-2024,23-08-2024,C248,Customer 453,Male,40,Bengaluru,Karnataka,P137,Laptop,Electronics,Nike,3,27094,5000,298,18,90364.4,UPI,Pending,Blue Dart,Returned,Wrong Product,5
+ORD000099,18-09-2024,23-09-2024,C335,Customer 11,Male,25,Mumbai,Maharashtra,P128,Face Wash,Beauty,Samsung,1,124633,1000,420,5,130255.65,Google Pay,Paid,Delhivery,Returned,Size Issue,4
+ORD000100,05-05-2025,,C431,Customer 467,Male,56,Bengaluru,Karnataka,P057,Jeans,Fashion,Boat,3,67011,0,17,5,211102.5,Google Pay,Paid,Delhivery,Cancelled,,3
+ORD000101,11-02-2024,,C386,Customer 63,Female,31,Hyderabad,Telangana,P061,Football,Sports,LG,5,148804,1000,168,12,832370.56,UPI,Pending,xpressbees,Cancelled,,4
+ORD000102,05-01-2024,10-01-2024,C211,Customer 447,Male,65,Mumbai,Maharashtra,P164,Laptop,Electronics,Boat,3,88099,1000,164,5,276634.05,Google Pay,Pending,Blue Dart,Returned,Size Issue,4
+ORD000103,21-09-2024,24-09-2024,C386,Customer 376,Male,30,Mumbai,Maharashtra,P073,Shampoo,Beauty,Apple,2,36160,0,377,18,85782.46,Card,,xpressbees,Returned,Damaged,4
+ORD000104,29-04-2025,03-05-2025,C389,Customer 18,Female,34,Delhi,Delhi,P082,Oil,Grocery,Boat,4,44702,0,421,18,211490.22,COD,Pending,Blue Dart,Returned,Size Issue,5
+ORD000105,17-12-2025,22-12-2025,C414,Customer 389,Male,30,Delhi,Delhi,P195,Sugar,Grocery,Apple,4,40181,1000,58,12,178955.84,Wallet,Pending,Ecom Express,Delivered,,5
+ORD000106,19-04-2024,21-04-2024,C405,Customer 424,Male,38,Pune,Maharashtra,P010,Face Wash,Beauty,Boat,3,144838,500,313,18,512505.86,Google Pay,Paid,Ecom Express,Delivered,,3
+ORD000107,15-05-2025,,C020,Customer 204,Male,40,Pune,Maharashtra,P038,Jeans,Fashion,Samsung,5,125128,1000,483,12,700137.76,Google Pay,,XpressBees,In Transit,,4
+ORD000108,12-08-2024,,C398,Customer 298,Male,28,pune,Maharashtra,P129,Cricket Bat,Sports,Lakme,4,122391,1000,311,12,547540,COD,Pending,Delhivery,In Transit,,5
+ORD000109,15-11-2024,21-11-2024,C365,Customer 403,Female,18,Delhi,Delhi,P007,Jeans,Fashion,Samsung,5,118049,500,311,18,696266.08,Google Pay,,Ecom Express,Delivered,,5
+ORD000110,02-08-2024,,C293,Customer 463,Female,39,Mumbai,Maharashtra,P124,Shampoo,Beauty,Boat,2,123703,1000,199,18,290993.9,UPI,Pending,XpressBees,In Transit,,4
+ORD000111,30-06-2025,,C061,Customer 126,Male,55,Chennai,Tamil Nadu,P124,Face Wash,Beauty,Apple,3,137545,1000,262,5,432491.85,UPI,Pending,Ecom Express,Cancelled,,3
+ORD000112,11-02-2025,,C320,Customer 364,Female,36,Hyderabad,Telangana,P136,Laptop,Electronics,Boat,4,27663,5000,231,5,111177.15,Net Banking,,XpressBees,Cancelled,,4
+ORD000113,23-04-2024,29-04-2024,C175,Customer 211,Female,45,Mumbai,Maharashtra,P171,T-Shirt,Fashion,Boat,5,54703,500,421,18,322654.48,Google Pay,Paid,xpressbees,Returned,Damaged,
+ORD000114,26-10-2025,28-10-2025,C341,Customer 57,Female,50,Chennai,Tamil Nadu,P123,Shampoo,Beauty,Puma,4,49779,0,399,5,209490.75,COD,Pending,Blue Dart,Returned,Wrong Product,4
+ORD000115,06-08-2025,,C122,Customer 119,Female,56,Bengaluru,Karnataka,P105,Cookware,Home & Kitchen,Puma,1,42689,0,179,18,50584.24,COD,Paid,xpressbees,In Transit,,3
+ORD000116,17-03-2024,,C409,Customer 269,Female,43,Pune,Maharashtra,P089,Shoes,Fashion,Nike,1,55430,0,288,12,62404.16,Net Banking,,Delhivery,In Transit,,3
+ORD000117,27-03-2024,,C290,Customer 305,Female,55,Hyderabad,Telangana,P075,Jeans,Fashion,Samsung,5,12566,0,294,18,74486.32,Google Pay,,xpressbees,In Transit,,4
+ORD000118,14-02-2025,20-02-2025,C353,Customer 81,Female,40,Hyderabad,Telangana,P091,Face Wash,Beauty,Boat,1,122908,0,448,5,129523.8,Wallet,Pending,Delhivery,Delivered,,5
+ORD000119,05-05-2024,,C019,Customer 166,Male,43,Hyderabad,Telangana,P118,Lipstick,Beauty,Apple,3,43730,5000,476,5,132999.3,COD,Pending,Delhivery,Cancelled,,3
+ORD000120,17-02-2024,18-02-2024,C135,Customer 213,Female,21,Mumbai,Maharashtra,P120,Earbuds,Electronics,LG,3,22372,0,422,18,79694.84,Wallet,,XpressBees,Returned,Wrong Product,
+ORD000121,15-11-2025,22-11-2025,C156,Customer 354,Female,30,Mumbai,Maharashtra,P127,Lipstick,Beauty,Boat,3,19247,5000,324,5,55718.25,UPI,Pending,xpressbees,Returned,Damaged,5
+ORD000122,03-06-2025,06-06-2025,C184,Customer 369,Female,35,Bengaluru,Karnataka,P010,Rice,Grocery,Lakme,1,18486,5000,133,5,14299.95,UPI,Paid,Blue Dart,Returned,Wrong Product,
+ORD000123,06-04-2025,,C343,Customer 211,Male,41,pune,Maharashtra,P144,Earbuds,Electronics,Nike,5,138017,5000,323,12,767656.96,Card,Pending,xpressbees,In Transit,,4
+ORD000124,21-04-2024,24-04-2024,C064,Customer 437,Female,40,Hyderabad,Telangana,P055,Sugar,Grocery,Nike,1,34387,5000,289,5,31159.8,Net Banking,Pending,xpressbees,Returned,Wrong Product,4
+ORD000125,23-10-2024,24-10-2024,C193,Customer 353,Male,66,pune,Maharashtra,P148,Face Wash,Beauty,Samsung,5,57420,0,494,5,301973.7,Card,,Ecom Express,Delivered,,4
+ORD000126,20-06-2025,,C212,Customer 79,Female,46,Delhi,Delhi,P002,Sugar,Grocery,Apple,3,87917,500,500,5,276938.55,Wallet,Pending,Delhivery,Cancelled,,4
+ORD000127,16-05-2024,17-05-2024,C126,Customer 263,Female,23,Delhi,Delhi,P119,Cricket Bat,Sports,Samsung,1,15582,5000,33,18,12525.7,COD,Paid,XpressBees,Returned,Wrong Product,5
+ORD000128,01-01-2024,06-01-2024,C026,Customer 183,Male,35,pune,Maharashtra,P170,Jeans,Fashion,Apple,3,86723,1000,89,18,305924.44,COD,Pending,Delhivery,Delivered,,4
+ORD000129,02-06-2025,,C185,Customer 349,Female,32,pune,Maharashtra,P104,Shoes,Fashion,LG,4,71782,1000,382,18,338081.8,COD,Pending,XpressBees,Cancelled,,5
+ORD000130,23-06-2024,,C472,Customer 434,Male,51,Delhi,Delhi,P185,Jeans,Fashion,Puma,5,95286,1000,221,12,532729.12,UPI,,Ecom Express,Cancelled,,
+ORD000131,22-06-2024,25-06-2024,C337,Customer 259,Male,44,Hyderabad,Telangana,P104,Earbuds,Electronics,Puma,1,41409,1000,439,5,42890.4,Card,,Blue Dart,Delivered,,5
+ORD000132,01-02-2024,04-02-2024,C050,Customer 48,Male,20,Delhi,Delhi,P142,Jeans,Fashion,LG,5,53473,1000,191,18,314536.08,Net Banking,Pending,Ecom Express,Returned,Wrong Product,5
+ORD000133,16-08-2024,18-08-2024,C270,Customer 227,Male,23,Delhi,Delhi,P053,Cricket Bat,Sports,Lakme,1,24121,1000,466,12,26417.44,Wallet,Paid,Blue Dart,Delivered,,5
+ORD000134,21-09-2024,25-09-2024,C250,Customer 80,Female,61,Chennai,Tamil Nadu,P163,Sugar,Grocery,Puma,2,54371,5000,445,12,116689.44,Wallet,,Blue Dart,Delivered,,4
+ORD000135,01-07-2025,03-07-2025,C069,Customer 37,Male,56,Bengaluru,Karnataka,P056,Cricket Bat,Sports,Apple,1,48024,0,213,18,56919.66,Net Banking,Paid,Ecom Express,Returned,Size Issue,4
+ORD000136,10-12-2025,,C390,Customer 54,Female,61,Hyderabad,Telangana,P100,Laptop,Electronics,LG,2,105431,0,322,5,221743.2,Wallet,Pending,xpressbees,Cancelled,,4
+ORD000137,14-05-2024,20-05-2024,C124,Customer 191,Male,20,Delhi,Delhi,P104,Bottle,Home & Kitchen,Lakme,2,125099,1000,370,18,294490.24,Wallet,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000138,31-05-2025,,C344,Customer 453,Female,69,Chennai,Tamil Nadu,P144,Sugar,Grocery,Apple,1,83943,500,214,12,93695.84,Google Pay,,Ecom Express,In Transit,,5
+ORD000139,24-05-2024,28-05-2024,C308,Customer 361,Female,19,Pune,Maharashtra,P089,Cricket Bat,Sports,LG,1,64267,0,255,5,67748.1,Card,Pending,xpressbees,Delivered,,4
+ORD000140,23-07-2025,29-07-2025,C281,Customer 433,Female,32,Chennai,Tamil Nadu,P166,Rice,Grocery,Samsung,2,66508,1000,393,12,148298.08,Card,,Delhivery,Returned,Damaged,5
+ORD000141,06-01-2024,11-01-2024,C141,Customer 231,Male,28,pune,Maharashtra,P188,Bottle,Home & Kitchen,LG,2,42139,1000,212,5,87664.5,COD,Paid,Delhivery,Returned,Size Issue,3
+ORD000142,24-05-2024,,C193,Customer 403,Female,67,Pune,Maharashtra,P167,Phone,Electronics,Apple,1,113589,0,29,18,134069.24,Wallet,,Ecom Express,In Transit,,5
+ORD000143,23-10-2025,30-10-2025,C421,Customer 491,Female,40,Pune,Maharashtra,P033,T-Shirt,Fashion,Apple,2,55851,5000,134,5,112177.8,COD,Paid,XpressBees,Delivered,,4
+ORD000144,17-04-2024,,C279,Customer 120,Female,32,Hyderabad,Telangana,P066,Oil,Grocery,Puma,1,126840,0,130,18,149824.6,Wallet,,Ecom Express,In Transit,,5
+ORD000145,01-12-2024,04-12-2024,C400,Customer 220,Female,29,Mumbai,Maharashtra,P138,Bottle,Home & Kitchen,Samsung,2,87554,1000,102,12,195115.2,Card,,Blue Dart,Returned,Damaged,3
+ORD000146,20-03-2024,27-03-2024,C419,Customer 179,Male,28,pune,Maharashtra,P115,Laptop,Electronics,Apple,3,20969,5000,495,18,68914.36,Card,Pending,xpressbees,Returned,Wrong Product,
+ORD000147,24-04-2025,26-04-2025,C378,Customer 465,Female,69,Bengaluru,Karnataka,P018,Face Wash,Beauty,LG,5,29686,1000,11,18,173980.38,Wallet,Paid,Delhivery,Delivered,,3
+ORD000148,04-02-2024,05-02-2024,C335,Customer 495,Male,48,Pune,Maharashtra,P123,Yoga Mat,Sports,Lakme,2,117826,0,181,12,264132.96,COD,Pending,Ecom Express,Returned,Damaged,4
+ORD000149,05-06-2024,10-06-2024,C057,Customer 359,Female,44,Bengaluru,Karnataka,P020,Sugar,Grocery,LG,4,122722,5000,234,12,544456.64,Net Banking,Pending,Blue Dart,Returned,Damaged,3
+ORD000150,14-03-2024,,C447,Customer 101,Female,23,pune,Maharashtra,P095,Cricket Bat,Sports,Puma,2,125994,0,13,12,282241.12,COD,,Ecom Express,Cancelled,,5
+ORD000151,05-03-2025,06-03-2025,C122,Customer 137,Male,19,Bengaluru,Karnataka,P144,Shoes,Fashion,Boat,2,117526,5000,3,18,271464.9,Net Banking,Pending,xpressbees,Delivered,,3
+ORD000152,19-06-2024,24-06-2024,C366,Customer 350,Male,58,Delhi,Delhi,P051,Laptop,Electronics,Apple,5,114228,5000,390,12,634513.6,Google Pay,,Delhivery,Delivered,,
+ORD000153,20-02-2024,21-02-2024,C479,Customer 206,Female,45,Delhi,Delhi,P074,Shampoo,Beauty,LG,3,104158,1000,387,5,327454.05,Wallet,,Ecom Express,Delivered,,3
+ORD000154,06-12-2025,,C065,Customer 321,Male,42,Mumbai,Maharashtra,P093,Lipstick,Beauty,Puma,5,95955,0,41,18,566182.88,UPI,Paid,XpressBees,Cancelled,,4
+ORD000155,21-10-2025,24-10-2025,C241,Customer 362,Female,59,Delhi,Delhi,P146,Laptop,Electronics,Boat,4,90625,5000,89,5,375468.45,COD,Paid,Delhivery,Returned,Damaged,3
+ORD000156,30-12-2025,,C399,Customer 489,Female,28,Bengaluru,Karnataka,P051,Yoga Mat,Sports,Samsung,3,24228,500,67,5,75863.55,Card,,Ecom Express,Cancelled,,4
+ORD000157,10-11-2024,17-11-2024,C094,Customer 105,Female,30,Chennai,Tamil Nadu,P027,Sugar,Grocery,Boat,3,49561,5000,337,5,151221,Wallet,,XpressBees,Delivered,,3
+ORD000158,05-11-2025,10-11-2025,C306,Customer 41,Female,70,Chennai,Tamil Nadu,P035,Yoga Mat,Sports,Nike,3,789,5000,475,12,-2416.96,Google Pay,Pending,Delhivery,Delivered,,5
+ORD000159,24-05-2024,30-05-2024,C022,Customer 172,Female,58,Delhi,Delhi,P120,Shampoo,Beauty,Lakme,1,81108,500,390,5,85047.9,Wallet,,Delhivery,Returned,Wrong Product,4
+ORD000160,09-09-2025,11-09-2025,C086,Customer 425,Female,26,pune,Maharashtra,P098,Oil,Grocery,Samsung,1,140200,0,250,12,157304,UPI,Paid,XpressBees,Delivered,,3
+ORD000161,10-04-2024,16-04-2024,C130,Customer 58,Female,62,pune,Maharashtra,P020,Sugar,Grocery,Puma,2,78073,1000,295,5,163213.05,Wallet,,Delhivery,Returned,Damaged,5
+ORD000162,17-05-2025,,C209,Customer 208,Female,33,Pune,Maharashtra,P170,Shampoo,Beauty,Samsung,4,123362,1000,211,12,551778.08,Net Banking,Paid,Delhivery,Cancelled,,4
+ORD000163,10-08-2025,14-08-2025,C489,Customer 318,Female,52,Delhi,Delhi,P146,Face Wash,Beauty,Apple,3,39623,500,170,12,132763.68,Card,Pending,Delhivery,Delivered,,3
+ORD000164,12-06-2024,15-06-2024,C296,Customer 160,Female,41,Delhi,Delhi,P101,Mixer,Home & Kitchen,Apple,5,74532,0,244,18,440026.72,Wallet,,Blue Dart,Delivered,,3
+ORD000165,06-12-2024,,C230,Customer 346,Female,49,Chennai,Tamil Nadu,P133,Phone,Electronics,Boat,2,53960,1000,67,18,126244.66,Wallet,,xpressbees,In Transit,,3
+ORD000166,14-01-2024,,C275,Customer 170,Female,59,Mumbai,Maharashtra,P020,Earbuds,Electronics,LG,3,93502,5000,16,5,289298.1,Google Pay,Pending,Ecom Express,Cancelled,,4
+ORD000167,18-11-2024,,C199,Customer 428,Female,59,Chennai,Tamil Nadu,P132,Laptop,Electronics,Nike,5,64220,5000,244,18,373285.92,Wallet,Paid,Delhivery,Cancelled,,4
+ORD000168,29-11-2024,,C082,Customer 199,Male,64,Delhi,Delhi,P041,Earbuds,Electronics,Boat,5,29719,500,229,18,175022.32,Wallet,,Ecom Express,Cancelled,,3
+ORD000169,21-11-2025,,C461,Customer 112,Male,19,Bengaluru,Karnataka,P194,Cricket Bat,Sports,Nike,4,122561,1000,211,5,513927.75,UPI,Pending,Ecom Express,Cancelled,,3
+ORD000170,27-11-2025,,C100,Customer 364,Female,57,Bengaluru,Karnataka,P083,Laptop,Electronics,LG,5,21562,5000,146,5,108103.8,UPI,Paid,XpressBees,Cancelled,,4
+ORD000171,05-06-2024,,C080,Customer 480,Female,62,Pune,Maharashtra,P123,Football,Sports,Nike,5,91315,0,45,18,538811.6,Wallet,,Blue Dart,In Transit,,5
+ORD000172,17-04-2024,22-04-2024,C273,Customer 162,Male,21,Hyderabad,Telangana,P109,Rice,Grocery,Puma,1,35751,500,16,5,37030.35,Net Banking,Pending,xpressbees,Returned,Size Issue,5
+ORD000173,15-11-2024,,C027,Customer 185,Male,35,Delhi,Delhi,P145,Bottle,Home & Kitchen,Samsung,2,88774,500,203,5,186113.55,Net Banking,,Blue Dart,Cancelled,,4
+ORD000174,11-11-2025,15-11-2025,C254,Customer 146,Female,67,pune,Maharashtra,P055,Lipstick,Beauty,Samsung,1,104999,0,107,5,110361.3,COD,,xpressbees,Delivered,,3
+ORD000175,10-09-2024,16-09-2024,C134,Customer 188,Male,30,Delhi,Delhi,P042,Lipstick,Beauty,Nike,2,47157,500,243,18,110987.26,Card,Paid,Ecom Express,Returned,Damaged,5
+ORD000176,14-10-2024,17-10-2024,C031,Customer 67,Male,42,pune,Maharashtra,P170,Face Wash,Beauty,Samsung,5,101862,5000,268,12,565127.36,COD,,xpressbees,Returned,Damaged,
+ORD000177,15-02-2025,18-02-2025,C119,Customer 476,Male,35,Hyderabad,Telangana,P116,Jeans,Fashion,Nike,1,138324,5000,415,18,157812.02,COD,Paid,xpressbees,Returned,Damaged,4
+ORD000178,06-02-2024,,C221,Customer 305,Male,46,Bengaluru,Karnataka,P047,T-Shirt,Fashion,Nike,1,10081,5000,349,12,6081.6,COD,,Ecom Express,In Transit,,3
+ORD000179,10-03-2024,16-03-2024,C239,Customer 387,Male,44,Hyderabad,Telangana,P012,Cricket Bat,Sports,Puma,4,110691,1000,51,5,463905.75,Wallet,Paid,XpressBees,Delivered,,3
+ORD000180,23-01-2025,,C396,Customer 134,Male,63,Bengaluru,Karnataka,P011,Jeans,Fashion,Apple,1,110288,5000,267,12,118221.6,Google Pay,,Ecom Express,In Transit,,5
+ORD000181,27-04-2025,04-05-2025,C152,Customer 202,Female,57,Delhi,Delhi,P174,Earbuds,Electronics,LG,1,50494,5000,96,5,47869.5,COD,,XpressBees,Delivered,,5
+ORD000182,06-10-2024,,C352,Customer 124,Male,34,pune,Maharashtra,P058,Laptop,Electronics,Samsung,5,79734,500,336,18,470237.08,UPI,Pending,xpressbees,Cancelled,,4
+ORD000183,22-07-2025,26-07-2025,C118,Customer 97,Female,67,Chennai,Tamil Nadu,P153,Jeans,Fashion,Nike,3,18256,500,159,12,60958.24,Wallet,,Ecom Express,Delivered,,3
+ORD000184,31-12-2025,,C261,Customer 207,Male,45,Mumbai,Maharashtra,P035,Laptop,Electronics,Lakme,5,41674,5000,156,5,213702.3,Card,Pending,Blue Dart,Cancelled,,4
+ORD000185,01-09-2024,,C079,Customer 342,Female,39,Bengaluru,Karnataka,P134,Face Wash,Beauty,Apple,4,117106,0,400,5,492265.2,UPI,Paid,xpressbees,Cancelled,,5
+ORD000186,14-05-2024,16-05-2024,C176,Customer 241,Male,65,pune,Maharashtra,P135,Lipstick,Beauty,Samsung,5,90540,0,303,12,507363.36,Google Pay,Pending,Delhivery,Returned,Wrong Product,3
+ORD000187,10-06-2024,12-06-2024,C413,Customer 54,Male,27,Mumbai,Maharashtra,P013,Earbuds,Electronics,Boat,2,100683,0,98,12,225639.68,Google Pay,Pending,Ecom Express,Returned,Wrong Product,3
+ORD000188,17-03-2025,,C066,Customer 225,Female,21,Mumbai,Maharashtra,P170,Phone,Electronics,LG,4,146159,1000,216,18,688945.36,Net Banking,Paid,Ecom Express,Cancelled,,4
+ORD000189,20-12-2025,23-12-2025,C042,Customer 475,Female,59,Pune,Maharashtra,P184,Sugar,Grocery,Apple,5,84870,0,127,5,445700.85,Google Pay,Pending,Ecom Express,Returned,Damaged,4
+ORD000190,21-11-2025,,C346,Customer 110,Female,34,pune,Maharashtra,P193,Phone,Electronics,Nike,4,141625,1000,381,18,667739.58,COD,,XpressBees,In Transit,,4
+ORD000191,07-07-2025,,C053,Customer 280,Male,51,Bengaluru,Karnataka,P070,Rice,Grocery,Boat,4,114494,0,213,18,540663.02,Google Pay,Paid,xpressbees,In Transit,,3
+ORD000192,04-04-2025,06-04-2025,C277,Customer 386,Male,63,Hyderabad,Telangana,P097,Sugar,Grocery,Apple,5,5897,5000,384,18,29345.42,Card,Pending,Ecom Express,Delivered,,5
+ORD000193,06-08-2025,,C334,Customer 151,Male,33,Hyderabad,Telangana,P135,Earbuds,Electronics,Apple,5,18387,500,434,12,102893.28,Wallet,,Ecom Express,Cancelled,,3
+ORD000194,29-07-2025,,C351,Customer 128,Male,52,Bengaluru,Karnataka,P098,T-Shirt,Fashion,Nike,5,122722,1000,429,18,723386.02,COD,,Delhivery,Cancelled,,5
+ORD000195,04-09-2024,,C239,Customer 48,Male,65,Bengaluru,Karnataka,P021,Jeans,Fashion,Samsung,4,12958,0,290,18,61503.96,UPI,Pending,Blue Dart,Cancelled,,5
+ORD000196,22-10-2024,,C427,Customer 326,Female,26,Hyderabad,Telangana,P094,Cricket Bat,Sports,Nike,5,34150,1000,295,12,190450.4,Google Pay,Paid,XpressBees,Cancelled,,
+ORD000197,01-12-2025,,C078,Customer 135,Female,62,Mumbai,Maharashtra,P141,Rice,Grocery,Boat,2,34889,1000,112,18,81290.2,Wallet,Paid,Ecom Express,Cancelled,,4
+ORD000198,12-12-2024,,C286,Customer 136,Female,22,Delhi,Delhi,P158,Mixer,Home & Kitchen,LG,1,18668,0,215,12,21148.96,COD,Pending,xpressbees,In Transit,,5
+ORD000199,02-11-2025,,C033,Customer 133,Male,65,Bengaluru,Karnataka,P193,Phone,Electronics,Samsung,2,87960,0,132,12,197178.24,Wallet,,Ecom Express,In Transit,,4
+ORD000200,03-10-2024,,C410,Customer 147,Female,57,Hyderabad,Telangana,P036,Cookware,Home & Kitchen,Lakme,4,78810,5000,270,5,326035.5,Wallet,Pending,Delhivery,Cancelled,,5
+ORD000201,05-02-2025,,C147,Customer 487,Male,35,Chennai,Tamil Nadu,P039,Shoes,Fashion,Boat,2,35843,1000,369,12,79581.6,Wallet,,Delhivery,Cancelled,,5
+ORD000202,27-04-2025,,C279,Customer 15,Female,54,Hyderabad,Telangana,P001,Sugar,Grocery,Nike,5,137733,500,424,12,771219.68,Card,,Ecom Express,In Transit,,3
+ORD000203,07-01-2025,,C178,Customer 229,Male,24,Delhi,Delhi,P131,Cookware,Home & Kitchen,Lakme,5,73379,5000,362,12,405727.84,COD,Paid,xpressbees,In Transit,,3
+ORD000204,16-07-2024,,C105,Customer 449,Female,55,Mumbai,Maharashtra,P026,Cricket Bat,Sports,Boat,2,9612,0,153,18,22864.86,Wallet,Pending,Blue Dart,In Transit,,5
+ORD000205,11-10-2025,,C028,Customer 322,Female,32,Mumbai,Maharashtra,P193,Cookware,Home & Kitchen,Nike,3,148474,5000,493,18,520279.7,Wallet,Paid,Ecom Express,Cancelled,,3
+ORD000206,08-09-2025,12-09-2025,C119,Customer 319,Male,50,Pune,Maharashtra,P137,Laptop,Electronics,Samsung,4,98797,500,471,12,442578.08,Wallet,Pending,XpressBees,Delivered,,5
+ORD000207,19-02-2024,,C433,Customer 141,Female,31,Pune,Maharashtra,P008,T-Shirt,Fashion,LG,4,142365,5000,144,18,666232.72,Wallet,Paid,XpressBees,In Transit,,3
+ORD000208,12-04-2025,,C231,Customer 131,Male,29,Pune,Maharashtra,P089,Shoes,Fashion,Puma,4,31429,5000,127,5,126885.15,Net Banking,,Ecom Express,Cancelled,,5
+ORD000209,07-11-2025,13-11-2025,C283,Customer 384,Female,38,Mumbai,Maharashtra,P077,Lipstick,Beauty,Apple,3,1066,500,34,5,2868.6,UPI,,xpressbees,Delivered,,3
+ORD000210,12-11-2024,,C097,Customer 344,Male,70,Chennai,Tamil Nadu,P024,Mixer,Home & Kitchen,Samsung,3,111274,5000,14,18,388026.48,Net Banking,Paid,xpressbees,Cancelled,,5
+ORD000211,01-12-2024,03-12-2024,C321,Customer 81,Male,36,Pune,Maharashtra,P112,Football,Sports,Samsung,3,60076,500,482,5,189220.5,UPI,Paid,XpressBees,Returned,Size Issue,3
+ORD000212,05-04-2024,12-04-2024,C237,Customer 2,Female,19,Bengaluru,Karnataka,P159,Oil,Grocery,LG,3,146905,500,210,18,519701.5,Google Pay,Paid,Blue Dart,Delivered,,4
+ORD000213,01-09-2025,08-09-2025,C031,Customer 334,Female,21,Bengaluru,Karnataka,P062,Phone,Electronics,Puma,3,7081,5000,13,5,17068.8,Google Pay,,Delhivery,Delivered,,4
+ORD000214,18-07-2025,,C365,Customer 429,Female,35,Hyderabad,Telangana,P049,Cricket Bat,Sports,LG,5,117110,5000,142,5,609726.6,Net Banking,,xpressbees,In Transit,,3
+ORD000215,23-01-2024,26-01-2024,C004,Customer 304,Male,70,Chennai,Tamil Nadu,P053,Shoes,Fashion,Samsung,5,14496,1000,155,12,80231.2,Wallet,Pending,XpressBees,Delivered,,4
+ORD000216,13-02-2025,19-02-2025,C151,Customer 266,Female,25,Bengaluru,Karnataka,P057,Sugar,Grocery,Boat,4,63406,500,138,12,283653.44,UPI,,Ecom Express,Returned,Size Issue,5
+ORD000217,25-01-2025,,C237,Customer 90,Male,21,pune,Maharashtra,P047,Rice,Grocery,Lakme,4,25595,500,244,12,114378.88,Card,,Ecom Express,Cancelled,,4
+ORD000218,12-01-2025,,C007,Customer 492,Female,41,Bengaluru,Karnataka,P040,Jeans,Fashion,LG,3,65907,500,28,12,220918.88,Wallet,,Delhivery,In Transit,,
+ORD000219,12-02-2024,,C302,Customer 198,Male,45,Pune,Maharashtra,P183,Football,Sports,Boat,2,118293,500,31,18,278618.06,COD,Pending,Ecom Express,Cancelled,,4
+ORD000220,25-08-2024,,C328,Customer 413,Male,61,pune,Maharashtra,P033,Bottle,Home & Kitchen,Puma,5,57674,0,499,5,303312.45,Google Pay,Pending,Ecom Express,In Transit,,5
+ORD000221,28-04-2024,,C282,Customer 3,Female,39,Mumbai,Maharashtra,P142,Sugar,Grocery,LG,5,31090,5000,281,5,158267.55,Card,Paid,xpressbees,Cancelled,,3
+ORD000222,07-07-2024,11-07-2024,C219,Customer 117,Male,43,pune,Maharashtra,P020,Oil,Grocery,Nike,4,146503,1000,213,12,655452,Net Banking,Pending,Blue Dart,Delivered,,5
+ORD000223,23-03-2024,27-03-2024,C247,Customer 397,Male,26,Mumbai,Maharashtra,P191,Shoes,Fashion,Samsung,3,137556,500,170,12,461818.56,Net Banking,Paid,xpressbees,Returned,Size Issue,5
+ORD000224,05-07-2025,06-07-2025,C482,Customer 216,Female,59,Delhi,Delhi,P011,Cricket Bat,Sports,Lakme,2,16922,0,177,5,35722.05,Wallet,Paid,xpressbees,Delivered,,5
+ORD000225,09-01-2025,,C293,Customer 154,Male,60,pune,Maharashtra,P060,Rice,Grocery,Samsung,2,54868,1000,278,12,122095.68,Card,Pending,Ecom Express,Cancelled,,4
+ORD000226,18-03-2024,23-03-2024,C100,Customer 268,Female,21,Mumbai,Maharashtra,P138,Cookware,Home & Kitchen,LG,2,45987,0,197,12,103231.52,Net Banking,Pending,Delhivery,Returned,Size Issue,5
+ORD000227,09-10-2024,10-10-2024,C130,Customer 159,Female,30,pune,Maharashtra,P173,Sugar,Grocery,Boat,3,54926,500,8,5,172500.3,Net Banking,,Ecom Express,Delivered,,3
+ORD000228,05-01-2024,12-01-2024,C355,Customer 334,Male,52,Hyderabad,Telangana,P026,T-Shirt,Fashion,Apple,2,131576,500,151,18,310107.54,Net Banking,Paid,Blue Dart,Delivered,,4
+ORD000229,29-04-2024,06-05-2024,C423,Customer 66,Female,44,Hyderabad,Telangana,P182,Oil,Grocery,Apple,2,68410,0,286,5,143961.3,Google Pay,Paid,Delhivery,Delivered,,5
+ORD000230,04-10-2025,11-10-2025,C243,Customer 109,Female,28,Hyderabad,Telangana,P194,Sugar,Grocery,Puma,2,29488,5000,391,5,57085.35,Net Banking,Paid,Blue Dart,Returned,Wrong Product,5
+ORD000231,06-04-2024,09-04-2024,C185,Customer 257,Male,51,Mumbai,Maharashtra,P051,Football,Sports,LG,1,114871,500,324,18,135340.1,Wallet,Paid,Ecom Express,Delivered,,4
+ORD000232,12-03-2025,,C074,Customer 176,Male,43,Mumbai,Maharashtra,P179,Phone,Electronics,Lakme,1,124990,500,449,18,147428.02,Google Pay,Paid,xpressbees,Cancelled,,
+ORD000233,04-07-2024,,C139,Customer 424,Female,30,Pune,Maharashtra,P072,Football,Sports,LG,2,24089,500,77,5,50142.75,Wallet,,XpressBees,Cancelled,,4
+ORD000234,13-02-2025,,C422,Customer 374,Female,57,pune,Maharashtra,P112,Oil,Grocery,Nike,2,64680,5000,128,5,130712.4,Card,,xpressbees,In Transit,,4
+ORD000235,19-05-2025,21-05-2025,C228,Customer 251,Female,42,Mumbai,Maharashtra,P087,T-Shirt,Fashion,Samsung,2,110532,1000,497,12,247028.32,Card,,XpressBees,Returned,Size Issue,3
+ORD000236,28-12-2025,03-01-2026,C147,Customer 373,Female,41,Mumbai,Maharashtra,P095,Football,Sports,Boat,3,131550,0,209,12,442242.08,Wallet,,Ecom Express,Returned,Wrong Product,3
+ORD000237,08-11-2024,09-11-2024,C032,Customer 352,Male,55,Bengaluru,Karnataka,P121,Yoga Mat,Sports,Lakme,5,33167,500,358,5,173977.65,Wallet,,Delhivery,Delivered,,3
+ORD000238,01-07-2025,,C150,Customer 311,Male,48,Mumbai,Maharashtra,P176,T-Shirt,Fashion,Puma,3,128718,0,268,5,405743.1,Card,Paid,Ecom Express,Cancelled,,3
+ORD000239,27-10-2024,02-11-2024,C175,Customer 28,Female,36,Chennai,Tamil Nadu,P003,Shoes,Fashion,Samsung,4,129467,5000,259,12,574702.24,Wallet,,Ecom Express,Returned,Wrong Product,3
+ORD000240,12-04-2024,14-04-2024,C046,Customer 3,Female,66,Mumbai,Maharashtra,P198,Rice,Grocery,Lakme,4,122441,0,206,5,514468.5,Wallet,Pending,Ecom Express,Returned,Size Issue,3
+ORD000241,31-03-2025,02-04-2025,C056,Customer 18,Male,30,Mumbai,Maharashtra,P071,Laptop,Electronics,Boat,5,80782,5000,192,18,470940.36,Wallet,Paid,xpressbees,Returned,Size Issue,4
+ORD000242,18-11-2024,21-11-2024,C238,Customer 310,Female,23,Pune,Maharashtra,P114,Football,Sports,Lakme,1,57704,5000,428,18,62695.76,COD,Paid,Ecom Express,Returned,Size Issue,3
+ORD000243,10-03-2024,14-03-2024,C101,Customer 181,Female,69,Delhi,Delhi,P055,Bottle,Home & Kitchen,Puma,1,61155,1000,324,18,71365.22,COD,Pending,Delhivery,Returned,Size Issue,4
+ORD000244,16-09-2025,23-09-2025,C004,Customer 447,Female,36,Chennai,Tamil Nadu,P070,Oil,Grocery,Lakme,4,123914,500,180,12,554776.32,Net Banking,Pending,XpressBees,Delivered,,5
+ORD000245,28-07-2025,29-07-2025,C023,Customer 102,Female,51,Hyderabad,Telangana,P137,Oil,Grocery,Lakme,2,13921,500,479,12,31159.52,Google Pay,Pending,xpressbees,Returned,Wrong Product,5
+ORD000246,26-03-2024,,C357,Customer 258,Male,21,Chennai,Tamil Nadu,P143,Mixer,Home & Kitchen,Lakme,2,59210,1000,31,18,138592.18,Google Pay,Paid,Delhivery,In Transit,,5
+ORD000247,12-01-2025,,C119,Customer 375,Male,66,pune,Maharashtra,P075,Bottle,Home & Kitchen,Nike,5,125674,500,349,18,741298.42,Google Pay,,Blue Dart,Cancelled,,3
+ORD000248,27-09-2025,,C253,Customer 55,Female,33,Mumbai,Maharashtra,P164,Oil,Grocery,LG,1,129914,1000,405,12,144837.28,UPI,Pending,XpressBees,Cancelled,,4
+ORD000249,08-08-2025,,C389,Customer 332,Female,23,Bengaluru,Karnataka,P196,Football,Sports,Apple,1,68163,1000,266,5,70800.45,UPI,Paid,xpressbees,In Transit,,3
+ORD000250,28-01-2024,01-02-2024,C462,Customer 356,Male,42,Delhi,Delhi,P175,Laptop,Electronics,Boat,3,62329,0,60,18,220715.46,Wallet,Pending,Delhivery,Returned,Wrong Product,4
+ORD000251,25-05-2025,,C082,Customer 323,Female,64,Mumbai,Maharashtra,P049,Mixer,Home & Kitchen,Lakme,5,68470,5000,342,5,354576.6,COD,Pending,xpressbees,In Transit,,5
+ORD000252,29-05-2024,01-06-2024,C217,Customer 317,Male,46,pune,Maharashtra,P036,Earbuds,Electronics,Apple,4,45750,1000,235,18,215037.3,Card,Pending,Ecom Express,Delivered,,3
+ORD000253,08-09-2025,,C125,Customer 388,Female,57,Chennai,Tamil Nadu,P134,Cricket Bat,Sports,LG,4,109701,0,56,12,491523.2,COD,,Delhivery,Cancelled,,4
+ORD000254,07-07-2025,,C391,Customer 275,Female,58,Hyderabad,Telangana,P089,Laptop,Electronics,Samsung,1,124920,1000,268,5,130397.4,Card,,XpressBees,In Transit,,3
+ORD000255,06-12-2025,,C126,Customer 490,Female,63,Bengaluru,Karnataka,P176,Cricket Bat,Sports,Samsung,1,46926,0,362,18,55799.84,COD,,XpressBees,Cancelled,,4
+ORD000256,17-05-2025,18-05-2025,C246,Customer 185,Female,46,Chennai,Tamil Nadu,P020,Face Wash,Beauty,Boat,5,92338,5000,94,12,511598.08,Card,Paid,xpressbees,Returned,Damaged,4
+ORD000257,03-12-2025,,C492,Customer 25,Male,30,Bengaluru,Karnataka,P133,Phone,Electronics,Lakme,1,91219,0,354,5,96151.65,UPI,Paid,Delhivery,Cancelled,,4
+ORD000258,16-04-2025,19-04-2025,C134,Customer 315,Male,69,Pune,Maharashtra,P006,Phone,Electronics,Boat,2,112128,1000,145,18,263613.18,Google Pay,Paid,Ecom Express,Delivered,,4
+ORD000259,07-11-2025,12-11-2025,C452,Customer 493,Male,47,Delhi,Delhi,P015,Shoes,Fashion,Apple,2,24318,500,40,5,50584.8,Wallet,Pending,Blue Dart,Delivered,,3
+ORD000260,27-03-2024,,C032,Customer 19,Male,29,Pune,Maharashtra,P152,Lipstick,Beauty,Samsung,3,63928,1000,113,5,200441.85,Wallet,,Blue Dart,In Transit,,3
+ORD000261,07-04-2025,,C238,Customer 401,Male,68,Mumbai,Maharashtra,P069,Lipstick,Beauty,Apple,5,108868,0,396,5,571972.8,Wallet,,Ecom Express,In Transit,,4
+ORD000262,18-04-2025,25-04-2025,C181,Customer 103,Female,41,Pune,Maharashtra,P134,Yoga Mat,Sports,Samsung,4,14884,0,4,18,70257.2,UPI,,Delhivery,Delivered,,3
+ORD000263,24-10-2025,,C018,Customer 187,Female,57,Chennai,Tamil Nadu,P015,Sugar,Grocery,LG,1,106333,1000,200,18,124528.94,COD,Paid,Ecom Express,In Transit,,
+ORD000264,15-01-2025,16-01-2025,C281,Customer 133,Female,43,Mumbai,Maharashtra,P198,Cricket Bat,Sports,Nike,4,110303,0,169,18,520829.58,Wallet,Paid,xpressbees,Returned,Wrong Product,3
+ORD000265,02-01-2025,,C135,Customer 336,Male,43,Pune,Maharashtra,P072,Shoes,Fashion,Lakme,3,114026,0,339,18,404052.06,UPI,,Delhivery,In Transit,,4
+ORD000266,25-09-2025,,C414,Customer 267,Male,39,Hyderabad,Telangana,P061,Mixer,Home & Kitchen,Apple,2,135930,1000,343,12,303747.36,Net Banking,,xpressbees,In Transit,,3
+ORD000267,06-12-2025,,C116,Customer 495,Male,37,Hyderabad,Telangana,P155,Oil,Grocery,LG,4,34203,5000,19,5,138422.55,Wallet,,XpressBees,In Transit,,4
+ORD000268,21-03-2025,26-03-2025,C182,Customer 243,Male,55,Delhi,Delhi,P180,Mixer,Home & Kitchen,Boat,2,130960,1000,478,5,274467.9,COD,,XpressBees,Returned,Size Issue,4
+ORD000269,17-07-2024,22-07-2024,C400,Customer 456,Female,40,Mumbai,Maharashtra,P080,Sugar,Grocery,Lakme,5,88262,1000,154,18,519747.52,Wallet,Paid,Ecom Express,Returned,Damaged,5
+ORD000270,28-03-2024,03-04-2024,C170,Customer 236,Female,28,Pune,Maharashtra,P001,Oil,Grocery,Samsung,4,22333,5000,26,12,94480.96,Card,Pending,xpressbees,Returned,Size Issue,5
+ORD000271,22-09-2025,,C082,Customer 429,Female,21,Hyderabad,Telangana,P098,Mixer,Home & Kitchen,Lakme,4,90442,500,227,5,379569.75,Net Banking,,Ecom Express,In Transit,,4
+ORD000272,04-08-2024,,C123,Customer 383,Male,23,Mumbai,Maharashtra,P169,Yoga Mat,Sports,Boat,3,504,1000,310,18,969.96,UPI,Pending,XpressBees,In Transit,,4
+ORD000273,15-06-2024,17-06-2024,C271,Customer 372,Female,23,Delhi,Delhi,P005,T-Shirt,Fashion,LG,1,32224,1000,40,5,32827.2,COD,Paid,Ecom Express,Returned,Wrong Product,3
+ORD000274,25-08-2024,,C127,Customer 456,Male,43,Delhi,Delhi,P094,Face Wash,Beauty,Lakme,5,70937,1000,191,18,417573.68,UPI,,Ecom Express,In Transit,,3
+ORD000275,17-10-2024,23-10-2024,C174,Customer 332,Male,46,Chennai,Tamil Nadu,P062,Yoga Mat,Sports,Boat,5,11361,5000,355,18,61548.8,Wallet,,XpressBees,Returned,Damaged,4
+ORD000276,01-07-2024,,C461,Customer 486,Female,42,pune,Maharashtra,P038,Cookware,Home & Kitchen,LG,1,53612,0,434,5,56748.3,COD,,Delhivery,Cancelled,,3
+ORD000277,01-10-2024,,C358,Customer 14,Male,18,Bengaluru,Karnataka,P019,Earbuds,Electronics,LG,2,96100,500,412,18,226692.16,Google Pay,Paid,Blue Dart,Cancelled,,3
+ORD000278,22-08-2025,23-08-2025,C271,Customer 313,Male,20,Pune,Maharashtra,P186,Rice,Grocery,Puma,1,90825,0,305,12,102065.6,Card,,XpressBees,Delivered,,5
+ORD000279,13-01-2025,,C220,Customer 204,Female,29,Chennai,Tamil Nadu,P038,Oil,Grocery,Samsung,5,137074,0,434,12,768100.48,Card,,Delhivery,Cancelled,,
+ORD000280,02-02-2024,,C072,Customer 13,Male,34,Mumbai,Maharashtra,P025,Phone,Electronics,Boat,1,39194,1000,41,12,42823.2,COD,,Ecom Express,In Transit,,4
+ORD000281,01-07-2025,,C246,Customer 485,Male,33,Bengaluru,Karnataka,P153,Phone,Electronics,LG,2,6308,0,51,5,13300.35,Google Pay,,Delhivery,Cancelled,,5
+ORD000282,30-01-2024,31-01-2024,C172,Customer 280,Male,62,Chennai,Tamil Nadu,P073,Cricket Bat,Sports,Nike,3,104401,0,349,12,351178.24,Net Banking,Paid,xpressbees,Delivered,,5
+ORD000283,11-08-2025,17-08-2025,C435,Customer 459,Female,18,pune,Maharashtra,P175,Bottle,Home & Kitchen,LG,5,43510,1000,212,5,227600.1,Net Banking,Pending,Blue Dart,Delivered,,4
+ORD000284,12-11-2024,18-11-2024,C347,Customer 140,Male,58,Pune,Maharashtra,P067,Earbuds,Electronics,Puma,5,23753,5000,223,5,119687.4,UPI,Paid,xpressbees,Delivered,,5
+ORD000285,10-04-2025,,C294,Customer 68,Female,48,Mumbai,Maharashtra,P196,Lipstick,Beauty,LG,1,24222,1000,469,12,26533.92,Card,Pending,Ecom Express,Cancelled,,4
+ORD000286,19-11-2024,,C066,Customer 131,Female,49,Bengaluru,Karnataka,P077,Football,Sports,Puma,1,50682,1000,370,5,52554.6,Wallet,Pending,Delhivery,Cancelled,,5
+ORD000287,26-02-2025,04-03-2025,C317,Customer 483,Female,50,Delhi,Delhi,P131,Cookware,Home & Kitchen,Apple,2,128575,5000,28,5,264786.9,COD,Pending,Blue Dart,Returned,Size Issue,3
+ORD000288,13-10-2024,16-10-2024,C401,Customer 214,Female,58,Mumbai,Maharashtra,P115,Mixer,Home & Kitchen,Nike,3,6704,1000,309,5,20392.05,Net Banking,Paid,Ecom Express,Delivered,,5
+ORD000289,18-06-2025,19-06-2025,C142,Customer 190,Female,55,pune,Maharashtra,P025,T-Shirt,Fashion,Lakme,2,44009,1000,79,18,102774.46,Net Banking,Paid,Delhivery,Returned,Size Issue,4
+ORD000290,15-05-2025,,C339,Customer 363,Male,55,Pune,Maharashtra,P182,Cookware,Home & Kitchen,Nike,3,61195,5000,351,18,211144.48,UPI,Paid,Blue Dart,Cancelled,,4
+ORD000291,23-11-2024,,C405,Customer 421,Female,57,Chennai,Tamil Nadu,P191,Laptop,Electronics,Lakme,4,103773,0,263,12,465197.6,Wallet,Pending,xpressbees,In Transit,,3
+ORD000292,27-04-2025,03-05-2025,C440,Customer 376,Male,54,Chennai,Tamil Nadu,P168,Earbuds,Electronics,Samsung,3,80936,1000,216,12,271066.88,Card,,Ecom Express,Returned,Wrong Product,5
+ORD000293,13-07-2024,15-07-2024,C483,Customer 314,Female,28,pune,Maharashtra,P187,Jeans,Fashion,Lakme,3,54356,5000,69,12,177113.44,Net Banking,Paid,Delhivery,Delivered,,5
+ORD000294,19-05-2024,,C413,Customer 103,Male,70,Bengaluru,Karnataka,P092,Sugar,Grocery,Lakme,1,116652,500,213,12,130328.8,Card,,Blue Dart,Cancelled,,4
+ORD000295,08-02-2024,09-02-2024,C038,Customer 216,Male,43,Delhi,Delhi,P059,Rice,Grocery,Apple,4,111942,5000,384,12,496330.24,Google Pay,Pending,Delhivery,Returned,Size Issue,3
+ORD000296,10-09-2025,,C181,Customer 313,Male,62,Bengaluru,Karnataka,P181,Laptop,Electronics,Nike,1,32057,0,328,12,36271.2,Card,Paid,xpressbees,Cancelled,,5
+ORD000297,12-09-2024,16-09-2024,C326,Customer 114,Female,32,Chennai,Tamil Nadu,P061,Cricket Bat,Sports,Boat,2,145074,1000,351,18,341608.82,COD,Paid,Ecom Express,Returned,Size Issue,4
+ORD000298,04-08-2025,,C360,Customer 22,Male,43,Hyderabad,Telangana,P057,Cricket Bat,Sports,LG,1,80173,500,54,12,89294.24,UPI,,Delhivery,Cancelled,,4
+ORD000299,20-09-2025,,C478,Customer 473,Male,21,Hyderabad,Telangana,P047,Jeans,Fashion,Lakme,2,119066,1000,70,12,265666.24,Wallet,,Blue Dart,Cancelled,,3
+ORD000300,22-04-2024,26-04-2024,C173,Customer 184,Male,42,pune,Maharashtra,P077,Rice,Grocery,Samsung,2,43168,5000,12,12,91109.76,Wallet,,xpressbees,Returned,Wrong Product,4
+ORD000301,10-01-2025,,C463,Customer 448,Female,23,Bengaluru,Karnataka,P078,Shoes,Fashion,Puma,3,4925,5000,75,18,11623,Wallet,Paid,xpressbees,In Transit,,5
+ORD000302,05-09-2025,12-09-2025,C232,Customer 122,Female,60,pune,Maharashtra,P004,T-Shirt,Fashion,Apple,4,118825,500,106,12,531894.72,Net Banking,Paid,xpressbees,Returned,Damaged,4
+ORD000303,23-08-2024,30-08-2024,C331,Customer 239,Male,35,Delhi,Delhi,P077,Shampoo,Beauty,Boat,5,34764,500,461,18,205061.58,COD,,xpressbees,Returned,Wrong Product,5
+ORD000304,01-08-2024,06-08-2024,C045,Customer 43,Female,23,Bengaluru,Karnataka,P055,Face Wash,Beauty,Lakme,4,107588,5000,359,18,502338.98,Card,,xpressbees,Delivered,,4
+ORD000305,14-04-2024,,C285,Customer 50,Male,51,Hyderabad,Telangana,P092,Mixer,Home & Kitchen,Puma,2,137896,5000,149,12,303453.92,COD,Paid,xpressbees,Cancelled,,3
+ORD000306,07-08-2024,,C437,Customer 470,Male,24,Pune,Maharashtra,P176,Shampoo,Beauty,Apple,3,110281,5000,186,12,365152.48,Card,,Delhivery,In Transit,,4
+ORD000307,20-02-2025,24-02-2025,C270,Customer 64,Male,37,Delhi,Delhi,P078,Cricket Bat,Sports,Lakme,5,8806,0,441,18,52475.78,Net Banking,Paid,Delhivery,Delivered,,4
+ORD000308,04-04-2024,09-04-2024,C103,Customer 144,Male,51,pune,Maharashtra,P087,Shampoo,Beauty,Boat,3,136950,5000,55,5,426200.25,Wallet,,XpressBees,Returned,Wrong Product,4
+ORD000309,11-09-2025,17-09-2025,C388,Customer 58,Female,61,Bengaluru,Karnataka,P176,T-Shirt,Fashion,Boat,3,16136,1000,282,5,50074.5,COD,Paid,XpressBees,Delivered,,4
+ORD000310,31-10-2025,04-11-2025,C068,Customer 279,Female,52,Delhi,Delhi,P084,Face Wash,Beauty,Samsung,1,26824,1000,434,5,27570.9,Card,Paid,Ecom Express,Returned,Wrong Product,3
+ORD000311,29-06-2025,04-07-2025,C256,Customer 238,Male,69,Bengaluru,Karnataka,P122,Lipstick,Beauty,Samsung,4,66959,0,470,12,300502.72,Wallet,Paid,Ecom Express,Delivered,,3
+ORD000312,24-12-2025,,C243,Customer 374,Female,58,pune,Maharashtra,P144,Shoes,Fashion,Boat,4,131965,500,340,12,591024,Net Banking,,Delhivery,In Transit,,3
+ORD000313,01-04-2025,,C123,Customer 301,Female,65,Hyderabad,Telangana,P173,Phone,Electronics,Nike,4,88405,0,382,18,417722.36,Card,Pending,xpressbees,Cancelled,,5
+ORD000314,08-11-2025,09-11-2025,C437,Customer 74,Male,27,Pune,Maharashtra,P120,Lipstick,Beauty,Apple,1,104755,1000,477,18,122993.76,Card,,Blue Dart,Returned,Damaged,5
+ORD000315,15-12-2024,,C256,Customer 460,Male,59,Bengaluru,Karnataka,P058,Bottle,Home & Kitchen,Boat,5,5626,0,428,5,29985.9,Wallet,Paid,XpressBees,Cancelled,,3
+ORD000316,23-09-2024,28-09-2024,C300,Customer 280,Male,64,Hyderabad,Telangana,P195,T-Shirt,Fashion,Puma,5,74999,5000,377,5,388890.6,Card,,XpressBees,Delivered,,5
+ORD000317,28-01-2024,31-01-2024,C381,Customer 226,Male,38,Chennai,Tamil Nadu,P064,Mixer,Home & Kitchen,Samsung,5,94471,0,173,18,557583.04,Google Pay,Pending,Ecom Express,Delivered,,4
+ORD000318,13-09-2024,16-09-2024,C125,Customer 29,Male,61,pune,Maharashtra,P178,Bottle,Home & Kitchen,Boat,4,51396,1000,340,18,241810.32,Google Pay,Paid,Delhivery,Returned,Wrong Product,5
+ORD000319,31-01-2025,,C067,Customer 57,Male,66,Bengaluru,Karnataka,P096,Cookware,Home & Kitchen,Lakme,4,48127,1000,42,18,226029,COD,Pending,XpressBees,In Transit,,3
+ORD000320,18-08-2024,,C480,Customer 77,Male,37,Delhi,Delhi,P032,Football,Sports,Puma,3,6951,500,99,5,21474.6,Card,,XpressBees,In Transit,,5
+ORD000321,10-02-2025,17-02-2025,C332,Customer 313,Male,42,Bengaluru,Karnataka,P015,Earbuds,Electronics,Boat,1,70182,1000,267,5,72921.45,UPI,Paid,Blue Dart,Delivered,,3
+ORD000322,03-07-2025,,C048,Customer 458,Female,70,Pune,Maharashtra,P188,Cricket Bat,Sports,Boat,5,126315,500,128,12,706947.36,COD,Paid,XpressBees,Cancelled,,5
+ORD000323,16-10-2024,22-10-2024,C061,Customer 36,Female,26,Mumbai,Maharashtra,P008,Jeans,Fashion,Boat,3,86443,1000,256,5,271514.25,Wallet,,xpressbees,Returned,Wrong Product,
+ORD000324,16-12-2025,,C451,Customer 189,Female,54,Pune,Maharashtra,P170,Jeans,Fashion,LG,3,38024,500,394,5,119664.3,Wallet,,XpressBees,Cancelled,,3
+ORD000325,16-10-2025,18-10-2025,C001,Customer 412,Male,62,pune,Maharashtra,P185,Face Wash,Beauty,Apple,2,17557,0,250,12,39607.68,Wallet,Pending,Ecom Express,Returned,Wrong Product,5
+ORD000326,05-01-2024,,C224,Customer 79,Male,69,Hyderabad,Telangana,P061,Cookware,Home & Kitchen,Samsung,5,21553,5000,462,5,108388.35,UPI,,Ecom Express,In Transit,,4
+ORD000327,23-01-2024,,C212,Customer 481,Female,20,Pune,Maharashtra,P117,Laptop,Electronics,Lakme,3,56576,500,393,5,178102.05,Card,,Ecom Express,Cancelled,,3
+ORD000328,06-10-2025,07-10-2025,C206,Customer 264,Female,50,Pune,Maharashtra,P015,T-Shirt,Fashion,Lakme,5,56313,500,390,12,315229.6,UPI,Paid,Ecom Express,Returned,Wrong Product,4
+ORD000329,08-03-2024,,C455,Customer 494,Female,61,Bengaluru,Karnataka,P169,Bottle,Home & Kitchen,Lakme,3,105218,0,178,12,353731.84,Wallet,Paid,Blue Dart,In Transit,,3
+ORD000330,22-09-2025,,C233,Customer 109,Female,60,Pune,Maharashtra,P005,Shoes,Fashion,Boat,1,89965,0,286,12,101081.12,COD,,xpressbees,In Transit,,3
+ORD000331,07-12-2024,09-12-2024,C146,Customer 466,Female,57,Bengaluru,Karnataka,P049,Jeans,Fashion,LG,1,123134,5000,34,12,132348.16,UPI,,XpressBees,Delivered,,3
+ORD000332,10-05-2025,15-05-2025,C222,Customer 225,Male,60,Pune,Maharashtra,P192,Laptop,Electronics,Nike,1,6281,1000,485,18,6803.88,UPI,,xpressbees,Returned,Wrong Product,5
+ORD000333,28-05-2025,,C125,Customer 461,Female,39,Mumbai,Maharashtra,P139,Laptop,Electronics,LG,2,3703,500,480,18,8715.48,Wallet,,XpressBees,In Transit,,5
+ORD000334,02-05-2024,08-05-2024,C447,Customer 254,Male,31,Mumbai,Maharashtra,P156,Mixer,Home & Kitchen,Lakme,1,14045,1000,39,5,13738.2,UPI,,xpressbees,Returned,Damaged,3
+ORD000335,04-07-2025,08-07-2025,C187,Customer 495,Male,58,Mumbai,Maharashtra,P008,Face Wash,Beauty,Lakme,4,72835,0,239,18,344063.22,Net Banking,,Blue Dart,Delivered,,
+ORD000336,16-04-2024,21-04-2024,C238,Customer 319,Female,32,Chennai,Tamil Nadu,P102,Sugar,Grocery,Apple,5,34313,500,352,18,202272.06,Net Banking,,Blue Dart,Delivered,,5
+ORD000337,27-12-2025,,C299,Customer 191,Female,57,Mumbai,Maharashtra,P102,T-Shirt,Fashion,Lakme,2,47941,5000,443,5,95891.25,Card,Pending,xpressbees,Cancelled,,4
+ORD000338,25-08-2024,01-09-2024,C384,Customer 11,Male,38,Bengaluru,Karnataka,P134,Bottle,Home & Kitchen,Samsung,2,67650,0,255,18,159954.9,Net Banking,,xpressbees,Delivered,,3
+ORD000339,12-09-2025,,C137,Customer 460,Female,38,Delhi,Delhi,P190,Shoes,Fashion,LG,2,8774,0,416,18,21197.52,COD,Pending,XpressBees,In Transit,,3
+ORD000340,23-12-2024,,C433,Customer 120,Male,41,Pune,Maharashtra,P027,Jeans,Fashion,Apple,1,46206,1000,159,18,53530.7,Google Pay,,xpressbees,In Transit,,
+ORD000341,11-01-2024,13-01-2024,C076,Customer 469,Male,29,Hyderabad,Telangana,P149,Oil,Grocery,Nike,2,136697,0,72,5,287139.3,Net Banking,Paid,Blue Dart,Returned,Size Issue,
+ORD000342,13-01-2024,,C267,Customer 304,Female,42,Chennai,Tamil Nadu,P043,Bottle,Home & Kitchen,Boat,2,31043,5000,112,12,64061.76,Card,,Blue Dart,Cancelled,,3
+ORD000343,24-08-2025,,C011,Customer 109,Male,62,Pune,Maharashtra,P166,Jeans,Fashion,LG,3,88811,0,375,5,280148.4,Wallet,Paid,xpressbees,Cancelled,,5
+ORD000344,16-11-2024,20-11-2024,C012,Customer 9,Female,62,Bengaluru,Karnataka,P195,T-Shirt,Fashion,Samsung,1,97116,5000,372,5,97112.4,COD,Paid,Ecom Express,Delivered,,5
+ORD000345,17-10-2025,,C444,Customer 12,Female,50,Bengaluru,Karnataka,P090,T-Shirt,Fashion,Lakme,2,63852,500,389,18,150559.74,Net Banking,Pending,XpressBees,In Transit,,4
+ORD000346,14-07-2025,21-07-2025,C081,Customer 304,Male,19,Mumbai,Maharashtra,P063,Face Wash,Beauty,Apple,1,118700,1000,470,5,124078.5,COD,Pending,Blue Dart,Returned,Wrong Product,4
+ORD000347,26-11-2024,,C197,Customer 311,Female,38,Chennai,Tamil Nadu,P181,Rice,Grocery,LG,2,101397,1000,472,18,238673.88,COD,Paid,XpressBees,Cancelled,,5
+ORD000348,01-12-2024,02-12-2024,C179,Customer 429,Female,60,Bengaluru,Karnataka,P011,Cookware,Home & Kitchen,Puma,4,62790,5000,296,5,258778.8,COD,Paid,xpressbees,Delivered,,5
+ORD000349,22-09-2025,,C020,Customer 207,Male,26,Delhi,Delhi,P058,Cricket Bat,Sports,Apple,3,46273,500,171,12,155108.8,Wallet,,Blue Dart,In Transit,,3
+ORD000350,30-01-2024,02-02-2024,C057,Customer 29,Female,56,Mumbai,Maharashtra,P197,Face Wash,Beauty,Apple,4,117209,5000,265,18,547639.18,COD,Paid,XpressBees,Delivered,,
+ORD000351,06-07-2024,,C281,Customer 477,Male,32,Chennai,Tamil Nadu,P149,Rice,Grocery,Lakme,2,78313,0,51,18,184878.86,UPI,,Delhivery,In Transit,,4
+ORD000352,03-02-2024,04-02-2024,C022,Customer 36,Male,23,Pune,Maharashtra,P184,Shampoo,Beauty,Lakme,5,25446,1000,427,18,149455.26,COD,Pending,Ecom Express,Delivered,,3
+ORD000353,17-11-2025,,C471,Customer 11,Male,21,Hyderabad,Telangana,P096,Earbuds,Electronics,Puma,2,9476,0,413,18,22850.7,Google Pay,Pending,Ecom Express,Cancelled,,3
+ORD000354,25-06-2025,02-07-2025,C069,Customer 353,Female,66,Delhi,Delhi,P015,Cricket Bat,Sports,Samsung,2,20221,5000,148,5,37369.5,Wallet,Pending,XpressBees,Delivered,,3
+ORD000355,11-05-2024,,C430,Customer 171,Female,19,Delhi,Delhi,P052,Yoga Mat,Sports,LG,3,21308,500,392,12,71473.92,Google Pay,Paid,Blue Dart,In Transit,,
+ORD000356,09-02-2024,,C353,Customer 420,Male,30,Mumbai,Maharashtra,P012,Phone,Electronics,Nike,2,46537,5000,211,12,98879.2,Card,,xpressbees,Cancelled,,4
+ORD000357,14-01-2024,,C446,Customer 367,Male,18,pune,Maharashtra,P118,Bottle,Home & Kitchen,Boat,2,114257,0,246,18,269936.8,Google Pay,,XpressBees,Cancelled,,5
+ORD000358,25-03-2024,28-03-2024,C481,Customer 89,Female,31,pune,Maharashtra,P136,Phone,Electronics,Samsung,5,134412,5000,114,18,787265.32,Wallet,Pending,Delhivery,Returned,Wrong Product,5
+ORD000359,20-08-2024,,C255,Customer 279,Male,32,Hyderabad,Telangana,P041,T-Shirt,Fashion,Samsung,1,38902,1000,16,18,44743.24,Card,Pending,XpressBees,In Transit,,4
+ORD000360,25-07-2024,29-07-2024,C268,Customer 270,Male,18,pune,Maharashtra,P175,Phone,Electronics,Samsung,4,106738,1000,492,18,503203.92,Net Banking,,xpressbees,Delivered,,4
+ORD000361,28-08-2024,03-09-2024,C219,Customer 379,Male,31,pune,Maharashtra,P053,Mixer,Home & Kitchen,Apple,2,57834,5000,53,18,130650.78,COD,Pending,XpressBees,Delivered,,3
+ORD000362,10-02-2024,12-02-2024,C060,Customer 8,Male,18,pune,Maharashtra,P181,Shoes,Fashion,Apple,2,29029,5000,75,5,55789.65,Google Pay,Paid,Delhivery,Delivered,,3
+ORD000363,22-09-2024,,C115,Customer 364,Male,63,pune,Maharashtra,P130,Rice,Grocery,Apple,3,34767,5000,308,12,111562.08,Card,Paid,Blue Dart,Cancelled,,3
+ORD000364,23-08-2024,,C491,Customer 405,Male,53,Mumbai,Maharashtra,P169,Shoes,Fashion,Lakme,5,143379,0,369,5,753127.2,Card,Pending,Ecom Express,Cancelled,,5
+ORD000365,09-02-2025,,C367,Customer 232,Female,24,Bengaluru,Karnataka,P094,Cricket Bat,Sports,LG,2,78604,500,319,12,175870.24,UPI,,Blue Dart,Cancelled,,5
+ORD000366,09-01-2024,11-01-2024,C442,Customer 333,Female,34,Pune,Maharashtra,P089,Yoga Mat,Sports,Samsung,2,14262,5000,182,12,26550.72,Net Banking,Pending,Ecom Express,Returned,Damaged,4
+ORD000367,23-06-2025,27-06-2025,C220,Customer 208,Female,28,Hyderabad,Telangana,P112,Shampoo,Beauty,Lakme,3,58127,1000,401,18,205062.76,Wallet,Paid,Ecom Express,Returned,Size Issue,5
+ORD000368,01-11-2025,,C335,Customer 395,Male,61,Bengaluru,Karnataka,P140,Shoes,Fashion,Apple,4,121724,5000,395,5,506405.55,Card,Pending,XpressBees,In Transit,,5
+ORD000369,03-11-2024,04-11-2024,C345,Customer 21,Male,33,Mumbai,Maharashtra,P135,Lipstick,Beauty,Samsung,1,63208,1000,424,18,73905.76,COD,Pending,xpressbees,Delivered,,3
+ORD000370,16-10-2024,19-10-2024,C366,Customer 153,Female,49,Bengaluru,Karnataka,P166,Cricket Bat,Sports,Boat,4,115249,1000,148,18,542969.92,Google Pay,Paid,Ecom Express,Returned,Size Issue,5
+ORD000371,11-03-2025,15-03-2025,C391,Customer 344,Female,56,Hyderabad,Telangana,P093,Sugar,Grocery,Boat,4,4753,1000,471,12,20700.96,Wallet,Paid,Blue Dart,Returned,Size Issue,4
+ORD000372,24-11-2025,30-11-2025,C302,Customer 140,Male,18,Chennai,Tamil Nadu,P189,Bottle,Home & Kitchen,Puma,5,70200,5000,155,5,363462.75,Net Banking,Paid,XpressBees,Returned,Size Issue,4
+ORD000373,20-12-2025,,C363,Customer 486,Male,26,Mumbai,Maharashtra,P100,Mixer,Home & Kitchen,Boat,4,33098,5000,101,12,142792.16,Google Pay,,XpressBees,In Transit,,5
+ORD000374,13-06-2024,15-06-2024,C153,Customer 267,Female,26,pune,Maharashtra,P034,Cookware,Home & Kitchen,Puma,4,70216,5000,102,12,309081.92,Net Banking,Pending,Ecom Express,Returned,Wrong Product,4
+ORD000375,09-02-2024,,C429,Customer 209,Male,70,Chennai,Tamil Nadu,P095,Bottle,Home & Kitchen,Samsung,4,16690,5000,175,5,65031.75,UPI,Paid,Ecom Express,In Transit,,3
+ORD000376,15-12-2025,18-12-2025,C171,Customer 316,Male,28,Delhi,Delhi,P038,Oil,Grocery,Lakme,1,149238,0,227,12,167400.8,Card,,Blue Dart,Returned,Damaged,4
+ORD000377,29-12-2025,,C086,Customer 213,Male,35,Chennai,Tamil Nadu,P054,Football,Sports,Boat,5,34674,500,391,18,204447.98,Card,Pending,Delhivery,In Transit,,
+ORD000378,25-08-2025,,C094,Customer 469,Male,64,Mumbai,Maharashtra,P081,Earbuds,Electronics,Puma,2,33039,500,446,12,73946.88,Wallet,Pending,Ecom Express,Cancelled,,3
+ORD000379,28-10-2025,03-11-2025,C280,Customer 346,Male,18,Bengaluru,Karnataka,P063,Oil,Grocery,Nike,4,85754,5000,38,5,354956.7,Card,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000380,19-06-2025,,C074,Customer 305,Female,57,Pune,Maharashtra,P066,Cricket Bat,Sports,Samsung,2,98172,1000,448,18,231034.56,UPI,,Delhivery,Cancelled,,3
+ORD000381,05-06-2025,10-06-2025,C236,Customer 291,Male,55,pune,Maharashtra,P009,Laptop,Electronics,Apple,2,11622,500,242,5,24135.3,UPI,,XpressBees,Delivered,,3
+ORD000382,26-03-2025,,C010,Customer 419,Male,64,pune,Maharashtra,P118,Phone,Electronics,Samsung,2,31636,0,254,18,74960.68,UPI,Pending,xpressbees,Cancelled,,4
+ORD000383,22-01-2025,,C454,Customer 487,Female,69,Chennai,Tamil Nadu,P194,T-Shirt,Fashion,LG,5,98300,0,216,5,516301.8,Net Banking,,Blue Dart,Cancelled,,4
+ORD000384,21-02-2024,22-02-2024,C418,Customer 418,Female,59,Bengaluru,Karnataka,P160,Cookware,Home & Kitchen,Lakme,1,66545,1000,205,12,73640,Wallet,Pending,Ecom Express,Delivered,,3
+ORD000385,20-09-2025,,C245,Customer 420,Female,65,Chennai,Tamil Nadu,P147,Shampoo,Beauty,Apple,2,142905,500,246,18,336956.08,Wallet,,Ecom Express,Cancelled,,4
+ORD000386,28-11-2025,29-11-2025,C116,Customer 47,Female,62,Delhi,Delhi,P056,Shampoo,Beauty,Lakme,3,119057,5000,289,18,415902.8,COD,Pending,Delhivery,Returned,Damaged,5
+ORD000387,12-07-2025,18-07-2025,C228,Customer 492,Female,32,Pune,Maharashtra,P087,Jeans,Fashion,LG,4,17787,500,230,12,79383.36,UPI,,Ecom Express,Returned,Size Issue,4
+ORD000388,07-03-2024,10-03-2024,C151,Customer 100,Female,23,Mumbai,Maharashtra,P124,Football,Sports,Puma,2,53142,500,333,18,125218.06,UPI,Pending,Delhivery,Delivered,,3
+ORD000389,30-06-2024,05-07-2024,C079,Customer 287,Female,21,Hyderabad,Telangana,P136,Rice,Grocery,Samsung,2,42034,0,140,18,99365.44,Google Pay,Paid,Delhivery,Delivered,,3
+ORD000390,09-02-2025,10-02-2025,C335,Customer 70,Female,59,Pune,Maharashtra,P132,Face Wash,Beauty,Nike,4,5047,5000,481,12,17549.28,Net Banking,Pending,xpressbees,Returned,Size Issue,5
+ORD000391,27-01-2024,,C237,Customer 410,Female,48,Bengaluru,Karnataka,P137,Football,Sports,Samsung,1,49198,500,321,5,51469.95,Net Banking,Pending,Delhivery,In Transit,,4
+ORD000392,09-04-2025,11-04-2025,C232,Customer 21,Female,55,Mumbai,Maharashtra,P025,Sugar,Grocery,Apple,5,36832,500,277,18,217045.66,UPI,Pending,XpressBees,Delivered,,3
+ORD000393,22-04-2025,,C096,Customer 349,Female,57,Bengaluru,Karnataka,P052,Phone,Electronics,Lakme,4,79070,0,12,5,332106.6,Wallet,,Ecom Express,In Transit,,4
+ORD000394,18-10-2024,19-10-2024,C071,Customer 210,Male,29,Delhi,Delhi,P133,Shoes,Fashion,Lakme,1,85133,5000,330,5,84486.15,COD,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000395,04-08-2024,08-08-2024,C224,Customer 148,Male,21,Hyderabad,Telangana,P164,Oil,Grocery,Lakme,3,127203,0,193,12,427618.24,Wallet,Paid,Blue Dart,Delivered,,3
+ORD000396,02-01-2025,09-01-2025,C180,Customer 234,Male,27,Pune,Maharashtra,P043,Rice,Grocery,LG,1,5300,500,280,5,5334,UPI,Pending,Ecom Express,Returned,Wrong Product,4
+ORD000397,24-08-2025,28-08-2025,C461,Customer 204,Male,64,Pune,Maharashtra,P114,Laptop,Electronics,LG,3,144628,0,60,5,455641.2,UPI,Paid,Delhivery,Returned,Wrong Product,5
+ORD000398,07-09-2025,,C100,Customer 475,Male,64,Delhi,Delhi,P090,Oil,Grocery,Nike,4,127140,500,30,18,599546.2,Net Banking,Pending,Ecom Express,In Transit,,
+ORD000399,20-03-2024,26-03-2024,C441,Customer 368,Female,45,Chennai,Tamil Nadu,P124,Shoes,Fashion,LG,4,129529,1000,332,5,543320.4,UPI,Paid,Delhivery,Delivered,,
+ORD000400,09-08-2025,14-08-2025,C365,Customer 478,Male,42,Bengaluru,Karnataka,P061,Cookware,Home & Kitchen,Apple,1,26420,5000,275,12,24298.4,COD,,Delhivery,Returned,Wrong Product,5
+ORD000401,16-04-2025,23-04-2025,C268,Customer 316,Male,39,Chennai,Tamil Nadu,P117,Lipstick,Beauty,Apple,4,40988,500,231,18,193145.94,COD,Pending,XpressBees,Returned,Damaged,5
+ORD000402,11-07-2025,,C306,Customer 436,Male,19,Chennai,Tamil Nadu,P166,Bottle,Home & Kitchen,Nike,2,119969,1000,39,18,281992.86,Net Banking,Pending,Ecom Express,Cancelled,,5
+ORD000403,08-01-2025,12-01-2025,C381,Customer 59,Male,26,Mumbai,Maharashtra,P138,Phone,Electronics,Boat,1,18561,1000,208,18,20967.42,Net Banking,Pending,XpressBees,Delivered,,5
+ORD000404,11-01-2025,,C028,Customer 92,Female,47,Pune,Maharashtra,P091,Face Wash,Beauty,Samsung,2,34529,500,290,12,77109.76,Card,Pending,xpressbees,In Transit,,4
+ORD000405,23-04-2024,28-04-2024,C355,Customer 382,Female,54,pune,Maharashtra,P032,Shampoo,Beauty,LG,2,142359,5000,35,5,293740.65,Card,Paid,Ecom Express,Delivered,,5
+ORD000406,05-04-2025,,C111,Customer 266,Female,38,Chennai,Tamil Nadu,P139,Bottle,Home & Kitchen,Puma,3,46859,1000,190,12,156539.04,COD,Paid,Blue Dart,In Transit,,3
+ORD000407,28-07-2025,03-08-2025,C066,Customer 90,Female,22,Mumbai,Maharashtra,P166,Mixer,Home & Kitchen,LG,3,71675,5000,257,12,235515.84,UPI,Pending,Delhivery,Delivered,,5
+ORD000408,07-04-2024,12-04-2024,C471,Customer 177,Female,46,Mumbai,Maharashtra,P067,Sugar,Grocery,Apple,3,46227,0,359,18,164067.2,UPI,,XpressBees,Returned,Damaged,3
+ORD000409,17-01-2024,,C453,Customer 22,Male,29,pune,Maharashtra,P088,Lipstick,Beauty,Apple,1,82856,500,313,12,92589.28,Card,,Ecom Express,Cancelled,,3
+ORD000410,15-12-2025,,C488,Customer 452,Male,45,pune,Maharashtra,P086,Bottle,Home & Kitchen,Boat,4,63793,1000,228,12,284928,Wallet,,Ecom Express,In Transit,,5
+ORD000411,25-11-2025,27-11-2025,C370,Customer 199,Female,24,pune,Maharashtra,P020,T-Shirt,Fashion,Nike,3,141407,500,373,5,445298.7,Card,,xpressbees,Returned,Damaged,3
+ORD000412,20-05-2024,21-05-2024,C252,Customer 292,Female,55,Pune,Maharashtra,P052,Football,Sports,Nike,3,66407,500,444,18,235014.7,UPI,Paid,XpressBees,Delivered,,5
+ORD000413,22-06-2025,27-06-2025,C479,Customer 142,Female,55,Chennai,Tamil Nadu,P192,Cookware,Home & Kitchen,Puma,4,7644,5000,195,5,27059.55,Google Pay,,Blue Dart,Delivered,,5
+ORD000414,10-04-2024,13-04-2024,C006,Customer 13,Female,49,Bengaluru,Karnataka,P147,Bottle,Home & Kitchen,Samsung,4,40020,5000,37,18,183038.06,Wallet,Pending,Blue Dart,Returned,Size Issue,4
+ORD000415,14-05-2024,17-05-2024,C052,Customer 371,Female,39,Hyderabad,Telangana,P184,Cookware,Home & Kitchen,Lakme,2,85343,0,7,5,179227.65,Google Pay,Paid,xpressbees,Returned,Wrong Product,3
+ORD000416,02-05-2025,08-05-2025,C267,Customer 309,Male,36,Mumbai,Maharashtra,P196,Sugar,Grocery,LG,2,21475,1000,48,5,44097.9,Google Pay,,XpressBees,Delivered,,3
+ORD000417,27-10-2025,01-11-2025,C310,Customer 51,Male,70,Pune,Maharashtra,P034,Oil,Grocery,Lakme,4,29369,0,499,18,139210.5,Net Banking,Paid,Delhivery,Delivered,,4
+ORD000418,22-04-2024,,C463,Customer 5,Male,51,Bengaluru,Karnataka,P008,Jeans,Fashion,Nike,2,22946,0,82,12,51490.88,Card,Paid,xpressbees,Cancelled,,3
+ORD000419,10-03-2025,14-03-2025,C042,Customer 45,Female,32,Mumbai,Maharashtra,P105,Mixer,Home & Kitchen,Puma,4,19253,1000,232,18,89967.92,Card,Pending,Delhivery,Delivered,,
+ORD000420,22-08-2024,23-08-2024,C089,Customer 498,Male,45,Pune,Maharashtra,P149,Phone,Electronics,Samsung,3,81371,500,480,18,288029.74,UPI,Pending,Delhivery,Returned,Wrong Product,3
+ORD000421,13-08-2024,,C039,Customer 422,Male,19,Delhi,Delhi,P192,Face Wash,Beauty,Puma,5,141447,500,28,12,791574.56,Card,Pending,Ecom Express,Cancelled,,5
+ORD000422,30-01-2024,,C193,Customer 142,Male,58,pune,Maharashtra,P102,Sugar,Grocery,LG,5,90381,0,437,5,474959.1,Card,Paid,Blue Dart,Cancelled,,4
+ORD000423,21-04-2024,,C211,Customer 444,Female,23,Delhi,Delhi,P155,Oil,Grocery,LG,1,8865,500,82,12,9460.64,Net Banking,Pending,Blue Dart,Cancelled,,3
+ORD000424,04-08-2025,09-08-2025,C142,Customer 66,Female,65,Bengaluru,Karnataka,P134,Cricket Bat,Sports,Nike,4,80702,1000,350,5,338265.9,UPI,Paid,xpressbees,Delivered,,3
+ORD000425,03-01-2024,,C260,Customer 233,Female,25,pune,Maharashtra,P061,Face Wash,Beauty,Lakme,3,90852,500,338,12,305081.28,Card,,xpressbees,Cancelled,,4
+ORD000426,16-09-2025,19-09-2025,C289,Customer 458,Female,21,Delhi,Delhi,P111,Phone,Electronics,Nike,5,134494,500,101,5,705674.55,Wallet,,Blue Dart,Delivered,,5
+ORD000427,10-10-2025,15-10-2025,C251,Customer 382,Male,51,Chennai,Tamil Nadu,P009,Face Wash,Beauty,Puma,2,52189,0,439,5,110057.85,COD,Paid,XpressBees,Returned,Size Issue,3
+ORD000428,02-08-2024,,C143,Customer 343,Female,26,Bengaluru,Karnataka,P159,Cricket Bat,Sports,Boat,4,122257,1000,20,12,546613.76,Wallet,Paid,Ecom Express,Cancelled,,4
+ORD000429,10-07-2024,,C021,Customer 408,Male,46,Pune,Maharashtra,P103,T-Shirt,Fashion,Samsung,4,88238,0,31,18,416519.94,Card,Pending,xpressbees,Cancelled,,
+ORD000430,03-12-2025,05-12-2025,C178,Customer 69,Female,57,pune,Maharashtra,P124,Cookware,Home & Kitchen,Boat,4,137090,5000,340,12,608944,COD,Pending,Delhivery,Returned,Wrong Product,3
+ORD000431,08-08-2024,,C112,Customer 257,Female,52,Mumbai,Maharashtra,P013,Football,Sports,Apple,5,130683,500,290,18,770781.9,UPI,Paid,Delhivery,Cancelled,,4
+ORD000432,28-01-2025,03-02-2025,C436,Customer 483,Male,36,Bengaluru,Karnataka,P156,T-Shirt,Fashion,Apple,2,56233,0,77,18,132800.74,Card,Paid,XpressBees,Returned,Size Issue,4
+ORD000433,11-03-2025,,C278,Customer 71,Male,46,Chennai,Tamil Nadu,P177,Oil,Grocery,Puma,5,102966,500,166,5,540220.8,UPI,Paid,Ecom Express,In Transit,,3
+ORD000434,12-11-2025,14-11-2025,C268,Customer 493,Female,42,Hyderabad,Telangana,P027,Shoes,Fashion,Puma,1,119184,1000,332,5,124441.8,COD,,Delhivery,Returned,Wrong Product,3
+ORD000435,01-02-2024,,C291,Customer 267,Female,51,Chennai,Tamil Nadu,P134,Lipstick,Beauty,LG,3,145881,500,355,18,516247.64,Wallet,,XpressBees,In Transit,,
+ORD000436,17-09-2025,,C079,Customer 445,Female,44,Pune,Maharashtra,P146,Mixer,Home & Kitchen,Lakme,1,136161,500,105,12,152057.92,UPI,,Delhivery,In Transit,,4
+ORD000437,14-02-2025,,C035,Customer 427,Male,44,Mumbai,Maharashtra,P139,Oil,Grocery,Boat,2,54914,500,10,12,122458.56,COD,Paid,xpressbees,Cancelled,,5
+ORD000438,04-03-2025,05-03-2025,C407,Customer 11,Male,63,Pune,Maharashtra,P008,Oil,Grocery,Apple,4,41012,500,69,5,171797.85,Wallet,,xpressbees,Returned,Size Issue,4
+ORD000439,22-03-2025,,C299,Customer 95,Male,43,Mumbai,Maharashtra,P059,Oil,Grocery,Nike,2,92049,500,3,12,205633.12,Wallet,,Ecom Express,In Transit,,5
+ORD000440,29-06-2025,,C192,Customer 168,Male,36,Hyderabad,Telangana,P014,Mixer,Home & Kitchen,Puma,4,144200,1000,58,18,679512.44,Card,Paid,Delhivery,Cancelled,,5
+ORD000441,21-12-2025,23-12-2025,C396,Customer 268,Female,59,Hyderabad,Telangana,P009,Phone,Electronics,Boat,3,38013,0,343,5,120101.1,Google Pay,Pending,Ecom Express,Delivered,,3
+ORD000442,10-12-2025,17-12-2025,C351,Customer 183,Male,26,pune,Maharashtra,P016,Face Wash,Beauty,LG,5,93295,5000,258,5,484819.65,Google Pay,Paid,xpressbees,Delivered,,5
+ORD000443,16-10-2025,,C045,Customer 303,Male,32,Bengaluru,Karnataka,P039,Shoes,Fashion,Boat,1,88682,5000,309,5,88190.55,COD,Paid,Ecom Express,In Transit,,
+ORD000444,28-12-2025,01-01-2026,C362,Customer 413,Female,42,Mumbai,Maharashtra,P087,Earbuds,Electronics,Apple,3,108748,500,52,18,384439.28,Net Banking,,Ecom Express,Returned,Size Issue,4
+ORD000445,21-05-2024,23-05-2024,C049,Customer 49,Female,19,Chennai,Tamil Nadu,P047,Lipstick,Beauty,Puma,4,28210,1000,406,5,117858.3,Card,Paid,xpressbees,Delivered,,4
+ORD000446,05-04-2025,,C433,Customer 309,Male,47,Delhi,Delhi,P180,Mixer,Home & Kitchen,Nike,1,92147,500,191,12,102858.56,Card,Pending,xpressbees,Cancelled,,3
+ORD000447,21-05-2025,22-05-2025,C370,Customer 426,Male,37,Bengaluru,Karnataka,P051,Lipstick,Beauty,Puma,2,131518,0,325,18,310765.98,Card,,Ecom Express,Returned,Damaged,4
+ORD000448,19-06-2025,20-06-2025,C219,Customer 316,Female,53,Bengaluru,Karnataka,P129,Shoes,Fashion,LG,1,132699,500,196,18,156226.1,COD,Pending,Delhivery,Returned,Size Issue,3
+ORD000449,01-11-2024,05-11-2024,C167,Customer 412,Female,42,Bengaluru,Karnataka,P010,Rice,Grocery,Puma,1,27282,0,439,12,31047.52,Wallet,Paid,Delhivery,Delivered,,4
+ORD000450,01-07-2024,08-07-2024,C044,Customer 127,Female,21,Bengaluru,Karnataka,P177,Shampoo,Beauty,Apple,3,73838,500,71,18,260880.3,Net Banking,,Blue Dart,Delivered,,5
+ORD000451,07-12-2024,14-12-2024,C207,Customer 468,Male,26,Delhi,Delhi,P080,Yoga Mat,Sports,Lakme,5,105418,5000,118,12,584872.96,Card,,Ecom Express,Delivered,,3
+ORD000452,16-02-2024,,C434,Customer 457,Male,18,Mumbai,Maharashtra,P083,Lipstick,Beauty,Apple,2,93759,0,297,5,197205.75,COD,Pending,Ecom Express,Cancelled,,4
+ORD000453,08-05-2025,,C175,Customer 373,Male,60,Chennai,Tamil Nadu,P019,Jeans,Fashion,LG,2,48869,1000,402,12,108796.8,UPI,,Blue Dart,Cancelled,,4
+ORD000454,06-04-2024,09-04-2024,C016,Customer 251,Female,18,pune,Maharashtra,P122,Mixer,Home & Kitchen,LG,5,27059,1000,247,5,141269.1,Card,Pending,Delhivery,Delivered,,3
+ORD000455,27-04-2024,04-05-2024,C463,Customer 234,Female,61,Mumbai,Maharashtra,P018,Jeans,Fashion,LG,1,126609,0,245,18,149687.72,Google Pay,Paid,Ecom Express,Delivered,,3
+ORD000456,14-12-2024,15-12-2024,C286,Customer 497,Male,47,pune,Maharashtra,P076,Face Wash,Beauty,Samsung,5,135927,1000,16,18,800808.18,COD,Paid,Ecom Express,Delivered,,4
+ORD000457,05-08-2024,08-08-2024,C356,Customer 451,Male,30,Mumbai,Maharashtra,P181,Mixer,Home & Kitchen,Boat,5,135857,0,136,12,760951.52,UPI,,Blue Dart,Returned,Size Issue,4
+ORD000458,22-04-2025,25-04-2025,C033,Customer 280,Male,47,Delhi,Delhi,P157,Bottle,Home & Kitchen,Samsung,1,74816,5000,421,12,78665.44,Net Banking,Pending,Delhivery,Delivered,,3
+ORD000459,29-07-2025,,C091,Customer 31,Male,26,Pune,Maharashtra,P186,Cricket Bat,Sports,Lakme,3,49373,1000,461,18,174144.4,Wallet,Pending,Delhivery,In Transit,,3
+ORD000460,12-09-2024,,C494,Customer 345,Male,44,Mumbai,Maharashtra,P162,Mixer,Home & Kitchen,Lakme,1,40529,5000,367,5,37690.8,UPI,,Delhivery,Cancelled,,
+ORD000461,20-12-2025,,C484,Customer 466,Male,33,Pune,Maharashtra,P031,Shoes,Fashion,Puma,1,123403,1000,494,18,145018.46,Net Banking,,Blue Dart,In Transit,,3
+ORD000462,26-09-2025,,C455,Customer 299,Female,20,Bengaluru,Karnataka,P052,Jeans,Fashion,Boat,3,62992,0,479,12,212189.6,Net Banking,,XpressBees,In Transit,,5
+ORD000463,05-06-2024,,C220,Customer 329,Female,61,Bengaluru,Karnataka,P050,Phone,Electronics,Puma,3,60301,1000,161,5,189067.2,Card,,Ecom Express,Cancelled,,4
+ORD000464,23-04-2025,28-04-2025,C426,Customer 481,Male,19,pune,Maharashtra,P033,Jeans,Fashion,Apple,2,94825,500,184,12,212054.08,Net Banking,Paid,Blue Dart,Delivered,,4
+ORD000465,27-02-2024,01-03-2024,C092,Customer 226,Male,47,Mumbai,Maharashtra,P059,Cricket Bat,Sports,Puma,1,121787,5000,494,12,131354.72,COD,,XpressBees,Delivered,,4
+ORD000466,11-04-2024,,C170,Customer 187,Male,27,pune,Maharashtra,P173,Football,Sports,Samsung,4,51293,1000,442,18,241444.52,COD,Paid,Delhivery,In Transit,,5
+ORD000467,10-07-2025,13-07-2025,C288,Customer 123,Male,47,Delhi,Delhi,P065,Phone,Electronics,LG,1,145934,500,476,18,172173.8,Wallet,Paid,Delhivery,Returned,Wrong Product,5
+ORD000468,19-12-2024,,C050,Customer 390,Female,53,Bengaluru,Karnataka,P098,Sugar,Grocery,Samsung,5,58212,0,59,18,343520.42,COD,Pending,Blue Dart,Cancelled,,5
+ORD000469,25-04-2025,,C022,Customer 109,Male,38,Delhi,Delhi,P158,Phone,Electronics,Apple,1,40720,5000,255,5,37773.75,Wallet,,xpressbees,Cancelled,,4
+ORD000470,09-10-2025,10-10-2025,C112,Customer 46,Male,32,Chennai,Tamil Nadu,P175,Sugar,Grocery,Boat,2,51675,0,252,18,122250.36,Card,,xpressbees,Delivered,,3
+ORD000471,29-02-2024,,C400,Customer 471,Female,19,Chennai,Tamil Nadu,P031,Bottle,Home & Kitchen,LG,2,96308,500,112,5,201839.4,Net Banking,Paid,Ecom Express,In Transit,,
+ORD000472,10-04-2024,15-04-2024,C273,Customer 287,Female,34,Chennai,Tamil Nadu,P026,Oil,Grocery,Boat,5,133229,500,177,5,699113.1,Net Banking,,xpressbees,Returned,Damaged,3
+ORD000473,12-07-2024,,C315,Customer 339,Male,32,pune,Maharashtra,P154,Sugar,Grocery,LG,1,55943,1000,166,12,61722.08,UPI,,XpressBees,Cancelled,,5
+ORD000474,21-10-2025,22-10-2025,C307,Customer 360,Female,26,Bengaluru,Karnataka,P152,Laptop,Electronics,Boat,5,69960,500,218,5,366993.9,Card,,xpressbees,Delivered,,5
+ORD000475,08-07-2025,,C291,Customer 258,Female,61,Chennai,Tamil Nadu,P141,Laptop,Electronics,Puma,5,10606,5000,308,12,54138.56,COD,Paid,Ecom Express,Cancelled,,3
+ORD000476,22-01-2024,24-01-2024,C210,Customer 129,Male,69,Bengaluru,Karnataka,P037,Sugar,Grocery,Nike,1,27632,0,484,5,29521.8,Net Banking,Paid,Delhivery,Delivered,,5
+ORD000477,05-08-2025,,C146,Customer 280,Female,69,Mumbai,Maharashtra,P015,Bottle,Home & Kitchen,LG,2,38087,0,374,18,90326.64,Wallet,,Blue Dart,Cancelled,,4
+ORD000478,01-02-2024,,C336,Customer 80,Female,36,Mumbai,Maharashtra,P027,Mixer,Home & Kitchen,Samsung,1,147510,500,289,12,164974.88,Google Pay,Pending,Delhivery,Cancelled,,5
+ORD000479,19-09-2025,23-09-2025,C120,Customer 341,Female,41,Chennai,Tamil Nadu,P063,Mixer,Home & Kitchen,LG,3,55069,500,440,5,173404.35,COD,Paid,Blue Dart,Delivered,,3
+ORD000480,01-01-2024,05-01-2024,C484,Customer 393,Male,54,pune,Maharashtra,P070,Oil,Grocery,Samsung,5,88726,500,74,5,465364.2,Net Banking,Paid,XpressBees,Delivered,,3
+ORD000481,10-02-2025,,C335,Customer 36,Female,49,pune,Maharashtra,P180,Face Wash,Beauty,Apple,1,11811,5000,81,5,7236.6,Card,Pending,Ecom Express,Cancelled,,5
+ORD000482,01-04-2025,,C364,Customer 313,Male,20,Bengaluru,Karnataka,P016,Jeans,Fashion,Apple,1,146018,1000,50,18,171180.24,Net Banking,,XpressBees,In Transit,,5
+ORD000483,25-08-2024,,C356,Customer 84,Female,46,Delhi,Delhi,P027,Earbuds,Electronics,Apple,2,105785,500,387,12,236831.84,Google Pay,Pending,Ecom Express,In Transit,,5
+ORD000484,29-06-2024,04-07-2024,C313,Customer 451,Female,34,pune,Maharashtra,P005,Sugar,Grocery,Apple,3,87016,500,191,18,307672.02,Net Banking,Pending,Delhivery,Delivered,,5
+ORD000485,09-02-2025,15-02-2025,C309,Customer 219,Female,20,Bengaluru,Karnataka,P096,Shampoo,Beauty,Samsung,4,113113,5000,348,12,501536,UPI,Pending,XpressBees,Delivered,,3
+ORD000486,05-05-2025,10-05-2025,C245,Customer 325,Male,56,Pune,Maharashtra,P071,Mixer,Home & Kitchen,Puma,4,105575,0,466,12,473497.92,Wallet,,Delhivery,Returned,Size Issue,3
+ORD000487,16-08-2025,,C354,Customer 486,Male,45,Delhi,Delhi,P200,Face Wash,Beauty,Nike,5,48435,5000,299,12,265970.88,Wallet,Pending,xpressbees,Cancelled,,3
+ORD000488,20-09-2024,,C191,Customer 296,Female,50,Pune,Maharashtra,P086,Earbuds,Electronics,Nike,4,42530,500,22,5,178124.1,Wallet,Paid,XpressBees,In Transit,,5
+ORD000489,05-12-2025,12-12-2025,C093,Customer 69,Female,43,Hyderabad,Telangana,P096,Football,Sports,Nike,4,28823,0,73,12,129208.8,Net Banking,Paid,XpressBees,Returned,Wrong Product,4
+ORD000490,23-01-2024,,C453,Customer 18,Female,55,Pune,Maharashtra,P033,Phone,Electronics,Lakme,5,10411,5000,54,18,55588.62,UPI,Pending,XpressBees,Cancelled,,5
+ORD000491,12-03-2025,,C203,Customer 472,Female,42,pune,Maharashtra,P184,Laptop,Electronics,Samsung,5,51727,1000,456,5,270995.55,UPI,Paid,Delhivery,Cancelled,,4
+ORD000492,24-12-2025,,C406,Customer 37,Female,31,Hyderabad,Telangana,P030,Face Wash,Beauty,LG,3,58158,0,235,5,183444.45,Net Banking,,Ecom Express,Cancelled,,4
+ORD000493,21-01-2024,24-01-2024,C090,Customer 97,Male,48,Delhi,Delhi,P047,Bottle,Home & Kitchen,Nike,4,51016,500,278,18,240533.56,Net Banking,Pending,XpressBees,Returned,Wrong Product,4
+ORD000494,16-09-2025,22-09-2025,C459,Customer 54,Male,21,Bengaluru,Karnataka,P198,Face Wash,Beauty,Puma,1,52827,1000,491,12,58596.16,Card,Pending,Ecom Express,Returned,Size Issue,3
+ORD000495,27-11-2024,29-11-2024,C063,Customer 255,Female,48,Pune,Maharashtra,P012,Jeans,Fashion,Boat,3,136980,500,481,12,460231.52,Google Pay,Pending,Delhivery,Returned,Wrong Product,5
+ORD000496,23-02-2024,,C172,Customer 172,Male,28,Hyderabad,Telangana,P164,Face Wash,Beauty,Apple,1,58390,5000,40,5,56101.5,COD,,Delhivery,In Transit,,3
+ORD000497,22-01-2025,,C455,Customer 372,Female,41,Chennai,Tamil Nadu,P053,Phone,Electronics,Nike,5,41177,1000,415,18,242254,Google Pay,,Blue Dart,Cancelled,,3
+ORD000498,22-08-2025,,C420,Customer 355,Female,19,Hyderabad,Telangana,P109,Shoes,Fashion,Lakme,3,102197,500,456,12,343332.64,Wallet,Pending,Delhivery,In Transit,,4
+ORD000499,18-01-2024,,C461,Customer 52,Male,43,Chennai,Tamil Nadu,P147,Football,Sports,Samsung,2,33026,5000,29,12,68410.72,Card,,xpressbees,In Transit,,4
+ORD000500,19-09-2024,,C400,Customer 286,Female,47,Pune,Maharashtra,P189,Earbuds,Electronics,LG,5,123633,0,20,18,729458.3,Wallet,Paid,xpressbees,Cancelled,,4
+ORD000501,26-01-2025,,C484,Customer 84,Female,18,Bengaluru,Karnataka,P195,Bottle,Home & Kitchen,Apple,3,92653,500,424,5,291777.15,Google Pay,Pending,XpressBees,Cancelled,,3
+ORD000502,31-10-2025,03-11-2025,C278,Customer 315,Male,70,Mumbai,Maharashtra,P050,Rice,Grocery,Nike,2,16272,1000,494,18,37804.84,Wallet,Pending,XpressBees,Delivered,,3
+ORD000503,23-06-2025,,C059,Customer 178,Female,54,Pune,Maharashtra,P190,Shampoo,Beauty,Nike,1,864,0,204,18,1260.24,COD,Paid,Ecom Express,Cancelled,,
+ORD000504,07-10-2025,08-10-2025,C139,Customer 39,Male,54,Chennai,Tamil Nadu,P179,Oil,Grocery,Lakme,5,75666,1000,148,18,445424.04,Wallet,,xpressbees,Delivered,,4
+ORD000505,23-12-2025,26-12-2025,C051,Customer 49,Female,26,pune,Maharashtra,P161,Football,Sports,Lakme,1,19696,0,364,18,23670.8,COD,Pending,Ecom Express,Delivered,,4
+ORD000506,04-01-2024,11-01-2024,C428,Customer 291,Female,20,Pune,Maharashtra,P004,Shampoo,Beauty,Apple,4,139851,1000,69,12,625489.76,Google Pay,Paid,Ecom Express,Delivered,,4
+ORD000507,15-06-2024,,C179,Customer 91,Female,42,Hyderabad,Telangana,P049,Laptop,Electronics,Lakme,3,149374,1000,85,5,469567.35,Card,Pending,XpressBees,Cancelled,,4
+ORD000508,24-07-2024,27-07-2024,C049,Customer 118,Male,42,Bengaluru,Karnataka,P045,Cricket Bat,Sports,Boat,5,108087,500,262,5,567206.85,Wallet,Paid,xpressbees,Delivered,,4
+ORD000509,05-01-2024,,C348,Customer 442,Male,20,Bengaluru,Karnataka,P072,Bottle,Home & Kitchen,Nike,2,16794,500,197,18,39276.3,Wallet,,xpressbees,In Transit,,5
+ORD000510,15-06-2025,,C012,Customer 160,Female,61,pune,Maharashtra,P117,Lipstick,Beauty,Apple,4,138573,500,229,5,581722.05,UPI,,Delhivery,In Transit,,4
+ORD000511,26-08-2024,01-09-2024,C187,Customer 320,Male,30,Bengaluru,Karnataka,P195,Phone,Electronics,Boat,1,134798,0,19,12,150995.04,Wallet,,XpressBees,Returned,Wrong Product,3
+ORD000512,30-10-2024,06-11-2024,C304,Customer 216,Female,19,Mumbai,Maharashtra,P092,Shampoo,Beauty,LG,4,144159,0,149,12,645999.2,Card,Paid,Blue Dart,Returned,Damaged,3
+ORD000513,30-10-2025,02-11-2025,C177,Customer 1,Male,26,Hyderabad,Telangana,P091,Bottle,Home & Kitchen,Puma,1,112065,0,256,12,125799.52,UPI,,Blue Dart,Returned,Damaged,3
+ORD000514,21-12-2024,28-12-2024,C220,Customer 113,Male,26,Mumbai,Maharashtra,P003,Cookware,Home & Kitchen,LG,4,24640,500,131,12,109973.92,UPI,Paid,Ecom Express,Returned,Size Issue,
+ORD000515,24-02-2024,27-02-2024,C279,Customer 303,Male,55,Pune,Maharashtra,P116,Mixer,Home & Kitchen,Boat,3,136566,0,41,12,458907.68,Card,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000516,09-10-2025,,C019,Customer 61,Female,63,Chennai,Tamil Nadu,P117,Sugar,Grocery,Boat,3,66989,500,154,5,210652.05,Google Pay,Paid,Ecom Express,Cancelled,,5
+ORD000517,26-07-2024,02-08-2024,C014,Customer 473,Male,48,Bengaluru,Karnataka,P070,Jeans,Fashion,Boat,4,119418,0,292,5,501862.2,UPI,Pending,XpressBees,Returned,Wrong Product,3
+ORD000518,01-01-2024,07-01-2024,C007,Customer 12,Male,48,Hyderabad,Telangana,P140,Oil,Grocery,Apple,2,127546,500,143,18,300587.3,COD,Pending,Delhivery,Delivered,,3
+ORD000519,17-11-2024,,C380,Customer 88,Female,41,Bengaluru,Karnataka,P060,Sugar,Grocery,Lakme,2,14140,5000,117,12,26204.64,COD,,Delhivery,Cancelled,,3
+ORD000520,11-11-2025,,C288,Customer 309,Female,22,Bengaluru,Karnataka,P119,Oil,Grocery,Nike,5,19262,5000,86,12,102363.52,Net Banking,Paid,xpressbees,Cancelled,,3
+ORD000521,16-12-2025,,C123,Customer 38,Female,63,Pune,Maharashtra,P072,Lipstick,Beauty,Lakme,5,116045,5000,440,5,604448.25,COD,,Ecom Express,Cancelled,,4
+ORD000522,21-01-2025,24-01-2025,C215,Customer 105,Male,58,Mumbai,Maharashtra,P082,Jeans,Fashion,LG,1,129945,0,435,18,153848.4,Card,Pending,XpressBees,Delivered,,4
+ORD000523,07-02-2025,,C285,Customer 178,Female,40,Pune,Maharashtra,P178,Jeans,Fashion,Lakme,3,129866,5000,38,18,453870.48,COD,,Blue Dart,Cancelled,,4
+ORD000524,11-10-2024,18-10-2024,C391,Customer 216,Female,40,Delhi,Delhi,P094,Shampoo,Beauty,Boat,1,12318,1000,156,5,12047.7,Google Pay,Pending,Blue Dart,Delivered,,3
+ORD000525,09-05-2025,,C139,Customer 433,Male,59,Pune,Maharashtra,P105,Jeans,Fashion,Puma,5,60032,0,430,5,315619.5,Wallet,Paid,xpressbees,Cancelled,,5
+ORD000526,24-04-2024,,C335,Customer 233,Female,43,Hyderabad,Telangana,P123,Oil,Grocery,Boat,1,119816,0,79,12,134282.4,Net Banking,Pending,xpressbees,In Transit,,5
+ORD000527,07-05-2025,14-05-2025,C459,Customer 483,Male,53,pune,Maharashtra,P046,Shoes,Fashion,Lakme,2,130791,500,169,12,292601.12,UPI,Paid,Blue Dart,Returned,Damaged,5
+ORD000528,15-04-2025,21-04-2025,C205,Customer 401,Female,38,Mumbai,Maharashtra,P132,Cookware,Home & Kitchen,LG,2,23399,5000,289,5,44191.35,Card,Paid,Blue Dart,Delivered,,4
+ORD000529,26-12-2024,,C197,Customer 219,Male,34,Chennai,Tamil Nadu,P012,Bottle,Home & Kitchen,LG,3,114486,500,151,5,360264.45,Google Pay,Paid,Ecom Express,Cancelled,,3
+ORD000530,26-05-2025,30-05-2025,C149,Customer 487,Female,43,Pune,Maharashtra,P089,Yoga Mat,Sports,Samsung,2,36428,500,288,18,85719.92,UPI,,Delhivery,Delivered,,4
+ORD000531,30-07-2025,06-08-2025,C460,Customer 181,Female,51,Chennai,Tamil Nadu,P033,Laptop,Electronics,Nike,1,28607,0,189,5,30235.8,Card,Paid,XpressBees,Delivered,,4
+ORD000532,19-07-2024,25-07-2024,C132,Customer 312,Female,34,Chennai,Tamil Nadu,P200,Shoes,Fashion,Apple,5,21674,0,149,12,121541.28,UPI,Pending,XpressBees,Returned,Wrong Product,4
+ORD000533,04-03-2024,10-03-2024,C475,Customer 15,Male,53,Hyderabad,Telangana,P181,Laptop,Electronics,LG,5,57472,500,195,12,321501.6,Google Pay,Paid,Delhivery,Delivered,,3
+ORD000534,12-05-2024,14-05-2024,C202,Customer 487,Female,51,pune,Maharashtra,P179,T-Shirt,Fashion,Boat,4,67706,5000,155,5,279277.95,Net Banking,Paid,xpressbees,Delivered,,3
+ORD000535,28-05-2025,01-06-2025,C160,Customer 315,Female,50,Hyderabad,Telangana,P170,Yoga Mat,Sports,Apple,3,47511,0,385,5,150063.9,Card,Pending,Delhivery,Delivered,,5
+ORD000536,06-02-2024,,C401,Customer 417,Female,47,pune,Maharashtra,P099,Phone,Electronics,Apple,3,25983,500,141,12,86900.8,UPI,Pending,xpressbees,In Transit,,4
+ORD000537,15-01-2025,,C117,Customer 129,Female,27,pune,Maharashtra,P029,Shampoo,Beauty,Apple,1,138305,5000,235,18,157577.2,Net Banking,,Ecom Express,In Transit,,4
+ORD000538,15-07-2025,,C311,Customer 57,Male,35,Chennai,Tamil Nadu,P058,Cookware,Home & Kitchen,Boat,5,104159,500,361,5,546688.8,Net Banking,,Blue Dart,Cancelled,,
+ORD000539,11-12-2025,17-12-2025,C221,Customer 258,Male,60,Hyderabad,Telangana,P115,Sugar,Grocery,Lakme,5,59200,500,0,18,348690,UPI,,Ecom Express,Delivered,,4
+ORD000540,13-06-2025,,C374,Customer 227,Male,24,pune,Maharashtra,P021,Sugar,Grocery,Apple,5,79080,0,102,12,442962.24,UPI,Pending,XpressBees,In Transit,,4
+ORD000541,30-07-2025,04-08-2025,C397,Customer 274,Female,59,Hyderabad,Telangana,P014,Lipstick,Beauty,Lakme,5,2418,0,341,5,13052.55,UPI,Pending,xpressbees,Returned,Wrong Product,4
+ORD000542,05-10-2025,12-10-2025,C111,Customer 398,Male,30,Mumbai,Maharashtra,P003,Cookware,Home & Kitchen,LG,1,91132,500,327,12,101874.08,UPI,,xpressbees,Delivered,,3
+ORD000543,29-04-2024,,C036,Customer 397,Male,21,Bengaluru,Karnataka,P067,Shampoo,Beauty,Nike,5,46335,5000,221,18,267737.28,COD,,Blue Dart,Cancelled,,5
+ORD000544,18-11-2025,,C478,Customer 68,Female,39,Chennai,Tamil Nadu,P100,Yoga Mat,Sports,Apple,3,64519,500,308,5,203033.25,UPI,,Ecom Express,In Transit,,5
+ORD000545,25-03-2025,,C026,Customer 495,Female,18,Mumbai,Maharashtra,P170,Bottle,Home & Kitchen,Apple,4,98159,500,193,18,462948.22,Google Pay,Pending,Delhivery,In Transit,,5
+ORD000546,28-06-2025,01-07-2025,C280,Customer 500,Female,29,Chennai,Tamil Nadu,P171,Phone,Electronics,Boat,4,60681,1000,252,5,254074.8,Card,Pending,xpressbees,Returned,Size Issue,3
+ORD000547,12-01-2025,16-01-2025,C025,Customer 493,Female,20,Mumbai,Maharashtra,P098,Sugar,Grocery,LG,5,138763,500,9,18,818122.32,Wallet,,Ecom Express,Delivered,,4
+ORD000548,18-06-2024,21-06-2024,C061,Customer 311,Female,61,Chennai,Tamil Nadu,P097,Football,Sports,Puma,2,104569,0,425,18,247284.34,Wallet,,Blue Dart,Delivered,,5
+ORD000549,02-04-2025,,C339,Customer 126,Male,65,Delhi,Delhi,P090,Face Wash,Beauty,LG,1,36376,500,213,5,37893.45,COD,Paid,Ecom Express,In Transit,,4
+ORD000550,20-11-2025,21-11-2025,C420,Customer 84,Male,42,Mumbai,Maharashtra,P086,T-Shirt,Fashion,Boat,5,60527,500,170,5,317420.25,Wallet,Paid,xpressbees,Delivered,,3
+ORD000551,01-05-2025,,C014,Customer 351,Male,56,Delhi,Delhi,P193,Rice,Grocery,Lakme,4,15299,500,255,12,68265.12,COD,Paid,Blue Dart,Cancelled,,3
+ORD000552,16-01-2025,,C042,Customer 59,Male,66,Hyderabad,Telangana,P176,Phone,Electronics,LG,2,37831,1000,355,18,88520.06,UPI,Paid,Blue Dart,In Transit,,4
+ORD000553,25-10-2025,29-10-2025,C303,Customer 278,Male,35,Pune,Maharashtra,P081,Laptop,Electronics,Lakme,2,52418,1000,351,5,109396.35,COD,Paid,xpressbees,Returned,Wrong Product,5
+ORD000554,25-02-2025,02-03-2025,C224,Customer 74,Female,64,pune,Maharashtra,P188,Sugar,Grocery,LG,5,45774,500,341,12,256156.32,COD,Pending,XpressBees,Returned,Damaged,3
+ORD000555,16-06-2025,20-06-2025,C033,Customer 165,Male,34,pune,Maharashtra,P110,Jeans,Fashion,Nike,4,57412,1000,275,12,256393.76,UPI,Pending,Ecom Express,Returned,Damaged,5
+ORD000556,19-06-2025,25-06-2025,C404,Customer 210,Male,30,Delhi,Delhi,P080,Jeans,Fashion,Boat,2,21240,500,141,12,47175.52,Google Pay,Paid,Delhivery,Delivered,,5
+ORD000557,14-10-2025,18-10-2025,C483,Customer 277,Male,54,Hyderabad,Telangana,P097,Cricket Bat,Sports,Samsung,4,59044,5000,379,12,259341.6,Google Pay,Paid,xpressbees,Returned,Damaged,3
+ORD000558,06-11-2024,13-11-2024,C113,Customer 55,Female,53,Chennai,Tamil Nadu,P055,Mixer,Home & Kitchen,Boat,2,70359,0,260,18,166354.04,UPI,Pending,xpressbees,Delivered,,3
+ORD000559,11-02-2025,13-02-2025,C362,Customer 252,Male,56,pune,Maharashtra,P030,Face Wash,Beauty,Puma,3,127702,0,370,5,402649.8,Google Pay,Paid,Ecom Express,Delivered,,3
+ORD000560,13-04-2024,,C036,Customer 172,Male,31,pune,Maharashtra,P153,Sugar,Grocery,Puma,4,8217,5000,197,5,29468.25,Wallet,Paid,Ecom Express,In Transit,,3
+ORD000561,24-10-2024,26-10-2024,C436,Customer 152,Female,33,Hyderabad,Telangana,P030,Cookware,Home & Kitchen,Boat,5,146984,500,232,12,822810.24,Net Banking,Pending,Ecom Express,Delivered,,3
+ORD000562,18-10-2025,,C216,Customer 213,Male,56,Hyderabad,Telangana,P062,Sugar,Grocery,Lakme,4,82319,5000,295,5,340799.55,Card,Pending,Blue Dart,In Transit,,5
+ORD000563,14-11-2025,19-11-2025,C296,Customer 427,Male,43,Bengaluru,Karnataka,P069,Lipstick,Beauty,Samsung,4,144476,0,469,18,682480.14,Net Banking,,XpressBees,Returned,Damaged,4
+ORD000564,15-08-2025,20-08-2025,C202,Customer 228,Male,18,Mumbai,Maharashtra,P124,Cricket Bat,Sports,Apple,1,14637,1000,428,12,15752.8,COD,,Ecom Express,Delivered,,5
+ORD000565,15-04-2024,,C495,Customer 480,Male,69,Mumbai,Maharashtra,P074,Face Wash,Beauty,Boat,4,123207,500,440,18,581466.24,Google Pay,Pending,Blue Dart,In Transit,,4
+ORD000566,17-06-2025,,C311,Customer 423,Female,35,Pune,Maharashtra,P028,Bottle,Home & Kitchen,Samsung,1,97867,5000,97,18,109697.52,UPI,,Ecom Express,In Transit,,3
+ORD000567,09-12-2024,,C218,Customer 339,Male,63,Hyderabad,Telangana,P055,Lipstick,Beauty,Nike,1,108812,5000,6,12,116276.16,UPI,Paid,Ecom Express,In Transit,,5
+ORD000568,03-03-2025,,C096,Customer 231,Male,48,Mumbai,Maharashtra,P073,Phone,Electronics,Nike,1,129612,5000,212,12,139802.88,Net Banking,Paid,Ecom Express,Cancelled,,5
+ORD000569,03-09-2025,,C247,Customer 21,Male,36,Chennai,Tamil Nadu,P079,Bottle,Home & Kitchen,Lakme,2,89430,0,334,12,200697.28,Wallet,,XpressBees,In Transit,,3
+ORD000570,17-10-2025,20-10-2025,C062,Customer 180,Male,24,Mumbai,Maharashtra,P124,Shoes,Fashion,Nike,4,137584,1000,297,12,615588.96,UPI,Pending,Ecom Express,Delivered,,3
+ORD000571,21-03-2024,25-03-2024,C384,Customer 394,Male,58,Chennai,Tamil Nadu,P018,Earbuds,Electronics,Boat,3,88918,1000,111,18,313720.7,Net Banking,Paid,Ecom Express,Returned,Damaged,5
+ORD000572,02-09-2024,08-09-2024,C398,Customer 383,Female,24,pune,Maharashtra,P073,Mixer,Home & Kitchen,Puma,2,5035,500,372,5,10439.1,Net Banking,Pending,Delhivery,Delivered,,3
+ORD000573,26-05-2024,27-05-2024,C050,Customer 226,Female,39,Delhi,Delhi,P050,Yoga Mat,Sports,Apple,4,148274,500,152,5,622385.4,UPI,,Blue Dart,Returned,Size Issue,3
+ORD000574,09-03-2024,,C061,Customer 163,Male,43,pune,Maharashtra,P068,Mixer,Home & Kitchen,LG,4,132525,500,436,12,593640.32,Google Pay,Pending,XpressBees,In Transit,,5
+ORD000575,04-05-2024,07-05-2024,C255,Customer 23,Male,59,Pune,Maharashtra,P042,Shampoo,Beauty,Nike,4,30517,500,459,18,143991.86,UPI,Paid,Ecom Express,Returned,Wrong Product,5
+ORD000576,17-04-2025,23-04-2025,C435,Customer 371,Female,66,pune,Maharashtra,P142,Rice,Grocery,Puma,1,149806,0,479,18,177336.3,Google Pay,Paid,XpressBees,Delivered,,4
+ORD000577,18-10-2024,23-10-2024,C359,Customer 333,Female,57,Bengaluru,Karnataka,P170,Shampoo,Beauty,Samsung,3,46589,500,307,12,156322.88,Net Banking,,xpressbees,Returned,Damaged,5
+ORD000578,17-08-2024,,C078,Customer 473,Female,24,Mumbai,Maharashtra,P108,Earbuds,Electronics,Samsung,2,78543,500,307,5,164737.65,UPI,Paid,Blue Dart,In Transit,,5
+ORD000579,24-09-2025,,C219,Customer 236,Male,21,pune,Maharashtra,P168,Oil,Grocery,LG,4,22411,500,78,18,105281.96,Net Banking,Pending,XpressBees,In Transit,,5
+ORD000580,02-07-2025,,C113,Customer 325,Male,56,Chennai,Tamil Nadu,P081,Jeans,Fashion,Puma,1,81580,500,59,12,90875.68,UPI,,XpressBees,In Transit,,3
+ORD000581,21-08-2025,24-08-2025,C271,Customer 318,Male,67,Delhi,Delhi,P132,Shoes,Fashion,Lakme,5,142144,1000,255,18,837770.5,COD,,Blue Dart,Returned,Damaged,5
+ORD000582,10-08-2025,13-08-2025,C446,Customer 261,Male,33,Chennai,Tamil Nadu,P135,Cookware,Home & Kitchen,LG,3,90586,5000,24,18,314802.76,UPI,,Delhivery,Delivered,,5
+ORD000583,26-01-2025,31-01-2025,C463,Customer 449,Female,29,Mumbai,Maharashtra,P028,Lipstick,Beauty,Apple,1,90567,0,109,5,95209.8,Google Pay,Paid,Delhivery,Returned,Wrong Product,5
+ORD000584,01-10-2025,,C229,Customer 388,Female,39,Delhi,Delhi,P131,Jeans,Fashion,Puma,4,52422,0,165,12,235035.36,Card,Paid,Ecom Express,Cancelled,,5
+ORD000585,24-11-2025,26-11-2025,C423,Customer 373,Female,52,Mumbai,Maharashtra,P006,Cookware,Home & Kitchen,Lakme,5,29663,500,295,5,155515.5,Net Banking,Paid,Blue Dart,Delivered,,3
+ORD000586,29-03-2024,,C081,Customer 275,Male,64,Mumbai,Maharashtra,P030,Cricket Bat,Sports,LG,4,101322,1000,427,12,453280.8,Google Pay,Paid,XpressBees,Cancelled,,3
+ORD000587,10-08-2024,16-08-2024,C453,Customer 275,Female,21,pune,Maharashtra,P190,Cookware,Home & Kitchen,LG,3,146785,5000,24,12,487624.48,Google Pay,Pending,Blue Dart,Delivered,,5
+ORD000588,23-03-2024,,C283,Customer 118,Male,20,Pune,Maharashtra,P159,Laptop,Electronics,Puma,4,137336,0,266,5,577090.5,COD,Pending,Blue Dart,In Transit,,
+ORD000589,23-06-2024,,C047,Customer 400,Female,40,pune,Maharashtra,P166,Bottle,Home & Kitchen,Boat,5,76122,0,165,12,426468,Google Pay,Pending,xpressbees,In Transit,,3
+ORD000590,07-03-2025,09-03-2025,C173,Customer 271,Female,59,pune,Maharashtra,P058,Rice,Grocery,Apple,5,79658,5000,270,18,464400.8,Net Banking,Paid,Delhivery,Returned,Damaged,3
+ORD000591,01-08-2025,,C429,Customer 141,Male,66,Mumbai,Maharashtra,P036,Jeans,Fashion,Apple,4,25356,1000,133,18,118657.26,Card,Paid,Delhivery,In Transit,,3
+ORD000592,18-08-2025,,C293,Customer 159,Male,19,Bengaluru,Karnataka,P194,Oil,Grocery,Apple,3,77425,5000,1,5,238639.8,Wallet,Pending,Ecom Express,Cancelled,,3
+ORD000593,06-01-2024,,C489,Customer 344,Female,54,Pune,Maharashtra,P046,Shampoo,Beauty,Boat,4,33059,500,274,5,138610.5,Google Pay,Pending,Delhivery,In Transit,,4
+ORD000594,15-12-2024,,C135,Customer 251,Female,58,Hyderabad,Telangana,P078,Laptop,Electronics,Puma,2,46664,1000,323,12,103769.12,Wallet,,xpressbees,In Transit,,5
+ORD000595,11-07-2024,,C336,Customer 100,Male,34,Delhi,Delhi,P160,T-Shirt,Fashion,Boat,5,66404,5000,81,18,385979.18,Wallet,Pending,XpressBees,In Transit,,5
+ORD000596,06-05-2024,,C411,Customer 31,Female,63,Chennai,Tamil Nadu,P014,Rice,Grocery,Apple,4,116222,500,374,12,520533.44,Google Pay,Paid,Delhivery,In Transit,,3
+ORD000597,21-11-2024,,C041,Customer 285,Female,23,Bengaluru,Karnataka,P178,Cookware,Home & Kitchen,Nike,1,109958,5000,478,18,124414.48,UPI,Pending,xpressbees,Cancelled,,5
+ORD000598,02-11-2024,,C123,Customer 130,Male,34,Bengaluru,Karnataka,P026,Cookware,Home & Kitchen,LG,4,103634,500,372,18,489001.44,Wallet,Paid,Ecom Express,In Transit,,5
+ORD000599,04-10-2025,10-10-2025,C431,Customer 468,Male,53,Hyderabad,Telangana,P040,Bottle,Home & Kitchen,Lakme,4,120691,0,31,5,506934.75,Card,,xpressbees,Delivered,,3
+ORD000600,06-07-2024,,C104,Customer 307,Male,36,Chennai,Tamil Nadu,P002,Phone,Electronics,LG,5,116620,500,365,5,612113.25,Google Pay,Paid,Blue Dart,In Transit,,
+ORD000601,21-08-2024,28-08-2024,C380,Customer 264,Male,53,Hyderabad,Telangana,P128,Shoes,Fashion,Apple,5,61510,500,272,12,344200.64,Google Pay,Pending,xpressbees,Delivered,,3
+ORD000602,27-01-2025,,C455,Customer 174,Male,41,pune,Maharashtra,P042,Jeans,Fashion,Apple,5,84725,500,50,18,499346.5,COD,,Delhivery,Cancelled,,4
+ORD000603,16-06-2025,19-06-2025,C187,Customer 353,Female,66,Pune,Maharashtra,P117,Jeans,Fashion,LG,4,97580,500,53,5,409366.65,COD,Paid,XpressBees,Returned,Wrong Product,4
+ORD000604,22-10-2024,24-10-2024,C153,Customer 93,Male,57,pune,Maharashtra,P165,Lipstick,Beauty,Boat,5,69603,0,187,18,410878.36,Wallet,Paid,Ecom Express,Returned,Size Issue,5
+ORD000605,15-10-2025,,C420,Customer 165,Female,61,Chennai,Tamil Nadu,P120,Shoes,Fashion,Apple,4,5080,1000,407,5,20713.35,Net Banking,,Ecom Express,Cancelled,,3
+ORD000606,02-03-2024,08-03-2024,C087,Customer 374,Female,29,Chennai,Tamil Nadu,P120,Yoga Mat,Sports,Lakme,5,84866,0,199,5,445755.45,Card,Paid,Blue Dart,Delivered,,3
+ORD000607,19-03-2025,,C076,Customer 99,Female,54,Mumbai,Maharashtra,P157,Yoga Mat,Sports,Puma,1,62109,5000,302,5,60281.55,Wallet,Paid,xpressbees,In Transit,,3
+ORD000608,30-06-2025,,C193,Customer 104,Male,18,Mumbai,Maharashtra,P163,Earbuds,Electronics,Apple,4,28475,5000,432,5,114798.6,UPI,Pending,XpressBees,In Transit,,4
+ORD000609,06-09-2024,09-09-2024,C337,Customer 415,Female,60,Mumbai,Maharashtra,P049,Cookware,Home & Kitchen,LG,1,97847,500,217,18,115125.52,COD,Paid,XpressBees,Returned,Size Issue,4
+ORD000610,17-12-2025,,C062,Customer 370,Female,30,Mumbai,Maharashtra,P008,Bottle,Home & Kitchen,Apple,4,137684,5000,448,18,644497.12,COD,,xpressbees,Cancelled,,3
+ORD000611,19-12-2024,20-12-2024,C413,Customer 167,Female,58,Hyderabad,Telangana,P093,Football,Sports,Boat,5,43242,1000,122,18,254091.76,Google Pay,Pending,xpressbees,Delivered,,5
+ORD000612,09-03-2025,15-03-2025,C088,Customer 156,Male,44,Bengaluru,Karnataka,P060,Earbuds,Electronics,Apple,5,118815,1000,137,5,622872.6,Card,Pending,Delhivery,Returned,Damaged,4
+ORD000613,28-09-2024,,C354,Customer 274,Female,44,pune,Maharashtra,P056,Sugar,Grocery,Lakme,2,6009,500,343,18,13995.98,Google Pay,Paid,Delhivery,Cancelled,,3
+ORD000614,03-07-2025,,C484,Customer 71,Male,60,pune,Maharashtra,P099,Shampoo,Beauty,LG,1,105364,1000,331,18,123540.1,Google Pay,,Delhivery,Cancelled,,4
+ORD000615,25-11-2024,,C485,Customer 119,Male,66,Pune,Maharashtra,P157,Shoes,Fashion,Lakme,1,48196,1000,179,18,55902.5,Google Pay,Pending,Ecom Express,Cancelled,,4
+ORD000616,02-11-2024,08-11-2024,C189,Customer 422,Male,66,pune,Maharashtra,P144,T-Shirt,Fashion,Apple,5,738,1000,462,18,3719.36,Card,Pending,Blue Dart,Returned,Damaged,5
+ORD000617,31-01-2025,03-02-2025,C061,Customer 15,Female,46,Delhi,Delhi,P120,Cricket Bat,Sports,Puma,2,87411,1000,468,18,205662.2,COD,Pending,xpressbees,Delivered,,5
+ORD000618,25-05-2024,29-05-2024,C431,Customer 313,Female,19,Mumbai,Maharashtra,P167,Cookware,Home & Kitchen,Nike,1,46150,5000,112,18,48689.16,COD,Pending,Delhivery,Delivered,,5
+ORD000619,23-04-2025,28-04-2025,C482,Customer 497,Female,45,Bengaluru,Karnataka,P110,Oil,Grocery,Samsung,2,7438,0,199,5,15828.75,UPI,Pending,Delhivery,Delivered,,5
+ORD000620,14-03-2024,,C209,Customer 265,Female,34,Bengaluru,Karnataka,P175,Face Wash,Beauty,Puma,4,25790,5000,144,12,110100.48,Net Banking,Pending,Blue Dart,In Transit,,5
+ORD000621,13-07-2025,15-07-2025,C193,Customer 263,Female,60,Pune,Maharashtra,P043,Phone,Electronics,LG,3,98568,0,270,18,349249.32,Wallet,,Blue Dart,Returned,Damaged,5
+ORD000622,09-06-2025,12-06-2025,C279,Customer 31,Male,22,pune,Maharashtra,P032,Earbuds,Electronics,Nike,1,96830,500,30,5,101178,Google Pay,,Delhivery,Returned,Size Issue,3
+ORD000623,05-01-2024,10-01-2024,C225,Customer 221,Female,65,Chennai,Tamil Nadu,P059,Earbuds,Electronics,Apple,3,116864,500,168,5,367773,Google Pay,,Blue Dart,Delivered,,4
+ORD000624,01-11-2024,,C431,Customer 4,Female,47,Pune,Maharashtra,P028,Shampoo,Beauty,Lakme,2,100739,5000,359,12,220457.44,UPI,Pending,Blue Dart,Cancelled,,3
+ORD000625,01-03-2024,,C359,Customer 78,Female,21,Bengaluru,Karnataka,P061,Laptop,Electronics,Lakme,5,26157,5000,373,5,132465.9,Wallet,Paid,Ecom Express,In Transit,,5
+ORD000626,29-10-2024,01-11-2024,C236,Customer 52,Female,21,pune,Maharashtra,P183,Face Wash,Beauty,Nike,4,90044,5000,162,12,397978.56,Card,,Ecom Express,Returned,Wrong Product,4
+ORD000627,19-10-2025,,C376,Customer 448,Male,34,pune,Maharashtra,P007,Cricket Bat,Sports,Samsung,1,73387,5000,444,5,72272.55,Google Pay,,XpressBees,In Transit,,5
+ORD000628,21-09-2025,27-09-2025,C379,Customer 309,Female,31,Chennai,Tamil Nadu,P067,Earbuds,Electronics,Puma,2,3266,500,128,18,7268.8,Google Pay,,XpressBees,Returned,Wrong Product,4
+ORD000629,10-09-2025,17-09-2025,C310,Customer 4,Female,30,Delhi,Delhi,P080,Cookware,Home & Kitchen,Boat,4,93710,5000,241,5,388585.05,Google Pay,Pending,Delhivery,Returned,Wrong Product,5
+ORD000630,14-04-2025,15-04-2025,C251,Customer 46,Female,28,Pune,Maharashtra,P085,Lipstick,Beauty,Boat,1,13143,500,214,12,14399.84,Card,Pending,Blue Dart,Returned,Damaged,5
+ORD000631,01-02-2024,08-02-2024,C300,Customer 477,Female,58,Bengaluru,Karnataka,P062,Cricket Bat,Sports,Boat,1,146200,1000,228,12,162879.36,Card,,Blue Dart,Delivered,,4
+ORD000632,13-06-2025,,C108,Customer 494,Male,23,Chennai,Tamil Nadu,P071,Jeans,Fashion,Nike,1,30582,5000,382,5,27262.2,UPI,,XpressBees,Cancelled,,4
+ORD000633,25-09-2024,27-09-2024,C079,Customer 58,Male,31,pune,Maharashtra,P071,Shampoo,Beauty,LG,2,8430,1000,10,5,16663.5,Net Banking,,Delhivery,Delivered,,4
+ORD000634,05-03-2024,,C030,Customer 273,Male,70,Chennai,Tamil Nadu,P190,Lipstick,Beauty,Samsung,4,16558,0,233,18,78428.7,Google Pay,,Ecom Express,In Transit,,5
+ORD000635,13-08-2024,,C056,Customer 380,Male,33,Bengaluru,Karnataka,P171,Cookware,Home & Kitchen,Nike,4,94155,0,312,12,422163.84,UPI,Paid,Ecom Express,In Transit,,3
+ORD000636,01-06-2025,06-06-2025,C176,Customer 321,Female,65,Pune,Maharashtra,P126,Oil,Grocery,Apple,1,48304,500,264,5,50471.4,UPI,,XpressBees,Returned,Wrong Product,3
+ORD000637,08-10-2025,,C022,Customer 454,Female,42,Hyderabad,Telangana,P119,Phone,Electronics,Boat,4,102801,0,43,5,431809.35,UPI,,Ecom Express,Cancelled,,4
+ORD000638,29-05-2024,,C094,Customer 92,Male,28,Hyderabad,Telangana,P191,T-Shirt,Fashion,Nike,1,65653,500,83,5,68497.8,Card,Pending,Blue Dart,In Transit,,5
+ORD000639,12-06-2024,,C202,Customer 370,Female,64,pune,Maharashtra,P101,Cricket Bat,Sports,Apple,4,140164,500,491,5,588679.35,Google Pay,Pending,Ecom Express,In Transit,,4
+ORD000640,30-08-2025,02-09-2025,C352,Customer 432,Female,36,Bengaluru,Karnataka,P178,Phone,Electronics,Samsung,4,86340,5000,353,18,402041.34,Google Pay,Pending,Blue Dart,Returned,Wrong Product,3
+ORD000641,23-05-2025,30-05-2025,C211,Customer 460,Female,31,Mumbai,Maharashtra,P058,Bottle,Home & Kitchen,Lakme,4,55890,0,52,12,250445.44,UPI,,Blue Dart,Returned,Wrong Product,4
+ORD000642,26-05-2025,02-06-2025,C120,Customer 169,Male,35,Pune,Maharashtra,P099,Yoga Mat,Sports,Nike,1,10761,500,494,18,12690.9,COD,,xpressbees,Returned,Wrong Product,5
+ORD000643,03-01-2024,,C446,Customer 372,Male,46,Mumbai,Maharashtra,P103,Earbuds,Electronics,Boat,2,148815,0,393,18,351667.14,Card,Paid,Delhivery,Cancelled,,3
+ORD000644,22-05-2025,24-05-2025,C395,Customer 302,Female,59,Hyderabad,Telangana,P148,T-Shirt,Fashion,Apple,2,92983,0,149,5,195420.75,Card,Paid,Blue Dart,Returned,Damaged,3
+ORD000645,27-03-2024,,C179,Customer 255,Female,20,Mumbai,Maharashtra,P171,Sugar,Grocery,Nike,3,44524,1000,299,18,156787.78,COD,Paid,Blue Dart,In Transit,,3
+ORD000646,03-03-2025,08-03-2025,C073,Customer 134,Female,29,Pune,Maharashtra,P109,Cricket Bat,Sports,Lakme,2,68111,1000,300,5,142298.1,Net Banking,Pending,xpressbees,Returned,Size Issue,4
+ORD000647,25-03-2024,01-04-2024,C029,Customer 317,Female,60,Bengaluru,Karnataka,P181,Cricket Bat,Sports,Apple,2,146837,1000,413,12,328257.44,Card,Pending,Delhivery,Returned,Wrong Product,5
+ORD000648,06-07-2024,10-07-2024,C226,Customer 85,Male,50,Chennai,Tamil Nadu,P072,T-Shirt,Fashion,Nike,2,105998,0,53,5,222651.45,COD,,Ecom Express,Returned,Damaged,4
+ORD000649,04-09-2024,,C308,Customer 397,Female,63,Hyderabad,Telangana,P102,Bottle,Home & Kitchen,LG,4,146244,1000,484,18,689662.8,UPI,,Ecom Express,Cancelled,,3
+ORD000650,13-08-2024,14-08-2024,C470,Customer 194,Female,34,Delhi,Delhi,P171,Sugar,Grocery,Apple,2,82618,1000,362,18,194225.64,COD,,xpressbees,Delivered,,5
+ORD000651,26-05-2025,29-05-2025,C300,Customer 145,Female,51,Hyderabad,Telangana,P048,Shoes,Fashion,Boat,3,125036,0,231,12,420379.68,UPI,,xpressbees,Delivered,,3
+ORD000652,08-09-2025,15-09-2025,C315,Customer 402,Female,44,Bengaluru,Karnataka,P147,Mixer,Home & Kitchen,Nike,2,94202,500,384,12,210882.56,Net Banking,Pending,XpressBees,Delivered,,5
+ORD000653,04-06-2024,07-06-2024,C351,Customer 21,Female,58,Chennai,Tamil Nadu,P066,Bottle,Home & Kitchen,LG,1,81924,5000,82,5,80856.3,Card,Paid,Delhivery,Returned,Size Issue,4
+ORD000654,15-11-2024,22-11-2024,C363,Customer 457,Male,68,Pune,Maharashtra,P148,Lipstick,Beauty,Boat,3,57104,1000,33,18,201007.1,UPI,,XpressBees,Returned,Damaged,5
+ORD000655,16-01-2024,,C336,Customer 353,Male,56,Mumbai,Maharashtra,P113,Shampoo,Beauty,Lakme,5,137607,5000,86,18,806082.78,Card,,Blue Dart,Cancelled,,4
+ORD000656,29-09-2025,,C050,Customer 144,Female,70,Bengaluru,Karnataka,P024,Rice,Grocery,Lakme,3,54291,5000,148,5,165922.05,Google Pay,Pending,XpressBees,Cancelled,,3
+ORD000657,23-07-2024,29-07-2024,C062,Customer 397,Male,48,Delhi,Delhi,P142,Sugar,Grocery,Nike,3,60150,5000,338,12,196882.56,Google Pay,,Ecom Express,Returned,Size Issue,5
+ORD000658,07-01-2025,,C456,Customer 71,Male,52,Delhi,Delhi,P157,Jeans,Fashion,Puma,1,94068,5000,287,12,100077.6,UPI,,xpressbees,Cancelled,,3
+ORD000659,19-10-2025,23-10-2025,C171,Customer 345,Female,37,Mumbai,Maharashtra,P056,Mixer,Home & Kitchen,Samsung,3,87312,0,64,12,293440,Net Banking,Paid,XpressBees,Returned,Size Issue,4
+ORD000660,19-03-2024,23-03-2024,C084,Customer 194,Female,23,Pune,Maharashtra,P186,Phone,Electronics,Puma,2,114289,1000,119,18,268682.46,Wallet,Pending,XpressBees,Returned,Damaged,5
+ORD000661,06-04-2025,,C391,Customer 220,Male,30,Chennai,Tamil Nadu,P105,T-Shirt,Fashion,Lakme,3,78195,500,134,5,245929.95,Wallet,,XpressBees,In Transit,,3
+ORD000662,22-02-2024,23-02-2024,C150,Customer 4,Female,43,Delhi,Delhi,P066,Bottle,Home & Kitchen,Puma,5,32241,1000,78,18,189133.94,Card,Paid,Blue Dart,Delivered,,4
+ORD000663,06-04-2024,,C217,Customer 15,Female,57,pune,Maharashtra,P066,T-Shirt,Fashion,Boat,3,139307,1000,314,5,438096.75,Wallet,Paid,Ecom Express,Cancelled,,3
+ORD000664,28-05-2024,,C443,Customer 95,Female,45,Delhi,Delhi,P090,Shampoo,Beauty,LG,3,55973,5000,378,5,171461.85,COD,Paid,XpressBees,Cancelled,,5
+ORD000665,02-09-2025,09-09-2025,C084,Customer 226,Male,44,Hyderabad,Telangana,P161,Rice,Grocery,Apple,1,38008,5000,185,5,34852.65,Card,Paid,XpressBees,Delivered,,5
+ORD000666,01-10-2025,,C429,Customer 363,Female,29,Hyderabad,Telangana,P189,Mixer,Home & Kitchen,Nike,2,95072,0,403,5,200074.35,UPI,,xpressbees,In Transit,,3
+ORD000667,29-11-2025,,C321,Customer 310,Female,64,Bengaluru,Karnataka,P030,Mixer,Home & Kitchen,Puma,1,89678,5000,203,12,95066.72,Net Banking,,xpressbees,In Transit,,4
+ORD000668,28-03-2024,,C205,Customer 353,Female,23,Delhi,Delhi,P034,Yoga Mat,Sports,Nike,2,81094,5000,284,18,185816.96,UPI,Pending,XpressBees,In Transit,,5
+ORD000669,09-03-2025,14-03-2025,C476,Customer 406,Female,62,Bengaluru,Karnataka,P182,Cookware,Home & Kitchen,Lakme,5,59387,500,182,5,311447.85,COD,Pending,xpressbees,Delivered,,5
+ORD000670,15-08-2024,17-08-2024,C150,Customer 451,Male,69,Delhi,Delhi,P159,Sugar,Grocery,Boat,5,27221,0,71,12,152517.12,Google Pay,Paid,XpressBees,Returned,Wrong Product,4
+ORD000671,13-11-2024,16-11-2024,C025,Customer 225,Female,19,pune,Maharashtra,P101,Shampoo,Beauty,Nike,2,41205,0,281,5,86825.55,Net Banking,Paid,Blue Dart,Delivered,,3
+ORD000672,30-04-2024,,C025,Customer 140,Female,34,pune,Maharashtra,P035,Jeans,Fashion,Puma,3,103470,0,413,5,326364.15,Google Pay,,Ecom Express,Cancelled,,4
+ORD000673,26-10-2025,,C239,Customer 385,Female,24,Mumbai,Maharashtra,P163,Mixer,Home & Kitchen,LG,1,128491,0,17,5,134933.4,UPI,Paid,XpressBees,In Transit,,5
+ORD000674,24-11-2025,,C456,Customer 333,Male,27,pune,Maharashtra,P103,Yoga Mat,Sports,Nike,5,14407,0,64,5,75703.95,Card,Paid,xpressbees,In Transit,,4
+ORD000675,28-05-2025,01-06-2025,C284,Customer 414,Female,44,Bengaluru,Karnataka,P025,Oil,Grocery,LG,5,73843,5000,71,5,382500.3,Wallet,Pending,Blue Dart,Returned,Wrong Product,5
+ORD000676,04-06-2025,,C323,Customer 250,Female,44,Chennai,Tamil Nadu,P165,Face Wash,Beauty,Puma,3,137859,0,469,18,488574.28,UPI,Pending,xpressbees,Cancelled,,5
+ORD000677,15-12-2024,,C267,Customer 329,Female,60,pune,Maharashtra,P151,Face Wash,Beauty,Lakme,4,128584,0,215,18,607170.18,UPI,Paid,xpressbees,In Transit,,5
+ORD000678,21-10-2025,26-10-2025,C466,Customer 346,Female,67,Mumbai,Maharashtra,P088,Cricket Bat,Sports,Samsung,1,32502,0,71,18,38436.14,Net Banking,Pending,Delhivery,Returned,Damaged,5
+ORD000679,13-06-2025,,C195,Customer 166,Female,20,Bengaluru,Karnataka,P126,Shoes,Fashion,LG,5,109723,5000,465,18,642014.4,Wallet,,XpressBees,Cancelled,,5
+ORD000680,11-01-2025,15-01-2025,C107,Customer 411,Male,26,Pune,Maharashtra,P041,Face Wash,Beauty,LG,3,138874,0,113,5,437571.75,Wallet,,XpressBees,Returned,Damaged,3
+ORD000681,18-07-2025,25-07-2025,C373,Customer 121,Female,36,Bengaluru,Karnataka,P187,Cricket Bat,Sports,Nike,4,47547,1000,286,5,198947.7,Wallet,Pending,Ecom Express,Delivered,,
+ORD000682,08-10-2025,,C392,Customer 465,Female,46,Delhi,Delhi,P062,Laptop,Electronics,Lakme,1,62497,0,9,5,65631.3,Net Banking,Pending,Blue Dart,In Transit,,4
+ORD000683,07-02-2024,08-02-2024,C104,Customer 194,Male,48,Chennai,Tamil Nadu,P192,Cookware,Home & Kitchen,Nike,4,3398,0,366,18,16470.44,COD,Pending,Delhivery,Delivered,,4
+ORD000684,01-02-2025,06-02-2025,C417,Customer 348,Female,32,Bengaluru,Karnataka,P056,Cricket Bat,Sports,Apple,2,52365,5000,237,5,104965.35,COD,Pending,xpressbees,Returned,Wrong Product,4
+ORD000685,12-01-2024,15-01-2024,C376,Customer 136,Male,24,Chennai,Tamil Nadu,P009,Lipstick,Beauty,Boat,2,114153,0,114,18,269535.6,Google Pay,,Delhivery,Returned,Wrong Product,3
+ORD000686,01-09-2024,,C095,Customer 472,Male,56,pune,Maharashtra,P151,Phone,Electronics,Samsung,1,112459,0,60,12,126021.28,Card,,xpressbees,In Transit,,
+ORD000687,30-08-2025,,C339,Customer 360,Female,67,pune,Maharashtra,P174,Laptop,Electronics,LG,4,15184,0,159,5,63939.75,Google Pay,Paid,xpressbees,In Transit,,4
+ORD000688,23-10-2024,29-10-2024,C292,Customer 499,Female,68,Chennai,Tamil Nadu,P098,Yoga Mat,Sports,LG,2,932,1000,405,12,1421.28,Net Banking,,XpressBees,Delivered,,3
+ORD000689,18-12-2024,,C316,Customer 50,Male,20,Chennai,Tamil Nadu,P129,Shoes,Fashion,LG,5,104361,1000,71,5,546919.8,Card,Paid,Delhivery,Cancelled,,3
+ORD000690,24-09-2025,,C044,Customer 492,Female,44,Chennai,Tamil Nadu,P197,Shoes,Fashion,Puma,4,13598,5000,447,5,52330.95,Net Banking,,Ecom Express,In Transit,,3
+ORD000691,29-07-2025,,C061,Customer 40,Female,28,pune,Maharashtra,P156,Oil,Grocery,Apple,2,121881,0,297,5,256261.95,Net Banking,,XpressBees,In Transit,,5
+ORD000692,27-06-2024,28-06-2024,C025,Customer 89,Female,56,Mumbai,Maharashtra,P072,Laptop,Electronics,Nike,3,70390,500,245,12,236224.8,Card,Paid,XpressBees,Returned,Size Issue,5
+ORD000693,22-03-2024,27-03-2024,C451,Customer 246,Male,24,pune,Maharashtra,P097,Phone,Electronics,Puma,2,87745,0,332,5,184613.1,UPI,,Delhivery,Delivered,,5
+ORD000694,02-09-2025,,C483,Customer 284,Male,52,Delhi,Delhi,P156,Lipstick,Beauty,Puma,1,14361,500,195,12,15742.72,Wallet,Pending,Blue Dart,In Transit,,5
+ORD000695,06-12-2025,,C030,Customer 352,Male,18,Chennai,Tamil Nadu,P050,Cookware,Home & Kitchen,Puma,4,105253,5000,334,18,491288.28,Wallet,Pending,Delhivery,In Transit,,3
+ORD000696,06-04-2025,13-04-2025,C273,Customer 395,Male,30,Delhi,Delhi,P152,Jeans,Fashion,Apple,3,124813,500,491,18,441827.4,Google Pay,Pending,xpressbees,Delivered,,5
+ORD000697,07-12-2024,09-12-2024,C145,Customer 164,Female,34,pune,Maharashtra,P118,Mixer,Home & Kitchen,Samsung,1,112410,500,314,5,117835.2,Wallet,,xpressbees,Returned,Wrong Product,3
+ORD000698,21-09-2024,,C136,Customer 383,Male,49,Hyderabad,Telangana,P144,Sugar,Grocery,Puma,1,108113,0,338,12,121465.12,Wallet,Pending,Delhivery,In Transit,,5
+ORD000699,21-10-2024,,C072,Customer 23,Female,25,Bengaluru,Karnataka,P043,Oil,Grocery,Samsung,3,69438,5000,20,18,239934.12,Wallet,,Delhivery,Cancelled,,3
+ORD000700,29-09-2024,30-09-2024,C314,Customer 239,Male,52,Pune,Maharashtra,P154,Yoga Mat,Sports,Boat,2,15813,1000,80,18,36233.08,Card,,Delhivery,Returned,Damaged,4
+ORD000701,29-02-2024,,C053,Customer 299,Female,57,Bengaluru,Karnataka,P083,Lipstick,Beauty,Boat,3,73913,500,184,5,232494.15,UPI,Pending,Blue Dart,Cancelled,,3
+ORD000702,24-01-2025,,C041,Customer 77,Male,18,Hyderabad,Telangana,P001,Mixer,Home & Kitchen,Nike,5,149966,1000,17,5,786289.35,Card,Pending,Ecom Express,In Transit,,3
+ORD000703,15-03-2024,22-03-2024,C331,Customer 303,Female,20,pune,Maharashtra,P151,Face Wash,Beauty,Nike,2,1822,0,335,18,4695.22,Google Pay,Pending,Delhivery,Returned,Size Issue,5
+ORD000704,03-05-2024,08-05-2024,C153,Customer 12,Male,27,Delhi,Delhi,P003,Yoga Mat,Sports,Puma,1,110731,0,412,5,116700.15,COD,Pending,xpressbees,Returned,Damaged,4
+ORD000705,23-01-2024,,C047,Customer 340,Male,61,Mumbai,Maharashtra,P191,Jeans,Fashion,Samsung,1,128504,500,30,12,143398.08,Wallet,,xpressbees,Cancelled,,3
+ORD000706,15-12-2025,,C078,Customer 183,Male,60,Chennai,Tamil Nadu,P050,Cricket Bat,Sports,Apple,1,49466,0,175,18,58576.38,Google Pay,,xpressbees,Cancelled,,5
+ORD000707,06-09-2024,,C113,Customer 322,Female,33,Hyderabad,Telangana,P120,Cookware,Home & Kitchen,Puma,5,121087,5000,213,5,630680.4,Google Pay,,xpressbees,In Transit,,4
+ORD000708,24-08-2024,30-08-2024,C286,Customer 315,Male,34,pune,Maharashtra,P091,Sugar,Grocery,Nike,1,139853,1000,313,18,164215.88,COD,Pending,XpressBees,Returned,Size Issue,3
+ORD000709,27-11-2025,,C276,Customer 76,Female,51,pune,Maharashtra,P181,Mixer,Home & Kitchen,LG,4,30509,1000,353,12,135955.68,Net Banking,Paid,Delhivery,Cancelled,,3
+ORD000710,07-03-2024,,C471,Customer 441,Female,21,pune,Maharashtra,P012,Oil,Grocery,Puma,4,115023,500,107,12,514862.88,Net Banking,,xpressbees,Cancelled,,5
+ORD000711,03-09-2024,09-09-2024,C058,Customer 164,Male,52,Delhi,Delhi,P069,Shoes,Fashion,LG,3,87453,0,210,5,275697.45,UPI,,XpressBees,Delivered,,3
+ORD000712,09-03-2024,15-03-2024,C222,Customer 6,Female,61,Pune,Maharashtra,P143,Oil,Grocery,Lakme,2,143795,0,243,18,339642.94,Google Pay,Paid,xpressbees,Delivered,,3
+ORD000713,27-10-2025,31-10-2025,C044,Customer 55,Male,38,Pune,Maharashtra,P078,Cricket Bat,Sports,Puma,4,148824,500,270,18,702177.88,UPI,Pending,Delhivery,Delivered,,4
+ORD000714,23-09-2024,30-09-2024,C184,Customer 54,Male,33,Pune,Maharashtra,P165,Rice,Grocery,Apple,3,41672,0,211,12,140254.24,Card,Paid,Blue Dart,Returned,Wrong Product,5
+ORD000715,07-11-2025,14-11-2025,C468,Customer 103,Male,38,Pune,Maharashtra,P197,Oil,Grocery,Nike,3,125873,500,308,12,422718.24,Google Pay,Pending,XpressBees,Delivered,,4
+ORD000716,05-04-2025,,C101,Customer 144,Male,33,Chennai,Tamil Nadu,P115,Jeans,Fashion,Boat,3,16874,500,223,12,56386.4,Card,,xpressbees,In Transit,,5
+ORD000717,14-02-2025,,C188,Customer 222,Female,18,Delhi,Delhi,P192,Yoga Mat,Sports,Apple,2,54627,1000,82,12,121336.32,Wallet,Pending,Ecom Express,Cancelled,,4
+ORD000718,12-08-2025,,C357,Customer 66,Male,21,Chennai,Tamil Nadu,P088,Jeans,Fashion,Lakme,5,118993,500,297,12,666133.44,Card,Pending,XpressBees,Cancelled,,5
+ORD000719,26-09-2025,,C479,Customer 221,Male,57,pune,Maharashtra,P036,Shoes,Fashion,Nike,2,71711,500,59,5,150130.05,Google Pay,,Ecom Express,Cancelled,,5
+ORD000720,01-03-2024,,C392,Customer 81,Male,65,Pune,Maharashtra,P171,Face Wash,Beauty,LG,1,20702,0,341,18,24830.74,Net Banking,Paid,xpressbees,Cancelled,,4
+ORD000721,14-10-2025,,C422,Customer 294,Male,35,Chennai,Tamil Nadu,P192,Cricket Bat,Sports,Boat,5,147983,500,74,12,828227.68,Google Pay,Paid,Delhivery,In Transit,,5
+ORD000722,27-10-2024,28-10-2024,C223,Customer 108,Male,62,Delhi,Delhi,P029,Oil,Grocery,Samsung,3,80046,5000,128,12,263497.92,Wallet,,XpressBees,Returned,Damaged,4
+ORD000723,23-03-2024,,C039,Customer 21,Female,20,Delhi,Delhi,P168,Lipstick,Beauty,Nike,5,138198,5000,31,12,768343.52,UPI,Pending,Ecom Express,In Transit,,3
+ORD000724,14-09-2025,16-09-2025,C234,Customer 257,Female,60,Mumbai,Maharashtra,P035,Football,Sports,Samsung,5,27040,1000,150,12,150472,COD,Pending,Ecom Express,Delivered,,4
+ORD000725,25-03-2025,,C249,Customer 126,Male,40,Delhi,Delhi,P176,Sugar,Grocery,Lakme,1,136537,500,84,18,160622.78,COD,,xpressbees,Cancelled,,4
+ORD000726,29-10-2025,,C418,Customer 244,Female,24,pune,Maharashtra,P020,Laptop,Electronics,Apple,4,58763,500,496,5,246800.4,UPI,,Delhivery,In Transit,,5
+ORD000727,11-03-2025,18-03-2025,C250,Customer 152,Male,63,Mumbai,Maharashtra,P097,Face Wash,Beauty,LG,3,137364,500,322,5,432509.7,UPI,,XpressBees,Returned,Wrong Product,3
+ORD000728,24-05-2024,,C146,Customer 417,Male,24,Bengaluru,Karnataka,P070,Mixer,Home & Kitchen,Puma,1,96522,500,163,18,113498.3,UPI,Paid,xpressbees,Cancelled,,4
+ORD000729,27-08-2025,,C238,Customer 223,Male,40,Pune,Maharashtra,P056,Oil,Grocery,Boat,4,125471,500,1,18,591634.3,COD,Pending,Delhivery,In Transit,,5
+ORD000730,04-05-2024,05-05-2024,C052,Customer 311,Female,39,Pune,Maharashtra,P186,Shampoo,Beauty,Nike,1,143629,0,99,5,150914.4,Google Pay,Pending,xpressbees,Returned,Size Issue,5
+ORD000731,22-05-2025,,C448,Customer 18,Female,34,Bengaluru,Karnataka,P019,Mixer,Home & Kitchen,Boat,1,109036,0,390,18,129122.68,COD,Paid,xpressbees,Cancelled,,4
+ORD000732,02-12-2025,,C346,Customer 361,Female,34,Pune,Maharashtra,P164,Sugar,Grocery,Samsung,1,62205,0,499,18,73990.72,Card,Pending,Delhivery,In Transit,,5
+ORD000733,21-05-2024,26-05-2024,C476,Customer 215,Male,21,Delhi,Delhi,P002,Mixer,Home & Kitchen,Lakme,3,17267,5000,274,18,55548.5,COD,Pending,Ecom Express,Returned,Size Issue,4
+ORD000734,09-11-2024,11-11-2024,C488,Customer 366,Male,59,Delhi,Delhi,P073,Phone,Electronics,Lakme,3,143746,5000,19,18,502983.26,UPI,Paid,Blue Dart,Returned,Wrong Product,
+ORD000735,22-01-2025,25-01-2025,C498,Customer 365,Female,57,Mumbai,Maharashtra,P187,Yoga Mat,Sports,Boat,1,88732,1000,213,18,103775.1,Google Pay,,Blue Dart,Delivered,,
+ORD000736,19-06-2024,24-06-2024,C344,Customer 61,Male,38,Bengaluru,Karnataka,P003,Sugar,Grocery,Lakme,1,120422,500,275,18,141832.46,Net Banking,,xpressbees,Returned,Damaged,3
+ORD000737,15-07-2024,16-07-2024,C004,Customer 486,Male,37,Bengaluru,Karnataka,P137,Yoga Mat,Sports,Lakme,5,7063,500,300,12,39328.8,Wallet,,Delhivery,Returned,Damaged,3
+ORD000738,22-04-2024,28-04-2024,C304,Customer 396,Female,39,Chennai,Tamil Nadu,P021,Cricket Bat,Sports,Samsung,1,47903,5000,259,5,45320.1,Card,Paid,Ecom Express,Returned,Wrong Product,4
+ORD000739,17-02-2024,20-02-2024,C069,Customer 461,Male,70,Delhi,Delhi,P058,Laptop,Electronics,Samsung,5,94269,0,89,18,556292.12,Card,Paid,Blue Dart,Returned,Damaged,3
+ORD000740,09-04-2025,,C245,Customer 446,Male,47,Hyderabad,Telangana,P037,Bottle,Home & Kitchen,Puma,1,97986,500,345,18,115440.58,Wallet,,Ecom Express,In Transit,,3
+ORD000741,25-09-2024,26-09-2024,C153,Customer 374,Male,70,Mumbai,Maharashtra,P164,Cricket Bat,Sports,Nike,3,63359,1000,304,18,223469.58,COD,Pending,Blue Dart,Returned,Size Issue,4
+ORD000742,21-03-2024,27-03-2024,C037,Customer 304,Female,38,Delhi,Delhi,P113,Football,Sports,Lakme,2,64716,500,327,12,144770.08,COD,Paid,Delhivery,Returned,Wrong Product,3
+ORD000743,04-12-2024,07-12-2024,C352,Customer 149,Female,65,Mumbai,Maharashtra,P119,Yoga Mat,Sports,Puma,4,39126,0,114,18,184809.24,Wallet,,xpressbees,Returned,Damaged,4
+ORD000744,06-02-2024,,C014,Customer 23,Male,43,Chennai,Tamil Nadu,P129,Shampoo,Beauty,Puma,1,26659,500,318,18,31242.86,Net Banking,,Ecom Express,Cancelled,,3
+ORD000745,07-08-2025,14-08-2025,C206,Customer 200,Female,29,Pune,Maharashtra,P029,Phone,Electronics,Apple,4,87736,500,448,18,414052.56,Google Pay,Paid,Delhivery,Returned,Damaged,3
+ORD000746,29-12-2024,31-12-2024,C006,Customer 170,Female,59,Chennai,Tamil Nadu,P200,Jeans,Fashion,Samsung,4,79924,0,464,18,377788.8,Google Pay,Pending,Blue Dart,Delivered,,5
+ORD000747,20-03-2025,,C468,Customer 115,Male,39,Pune,Maharashtra,P013,Bottle,Home & Kitchen,Samsung,4,110969,0,221,18,524034.46,Card,Paid,Blue Dart,Cancelled,,3
+ORD000748,08-07-2024,15-07-2024,C011,Customer 401,Female,43,Delhi,Delhi,P133,Yoga Mat,Sports,Lakme,5,81151,1000,288,12,453648.16,Net Banking,,Ecom Express,Returned,Size Issue,5
+ORD000749,19-02-2025,,C123,Customer 152,Male,31,Mumbai,Maharashtra,P161,Sugar,Grocery,Samsung,5,17744,5000,482,12,94306.24,UPI,,xpressbees,Cancelled,,5
+ORD000750,23-09-2024,,C428,Customer 164,Female,30,Pune,Maharashtra,P105,Cookware,Home & Kitchen,Apple,5,128544,1000,71,12,718805.92,Card,Pending,Ecom Express,Cancelled,,4
+ORD000751,29-12-2024,,C455,Customer 25,Female,38,Hyderabad,Telangana,P088,T-Shirt,Fashion,Nike,2,41458,500,265,18,97563.58,Google Pay,Paid,Blue Dart,Cancelled,,
+ORD000752,19-09-2025,,C076,Customer 499,Female,34,Mumbai,Maharashtra,P018,Yoga Mat,Sports,Lakme,3,87710,500,433,12,294630.56,Net Banking,Pending,Delhivery,In Transit,,5
+ORD000753,18-06-2025,,C078,Customer 117,Male,18,Hyderabad,Telangana,P095,Lipstick,Beauty,Samsung,3,139764,1000,431,5,439659.15,COD,Paid,Ecom Express,In Transit,,4
+ORD000754,19-08-2024,26-08-2024,C074,Customer 399,Male,36,pune,Maharashtra,P080,Yoga Mat,Sports,LG,5,92705,5000,272,18,541380.46,Google Pay,Pending,xpressbees,Returned,Damaged,5
+ORD000755,04-03-2024,10-03-2024,C500,Customer 72,Male,24,Delhi,Delhi,P154,Face Wash,Beauty,LG,3,42192,0,345,12,142151.52,Google Pay,Paid,Ecom Express,Returned,Size Issue,5
+ORD000756,24-02-2025,27-02-2025,C415,Customer 137,Male,56,Mumbai,Maharashtra,P187,Yoga Mat,Sports,LG,1,91724,1000,304,18,107413.04,Net Banking,Pending,XpressBees,Delivered,,4
+ORD000757,16-06-2024,23-06-2024,C385,Customer 268,Female,52,Pune,Maharashtra,P060,Oil,Grocery,Boat,1,17896,500,154,5,18427.5,Google Pay,,Ecom Express,Returned,Wrong Product,4
+ORD000758,30-09-2024,,C241,Customer 194,Male,52,Chennai,Tamil Nadu,P075,Shoes,Fashion,Puma,4,112480,0,101,18,531024.78,Card,Paid,XpressBees,In Transit,,5
+ORD000759,08-01-2025,,C318,Customer 492,Male,21,Delhi,Delhi,P115,Shampoo,Beauty,Samsung,4,145572,1000,160,5,610520.4,Net Banking,Pending,Delhivery,Cancelled,,3
+ORD000760,15-01-2025,,C189,Customer 280,Female,23,Hyderabad,Telangana,P142,Sugar,Grocery,Nike,3,57425,0,235,18,203561.8,COD,Paid,Blue Dart,In Transit,,3
+ORD000761,25-03-2024,27-03-2024,C270,Customer 402,Male,33,Hyderabad,Telangana,P102,Cookware,Home & Kitchen,Nike,5,45597,1000,413,12,254685.76,Card,Paid,xpressbees,Returned,Wrong Product,3
+ORD000762,27-11-2025,,C461,Customer 97,Female,65,Delhi,Delhi,P138,Jeans,Fashion,LG,5,122860,1000,237,5,644213.85,UPI,Paid,xpressbees,Cancelled,,4
+ORD000763,15-08-2025,,C048,Customer 441,Male,59,Pune,Maharashtra,P051,Earbuds,Electronics,Lakme,2,126180,5000,368,18,292319.04,UPI,Pending,Delhivery,In Transit,,5
+ORD000764,04-02-2025,,C290,Customer 388,Female,19,Hyderabad,Telangana,P064,Shampoo,Beauty,Lakme,5,98602,1000,445,18,581096.9,Google Pay,,XpressBees,Cancelled,,3
+ORD000765,09-10-2025,16-10-2025,C004,Customer 400,Female,68,Hyderabad,Telangana,P092,Laptop,Electronics,Samsung,1,73751,5000,45,12,77051.52,Google Pay,,Delhivery,Delivered,,4
+ORD000766,16-06-2025,,C139,Customer 208,Female,38,Hyderabad,Telangana,P106,T-Shirt,Fashion,LG,4,104725,1000,149,12,468214.88,COD,Paid,Blue Dart,In Transit,,4
+ORD000767,28-11-2024,05-12-2024,C317,Customer 127,Female,48,Hyderabad,Telangana,P009,Lipstick,Beauty,Samsung,4,29456,5000,385,18,133586.62,Google Pay,Paid,Blue Dart,Delivered,,
+ORD000768,25-04-2024,27-04-2024,C150,Customer 246,Male,45,pune,Maharashtra,P107,Face Wash,Beauty,Apple,2,120514,500,360,12,269794.56,Net Banking,Pending,Blue Dart,Returned,Wrong Product,5
+ORD000769,09-10-2024,,C138,Customer 265,Female,22,Delhi,Delhi,P059,Laptop,Electronics,Lakme,4,14076,500,195,12,62718.88,Net Banking,Paid,xpressbees,In Transit,,3
+ORD000770,07-06-2024,09-06-2024,C379,Customer 72,Female,65,Delhi,Delhi,P179,Bottle,Home & Kitchen,Boat,1,108606,500,496,5,114032.1,Wallet,Paid,Blue Dart,Returned,Damaged,3
+ORD000771,27-10-2025,01-11-2025,C324,Customer 86,Female,29,Chennai,Tamil Nadu,P080,Cookware,Home & Kitchen,Nike,1,124801,0,367,5,131426.4,Google Pay,Paid,XpressBees,Returned,Damaged,3
+ORD000772,27-02-2024,01-03-2024,C107,Customer 36,Male,65,Chennai,Tamil Nadu,P003,Sugar,Grocery,Boat,4,26138,1000,401,5,109150.65,Card,,XpressBees,Delivered,,3
+ORD000773,19-12-2025,,C150,Customer 101,Male,30,Delhi,Delhi,P170,Phone,Electronics,Apple,1,24583,500,223,5,25521.3,UPI,,Ecom Express,In Transit,,4
+ORD000774,14-09-2024,20-09-2024,C191,Customer 249,Male,39,Mumbai,Maharashtra,P096,Shoes,Fashion,Lakme,5,11326,500,141,5,59084.55,UPI,Pending,Delhivery,Delivered,,3
+ORD000775,21-04-2024,22-04-2024,C271,Customer 97,Female,26,Hyderabad,Telangana,P132,Yoga Mat,Sports,Samsung,5,128344,5000,46,5,668604.3,COD,,Ecom Express,Returned,Size Issue,3
+ORD000776,02-09-2025,,C447,Customer 420,Female,63,Bengaluru,Karnataka,P024,Rice,Grocery,Puma,5,66793,0,156,12,374215.52,Google Pay,,xpressbees,In Transit,,3
+ORD000777,14-01-2025,16-01-2025,C379,Customer 311,Female,36,Delhi,Delhi,P036,Mixer,Home & Kitchen,Lakme,4,144378,500,175,18,681080.66,COD,Paid,Ecom Express,Returned,Damaged,5
+ORD000778,20-05-2024,,C076,Customer 178,Female,58,Mumbai,Maharashtra,P191,T-Shirt,Fashion,LG,4,16901,0,424,18,80273.04,UPI,Paid,xpressbees,Cancelled,,4
+ORD000779,02-08-2025,08-08-2025,C471,Customer 226,Male,64,Mumbai,Maharashtra,P189,Rice,Grocery,Lakme,4,12303,500,165,5,51320.85,Wallet,Pending,XpressBees,Returned,Damaged,3
+ORD000780,04-01-2025,05-01-2025,C220,Customer 304,Female,64,Chennai,Tamil Nadu,P044,Football,Sports,LG,3,113387,500,179,18,401011.2,Net Banking,Pending,Ecom Express,Returned,Size Issue,5
+ORD000781,10-04-2024,14-04-2024,C398,Customer 336,Male,23,Bengaluru,Karnataka,P175,Football,Sports,Lakme,3,62328,5000,185,12,204029.28,Google Pay,,XpressBees,Returned,Damaged,4
+ORD000782,08-10-2025,13-10-2025,C331,Customer 197,Female,32,Delhi,Delhi,P086,Mixer,Home & Kitchen,Lakme,3,106509,1000,229,18,376132.08,UPI,Paid,XpressBees,Returned,Damaged,4
+ORD000783,07-09-2025,,C256,Customer 443,Male,24,pune,Maharashtra,P121,Yoga Mat,Sports,Apple,5,25003,0,25,12,140044.8,Google Pay,Pending,Ecom Express,In Transit,,3
+ORD000784,20-09-2024,,C126,Customer 176,Male,27,Hyderabad,Telangana,P015,Oil,Grocery,Nike,2,122861,0,10,5,258018.6,UPI,Pending,XpressBees,Cancelled,,4
+ORD000785,21-10-2024,24-10-2024,C307,Customer 65,Female,37,Delhi,Delhi,P170,Earbuds,Electronics,Apple,2,55937,0,426,18,132514,UPI,,Blue Dart,Delivered,,3
+ORD000786,15-02-2024,22-02-2024,C364,Customer 197,Female,56,Delhi,Delhi,P098,Mixer,Home & Kitchen,Nike,4,149795,500,226,12,670774.72,COD,Paid,Blue Dart,Returned,Size Issue,3
+ORD000787,27-03-2024,31-03-2024,C489,Customer 361,Female,20,Hyderabad,Telangana,P012,T-Shirt,Fashion,Samsung,1,75742,0,498,18,89963.2,Net Banking,Pending,Ecom Express,Delivered,,5
+ORD000788,31-10-2025,,C208,Customer 238,Male,43,Chennai,Tamil Nadu,P093,Mixer,Home & Kitchen,Apple,1,127071,5000,198,18,144277.42,Google Pay,Pending,Delhivery,Cancelled,,4
+ORD000789,12-06-2024,17-06-2024,C167,Customer 420,Male,33,Bengaluru,Karnataka,P031,Football,Sports,Apple,2,57240,500,154,12,127830.08,COD,,Delhivery,Delivered,,4
+ORD000790,01-05-2024,,C183,Customer 306,Male,39,Hyderabad,Telangana,P175,Earbuds,Electronics,Lakme,5,127856,0,290,12,716318.4,Wallet,,Delhivery,In Transit,,4
+ORD000791,04-02-2025,,C038,Customer 370,Male,33,Mumbai,Maharashtra,P098,Face Wash,Beauty,Apple,1,63900,1000,493,12,71000.16,Google Pay,,xpressbees,In Transit,,5
+ORD000792,30-11-2025,,C111,Customer 277,Male,68,Delhi,Delhi,P123,Yoga Mat,Sports,Apple,2,80246,5000,211,12,174387.36,COD,Pending,xpressbees,In Transit,,5
+ORD000793,22-04-2024,,C352,Customer 345,Male,53,pune,Maharashtra,P037,Football,Sports,Puma,5,13895,5000,489,18,76657.52,Google Pay,,Blue Dart,Cancelled,,3
+ORD000794,26-07-2025,,C263,Customer 58,Male,63,Pune,Maharashtra,P111,Earbuds,Electronics,Samsung,1,142021,0,313,12,159414.08,Card,Pending,Blue Dart,Cancelled,,4
+ORD000795,23-11-2025,25-11-2025,C350,Customer 491,Female,40,Pune,Maharashtra,P151,Earbuds,Electronics,Nike,4,9074,5000,26,18,36959.96,UPI,Paid,Blue Dart,Returned,Size Issue,3
+ORD000796,23-12-2025,,C341,Customer 93,Male,62,pune,Maharashtra,P163,Football,Sports,Apple,5,40593,500,271,18,239228.48,Card,Pending,xpressbees,Cancelled,,3
+ORD000797,01-07-2024,,C465,Customer 394,Female,59,Bengaluru,Karnataka,P185,Face Wash,Beauty,Nike,1,53923,0,94,12,60499.04,Card,,Delhivery,In Transit,,4
+ORD000798,21-08-2024,27-08-2024,C192,Customer 122,Female,46,Mumbai,Maharashtra,P144,T-Shirt,Fashion,Puma,1,6673,5000,258,12,2162.72,Google Pay,,Delhivery,Returned,Wrong Product,5
+ORD000799,24-03-2024,,C469,Customer 111,Female,67,pune,Maharashtra,P009,Mixer,Home & Kitchen,Samsung,5,114164,5000,227,18,667935.46,Wallet,Pending,Delhivery,Cancelled,,5
+ORD000800,09-09-2025,14-09-2025,C340,Customer 238,Male,37,Delhi,Delhi,P104,Cricket Bat,Sports,Lakme,3,826,1000,293,18,2089.78,Card,Paid,XpressBees,Returned,Wrong Product,4
+ORD000801,28-06-2025,02-07-2025,C003,Customer 246,Female,36,Bengaluru,Karnataka,P079,Earbuds,Electronics,Lakme,1,25897,1000,361,18,29804.44,Card,,Blue Dart,Returned,Damaged,4
+ORD000802,05-03-2024,08-03-2024,C212,Customer 119,Male,53,Hyderabad,Telangana,P042,Bottle,Home & Kitchen,Puma,2,4699,0,294,18,11436.56,COD,Paid,xpressbees,Returned,Size Issue,3
+ORD000803,23-03-2025,28-03-2025,C159,Customer 24,Male,57,Bengaluru,Karnataka,P034,Earbuds,Electronics,Samsung,3,37242,500,331,5,117134.85,COD,Pending,XpressBees,Returned,Size Issue,3
+ORD000804,26-04-2025,,C498,Customer 359,Female,39,pune,Maharashtra,P182,Lipstick,Beauty,LG,1,143857,0,258,18,170055.7,COD,,Delhivery,In Transit,,
+ORD000805,16-03-2024,,C383,Customer 206,Male,45,Delhi,Delhi,P049,Face Wash,Beauty,Lakme,3,82114,500,480,5,258638.1,Card,Pending,xpressbees,Cancelled,,
+ORD000806,17-09-2025,22-09-2025,C275,Customer 320,Female,26,Delhi,Delhi,P158,Cricket Bat,Sports,Nike,5,3614,0,112,18,21454.76,Wallet,,Delhivery,Returned,Size Issue,3
+ORD000807,25-12-2024,27-12-2024,C270,Customer 299,Female,62,Mumbai,Maharashtra,P074,Football,Sports,Boat,2,135647,500,314,5,284663.4,COD,Pending,Ecom Express,Returned,Wrong Product,3
+ORD000808,01-04-2024,,C078,Customer 271,Female,69,Mumbai,Maharashtra,P067,Oil,Grocery,Lakme,2,396,500,207,12,558.88,UPI,,XpressBees,In Transit,,4
+ORD000809,04-04-2024,09-04-2024,C322,Customer 119,Male,46,Pune,Maharashtra,P042,Bottle,Home & Kitchen,Apple,1,123111,1000,248,12,137042.08,COD,Pending,Ecom Express,Delivered,,4
+ORD000810,11-05-2025,17-05-2025,C016,Customer 120,Male,44,Delhi,Delhi,P032,Shoes,Fashion,Lakme,3,35111,500,62,12,117482.4,Net Banking,,Delhivery,Returned,Size Issue,3
+ORD000811,30-06-2025,,C235,Customer 38,Female,34,Delhi,Delhi,P115,Bottle,Home & Kitchen,Nike,3,49543,500,22,5,155558.55,COD,Paid,Blue Dart,In Transit,,5
+ORD000812,14-10-2025,21-10-2025,C214,Customer 412,Male,58,Mumbai,Maharashtra,P090,Laptop,Electronics,Puma,3,40216,500,177,18,141983.5,COD,,Delhivery,Delivered,,3
+ORD000813,24-10-2024,31-10-2024,C403,Customer 438,Male,53,Bengaluru,Karnataka,P090,Oil,Grocery,LG,5,145932,5000,444,18,855622.72,UPI,Pending,Delhivery,Delivered,,5
+ORD000814,15-11-2024,17-11-2024,C130,Customer 472,Male,29,Hyderabad,Telangana,P114,Jeans,Fashion,Puma,3,76075,5000,144,18,263575.42,COD,Pending,Blue Dart,Returned,Damaged,4
+ORD000815,08-06-2024,,C122,Customer 137,Male,18,Chennai,Tamil Nadu,P141,Rice,Grocery,LG,3,84308,5000,337,18,292947.98,Google Pay,Pending,Ecom Express,Cancelled,,3
+ORD000816,07-01-2025,,C021,Customer 256,Female,48,Bengaluru,Karnataka,P004,Face Wash,Beauty,Boat,2,76832,5000,243,18,175710.26,Google Pay,Paid,Ecom Express,Cancelled,,3
+ORD000817,30-04-2024,,C199,Customer 229,Male,64,Chennai,Tamil Nadu,P066,Shampoo,Beauty,LG,1,101392,0,441,12,114052.96,UPI,Paid,Blue Dart,Cancelled,,4
+ORD000818,07-02-2024,,C374,Customer 322,Male,21,Chennai,Tamil Nadu,P077,Earbuds,Electronics,Boat,1,86287,5000,203,12,91268.8,UPI,,Ecom Express,Cancelled,,3
+ORD000819,09-08-2025,,C270,Customer 495,Female,27,Delhi,Delhi,P152,Oil,Grocery,Boat,3,118622,0,279,12,398882.4,Net Banking,Paid,XpressBees,In Transit,,3
+ORD000820,06-11-2024,07-11-2024,C029,Customer 186,Female,45,Delhi,Delhi,P014,Oil,Grocery,Puma,2,92561,5000,280,18,212874.36,Card,Paid,Blue Dart,Delivered,,3
+ORD000821,10-04-2025,,C263,Customer 363,Female,21,pune,Maharashtra,P054,Rice,Grocery,Boat,1,32425,1000,274,18,37404.82,Net Banking,Paid,Ecom Express,Cancelled,,4
+ORD000822,01-10-2025,,C496,Customer 472,Female,44,Chennai,Tamil Nadu,P074,Shoes,Fashion,LG,4,20627,0,468,18,97911.68,UPI,,Delhivery,In Transit,,5
+ORD000823,21-07-2024,25-07-2024,C350,Customer 22,Female,45,Pune,Maharashtra,P082,Cricket Bat,Sports,Lakme,3,101845,1000,65,18,359428,Wallet,Paid,Ecom Express,Returned,Damaged,4
+ORD000824,29-06-2025,30-06-2025,C084,Customer 77,Male,19,Pune,Maharashtra,P158,Cookware,Home & Kitchen,Puma,2,62439,1000,215,18,146429.74,COD,Pending,Ecom Express,Returned,Damaged,5
+ORD000825,20-01-2024,,C481,Customer 140,Male,59,Bengaluru,Karnataka,P101,Yoga Mat,Sports,Boat,1,72537,0,97,5,76265.7,COD,Pending,XpressBees,In Transit,,5
+ORD000826,05-10-2025,10-10-2025,C203,Customer 95,Male,35,Mumbai,Maharashtra,P100,Shoes,Fashion,Lakme,5,16949,5000,356,18,94519.18,UPI,Pending,Delhivery,Returned,Damaged,3
+ORD000827,22-01-2025,27-01-2025,C018,Customer 426,Male,50,Mumbai,Maharashtra,P121,Bottle,Home & Kitchen,Boat,3,83083,1000,0,5,260661.45,Wallet,Pending,XpressBees,Delivered,,3
+ORD000828,15-11-2024,21-11-2024,C001,Customer 295,Female,38,Pune,Maharashtra,P176,Shampoo,Beauty,Boat,1,135918,0,428,12,152707.52,Wallet,,Blue Dart,Delivered,,3
+ORD000829,15-02-2025,,C324,Customer 427,Male,57,Hyderabad,Telangana,P133,Football,Sports,LG,3,17208,5000,162,5,49125.3,Wallet,Pending,Ecom Express,Cancelled,,5
+ORD000830,27-09-2025,,C183,Customer 323,Female,60,Mumbai,Maharashtra,P104,Earbuds,Electronics,Nike,3,134552,5000,222,18,470676.04,COD,Paid,xpressbees,In Transit,,5
+ORD000831,02-11-2025,06-11-2025,C066,Customer 213,Male,49,Bengaluru,Karnataka,P100,Phone,Electronics,Boat,2,75112,5000,53,18,171426.86,Wallet,Pending,Ecom Express,Delivered,,3
+ORD000832,27-04-2024,04-05-2024,C219,Customer 432,Male,65,Mumbai,Maharashtra,P110,Sugar,Grocery,Lakme,1,246,1000,393,18,-425.98,COD,,Delhivery,Returned,Wrong Product,5
+ORD000833,19-02-2025,22-02-2025,C455,Customer 125,Male,48,pune,Maharashtra,P037,Bottle,Home & Kitchen,LG,4,84425,5000,483,5,349842.15,UPI,,XpressBees,Delivered,,5
+ORD000834,23-05-2025,,C169,Customer 20,Female,40,Delhi,Delhi,P038,Face Wash,Beauty,LG,5,76875,1000,466,18,452932.38,Wallet,,Blue Dart,In Transit,,4
+ORD000835,07-08-2025,14-08-2025,C266,Customer 271,Male,50,Pune,Maharashtra,P058,Rice,Grocery,Lakme,3,16206,500,478,12,54427.52,Google Pay,Pending,xpressbees,Returned,Size Issue,5
+ORD000836,30-04-2025,,C207,Customer 310,Female,20,Hyderabad,Telangana,P024,Shampoo,Beauty,Apple,2,111945,1000,419,12,250106.08,Wallet,Pending,XpressBees,In Transit,,
+ORD000837,05-10-2024,12-10-2024,C019,Customer 221,Male,58,pune,Maharashtra,P028,Oil,Grocery,Apple,3,130886,500,321,18,463125.22,Wallet,Paid,XpressBees,Delivered,,4
+ORD000838,16-09-2025,,C358,Customer 225,Male,49,Chennai,Tamil Nadu,P010,Mixer,Home & Kitchen,Boat,3,49590,1000,234,12,165764.48,Net Banking,,Delhivery,Cancelled,,3
+ORD000839,04-10-2024,,C304,Customer 156,Female,34,Hyderabad,Telangana,P195,Shampoo,Beauty,Nike,5,46688,500,198,18,275102.84,UPI,Pending,xpressbees,In Transit,,3
+ORD000840,28-07-2025,31-07-2025,C498,Customer 101,Female,49,Pune,Maharashtra,P111,Oil,Grocery,Samsung,5,19238,5000,388,12,102567.36,UPI,,Delhivery,Returned,Wrong Product,3
+ORD000841,27-05-2024,01-06-2024,C242,Customer 275,Male,58,Hyderabad,Telangana,P097,T-Shirt,Fashion,Boat,2,81617,0,295,5,171705.45,Net Banking,Pending,Ecom Express,Delivered,,5
+ORD000842,14-11-2024,,C488,Customer 409,Male,34,Hyderabad,Telangana,P137,Sugar,Grocery,Boat,4,147533,5000,433,12,655832.8,Card,Pending,Delhivery,In Transit,,
+ORD000843,29-12-2025,04-01-2026,C340,Customer 296,Female,64,Chennai,Tamil Nadu,P150,Face Wash,Beauty,Apple,1,141098,500,464,18,166453.16,UPI,,xpressbees,Delivered,,4
+ORD000844,02-05-2025,09-05-2025,C002,Customer 429,Female,32,Bengaluru,Karnataka,P180,Cricket Bat,Sports,Boat,2,74225,5000,265,5,150900.75,COD,Pending,XpressBees,Delivered,,3
+ORD000845,18-10-2025,19-10-2025,C356,Customer 400,Male,43,Bengaluru,Karnataka,P028,T-Shirt,Fashion,Apple,3,14510,1000,294,5,44965.2,Google Pay,Pending,XpressBees,Delivered,,5
+ORD000846,20-12-2025,,C046,Customer 68,Male,20,Delhi,Delhi,P165,Football,Sports,Samsung,3,45995,1000,154,5,143995.95,Google Pay,Paid,Ecom Express,In Transit,,5
+ORD000847,23-08-2024,,C439,Customer 420,Female,20,Pune,Maharashtra,P196,Football,Sports,Nike,4,6949,0,231,12,31390.24,Card,,Ecom Express,In Transit,,4
+ORD000848,06-03-2024,,C356,Customer 159,Male,33,Pune,Maharashtra,P189,Sugar,Grocery,Lakme,5,146466,500,389,12,820085.28,Wallet,,Blue Dart,Cancelled,,4
+ORD000849,05-12-2024,09-12-2024,C304,Customer 492,Male,22,Hyderabad,Telangana,P082,Cricket Bat,Sports,Apple,5,67324,1000,58,12,375959.36,UPI,Pending,xpressbees,Returned,Wrong Product,3
+ORD000850,05-07-2025,,C201,Customer 258,Male,30,Hyderabad,Telangana,P112,Face Wash,Beauty,Samsung,3,37539,5000,388,12,120965.6,UPI,Paid,Ecom Express,In Transit,,5
+ORD000851,03-10-2025,08-10-2025,C206,Customer 433,Male,51,Chennai,Tamil Nadu,P120,Football,Sports,Apple,1,20330,500,265,5,21099.75,Net Banking,,Delhivery,Returned,Damaged,4
+ORD000852,29-11-2025,03-12-2025,C390,Customer 333,Male,38,Chennai,Tamil Nadu,P089,Phone,Electronics,Samsung,5,133717,500,128,5,701623.65,Google Pay,Pending,Blue Dart,Delivered,,4
+ORD000853,07-02-2025,14-02-2025,C116,Customer 211,Female,37,Pune,Maharashtra,P160,Shampoo,Beauty,LG,3,101537,1000,109,18,358389.6,COD,Paid,xpressbees,Delivered,,4
+ORD000854,25-08-2024,27-08-2024,C151,Customer 438,Male,51,Pune,Maharashtra,P055,T-Shirt,Fashion,Boat,4,55440,1000,154,12,247423.68,COD,Pending,XpressBees,Delivered,,5
+ORD000855,06-12-2025,11-12-2025,C489,Customer 102,Male,19,pune,Maharashtra,P069,Face Wash,Beauty,Puma,4,69878,5000,453,18,324458.7,Card,Paid,Ecom Express,Returned,Wrong Product,3
+ORD000856,17-12-2024,,C208,Customer 249,Female,43,Chennai,Tamil Nadu,P045,Face Wash,Beauty,Samsung,1,102485,5000,310,12,109530.4,Google Pay,Paid,xpressbees,In Transit,,5
+ORD000857,13-12-2024,,C071,Customer 267,Male,63,Mumbai,Maharashtra,P063,Earbuds,Electronics,Boat,5,104066,5000,404,18,608566.12,Google Pay,,Delhivery,In Transit,,4
+ORD000858,17-02-2024,,C428,Customer 236,Male,60,Delhi,Delhi,P059,Lipstick,Beauty,LG,5,113737,0,130,5,597255.75,Google Pay,,XpressBees,In Transit,,3
+ORD000859,11-02-2025,,C487,Customer 463,Male,51,pune,Maharashtra,P040,Lipstick,Beauty,Samsung,5,1541,1000,181,5,7230.3,Card,Paid,XpressBees,In Transit,,3
+ORD000860,19-08-2025,26-08-2025,C029,Customer 463,Male,23,Pune,Maharashtra,P022,Yoga Mat,Sports,Puma,1,99277,5000,460,18,111789.66,Net Banking,Pending,Delhivery,Returned,Wrong Product,3
+ORD000861,06-10-2025,11-10-2025,C028,Customer 89,Female,68,Mumbai,Maharashtra,P193,Rice,Grocery,LG,1,79852,0,179,18,94436.58,Card,Paid,Ecom Express,Returned,Damaged,5
+ORD000862,06-05-2025,08-05-2025,C003,Customer 298,Female,63,Mumbai,Maharashtra,P029,Rice,Grocery,Boat,1,16069,500,87,12,17534.72,Wallet,,Ecom Express,Returned,Size Issue,3
+ORD000863,17-10-2024,,C469,Customer 365,Female,32,Hyderabad,Telangana,P185,Bottle,Home & Kitchen,Boat,1,22864,1000,296,12,24819.2,Google Pay,Paid,Ecom Express,Cancelled,,4
+ORD000864,28-07-2024,,C170,Customer 216,Male,44,Bengaluru,Karnataka,P165,Sugar,Grocery,Puma,3,72633,1000,373,5,228135.6,COD,,XpressBees,In Transit,,3
+ORD000865,09-02-2025,,C480,Customer 87,Male,33,Delhi,Delhi,P126,Sugar,Grocery,Puma,1,60527,500,270,12,67532.64,Net Banking,,Blue Dart,Cancelled,,4
+ORD000866,30-04-2025,,C216,Customer 307,Female,26,Bengaluru,Karnataka,P056,T-Shirt,Fashion,Nike,3,116997,500,301,12,392887.04,Wallet,Paid,Blue Dart,In Transit,,4
+ORD000867,05-07-2025,08-07-2025,C477,Customer 39,Male,54,Hyderabad,Telangana,P002,Earbuds,Electronics,Boat,3,30267,500,5,5,94821.3,Google Pay,Paid,xpressbees,Delivered,,3
+ORD000868,28-05-2024,01-06-2024,C245,Customer 45,Female,33,Hyderabad,Telangana,P001,Cookware,Home & Kitchen,Puma,1,26802,0,133,5,28281.75,Net Banking,Paid,Ecom Express,Returned,Damaged,5
+ORD000869,14-06-2024,,C195,Customer 136,Female,32,pune,Maharashtra,P115,Bottle,Home & Kitchen,Nike,2,141169,500,273,12,315964.32,UPI,Pending,Ecom Express,Cancelled,,3
+ORD000870,19-04-2025,,C159,Customer 284,Male,34,pune,Maharashtra,P167,Sugar,Grocery,Puma,4,132404,500,192,18,624583.44,COD,,XpressBees,Cancelled,,5
+ORD000871,04-02-2024,,C173,Customer 149,Female,21,Hyderabad,Telangana,P158,Phone,Electronics,Nike,2,94504,0,168,5,198634.8,Net Banking,Pending,XpressBees,Cancelled,,4
+ORD000872,13-10-2024,,C353,Customer 210,Female,70,Delhi,Delhi,P084,Face Wash,Beauty,Puma,2,89936,1000,114,5,187935.3,COD,Paid,XpressBees,Cancelled,,5
+ORD000873,04-12-2024,06-12-2024,C351,Customer 228,Female,63,Pune,Maharashtra,P131,Lipstick,Beauty,Puma,1,115191,5000,271,12,123717.44,Google Pay,Paid,XpressBees,Returned,Wrong Product,4
+ORD000874,19-01-2024,,C055,Customer 147,Male,64,Mumbai,Maharashtra,P167,Earbuds,Electronics,Lakme,2,81945,5000,18,18,187511.44,UPI,,XpressBees,In Transit,,
+ORD000875,03-02-2025,07-02-2025,C222,Customer 51,Male,54,Mumbai,Maharashtra,P058,Shoes,Fashion,Puma,1,127681,0,240,12,143271.52,COD,Pending,Delhivery,Delivered,,3
+ORD000876,22-04-2025,28-04-2025,C133,Customer 207,Male,69,Hyderabad,Telangana,P005,Yoga Mat,Sports,Apple,3,134428,0,451,5,423921.75,Net Banking,,xpressbees,Returned,Damaged,3
+ORD000877,25-12-2024,,C361,Customer 27,Male,64,pune,Maharashtra,P143,T-Shirt,Fashion,Puma,1,67667,500,191,12,75440.96,Google Pay,Paid,XpressBees,In Transit,,
+ORD000878,05-09-2024,12-09-2024,C044,Customer 441,Female,42,Mumbai,Maharashtra,P085,Mixer,Home & Kitchen,Apple,1,130353,0,223,5,137104.8,Wallet,Paid,xpressbees,Delivered,,5
+ORD000879,25-01-2024,,C190,Customer 225,Male,36,Pune,Maharashtra,P103,Face Wash,Beauty,LG,1,54233,500,205,18,63646.84,Card,Paid,Ecom Express,Cancelled,,5
+ORD000880,31-05-2024,,C219,Customer 383,Male,37,pune,Maharashtra,P033,Lipstick,Beauty,Nike,4,31727,0,96,5,133354.2,Net Banking,,Delhivery,In Transit,,5
+ORD000881,23-03-2024,,C334,Customer 120,Male,42,Hyderabad,Telangana,P106,Face Wash,Beauty,Nike,1,78984,500,290,5,82712.7,Wallet,Pending,XpressBees,In Transit,,4
+ORD000882,16-02-2025,19-02-2025,C059,Customer 370,Female,65,pune,Maharashtra,P028,Phone,Electronics,Samsung,5,70352,500,234,12,393673.28,Net Banking,Pending,Ecom Express,Delivered,,3
+ORD000883,13-07-2025,,C123,Customer 495,Male,47,Mumbai,Maharashtra,P107,Phone,Electronics,Boat,5,50363,0,34,5,264441.45,Wallet,Paid,XpressBees,Cancelled,,5
+ORD000884,10-07-2024,,C394,Customer 267,Male,62,Chennai,Tamil Nadu,P030,Football,Sports,Puma,4,71152,1000,106,18,334782.52,COD,Paid,Ecom Express,In Transit,,5
+ORD000885,03-01-2025,08-01-2025,C199,Customer 318,Male,24,Pune,Maharashtra,P187,Jeans,Fashion,Lakme,5,94504,500,361,5,496000.05,Net Banking,Pending,Delhivery,Delivered,,5
+ORD000886,11-06-2025,15-06-2025,C199,Customer 474,Male,56,Bengaluru,Karnataka,P012,Football,Sports,LG,2,1774,500,478,12,3949.12,Google Pay,Paid,xpressbees,Delivered,,3
+ORD000887,15-01-2025,19-01-2025,C363,Customer 369,Female,62,pune,Maharashtra,P113,Yoga Mat,Sports,Nike,2,119016,0,55,12,266657.44,UPI,Paid,Ecom Express,Delivered,,3
+ORD000888,17-07-2025,,C363,Customer 176,Male,55,Bengaluru,Karnataka,P036,T-Shirt,Fashion,Apple,3,71095,5000,455,12,233788.8,COD,,XpressBees,Cancelled,,4
+ORD000889,28-08-2025,,C249,Customer 300,Female,23,Delhi,Delhi,P028,Cookware,Home & Kitchen,LG,4,15713,500,299,5,65783.55,Card,Pending,XpressBees,Cancelled,,4
+ORD000890,08-07-2025,15-07-2025,C185,Customer 308,Male,57,Bengaluru,Karnataka,P131,Oil,Grocery,Samsung,4,68356,5000,146,18,316912.6,Wallet,Pending,Delhivery,Delivered,,4
+ORD000891,03-07-2024,08-07-2024,C022,Customer 190,Female,63,Mumbai,Maharashtra,P063,Rice,Grocery,Nike,5,137840,5000,80,5,718494,Card,Paid,Delhivery,Returned,Wrong Product,5
+ORD000892,18-08-2024,,C393,Customer 420,Male,29,Pune,Maharashtra,P081,Shampoo,Beauty,Boat,5,95862,5000,460,5,498508.5,Net Banking,,XpressBees,In Transit,,5
+ORD000893,14-07-2024,21-07-2024,C237,Customer 341,Male,61,Chennai,Tamil Nadu,P099,Shampoo,Beauty,Puma,1,92350,5000,445,5,92184.75,Card,Paid,Ecom Express,Returned,Damaged,5
+ORD000894,05-06-2025,12-06-2025,C341,Customer 434,Male,56,Delhi,Delhi,P054,Laptop,Electronics,Nike,1,128328,1000,30,5,133725.9,COD,Pending,Blue Dart,Delivered,,
+ORD000895,30-08-2025,05-09-2025,C481,Customer 268,Male,23,Bengaluru,Karnataka,P042,Football,Sports,Puma,2,15791,1000,290,18,36428.96,COD,,XpressBees,Returned,Damaged,4
+ORD000896,01-12-2024,,C167,Customer 323,Female,62,Chennai,Tamil Nadu,P066,Mixer,Home & Kitchen,Puma,5,90278,500,118,5,473558.4,Card,Pending,xpressbees,In Transit,,5
+ORD000897,08-08-2025,15-08-2025,C445,Customer 210,Female,23,Bengaluru,Karnataka,P105,Mixer,Home & Kitchen,Apple,3,72857,1000,76,5,228529.35,UPI,Pending,XpressBees,Delivered,,5
+ORD000898,25-01-2024,26-01-2024,C166,Customer 477,Male,46,Bengaluru,Karnataka,P164,Rice,Grocery,Puma,1,60412,500,47,18,70751.62,COD,Pending,Delhivery,Delivered,,3
+ORD000899,07-12-2024,,C402,Customer 324,Male,53,Pune,Maharashtra,P157,Mixer,Home & Kitchen,LG,1,129530,0,142,12,145232.64,COD,Paid,xpressbees,In Transit,,5
+ORD000900,23-01-2024,28-01-2024,C207,Customer 419,Female,31,Chennai,Tamil Nadu,P118,Lipstick,Beauty,Puma,1,11145,0,294,18,13498.02,Net Banking,Paid,Delhivery,Delivered,,4
+ORD000901,27-09-2025,,C342,Customer 463,Female,27,Pune,Maharashtra,P182,Phone,Electronics,Nike,3,17735,5000,83,18,56979.84,Google Pay,Pending,XpressBees,Cancelled,,3
+ORD000902,08-06-2024,,C037,Customer 427,Male,70,Bengaluru,Karnataka,P103,Laptop,Electronics,Puma,3,1006,500,106,18,3096.32,Wallet,Pending,xpressbees,Cancelled,,
+ORD000903,09-06-2025,16-06-2025,C333,Customer 373,Male,26,Delhi,Delhi,P140,Bottle,Home & Kitchen,Boat,2,44006,5000,277,18,98281.02,Wallet,Pending,XpressBees,Delivered,,3
+ORD000904,26-03-2024,,C272,Customer 200,Male,66,pune,Maharashtra,P115,Sugar,Grocery,Boat,4,133612,1000,403,5,560543.55,Google Pay,Paid,XpressBees,In Transit,,5
+ORD000905,08-07-2024,13-07-2024,C133,Customer 18,Male,18,Pune,Maharashtra,P088,Cricket Bat,Sports,Nike,5,38604,500,121,12,215757.92,Google Pay,,Blue Dart,Returned,Size Issue,5
+ORD000906,13-10-2024,16-10-2024,C139,Customer 154,Female,67,Pune,Maharashtra,P171,Jeans,Fashion,Puma,1,14811,5000,434,18,12089.1,UPI,Pending,Ecom Express,Returned,Wrong Product,5
+ORD000907,03-08-2025,,C392,Customer 373,Female,39,Hyderabad,Telangana,P155,Lipstick,Beauty,Apple,4,38085,500,303,5,159750.15,Card,Pending,Delhivery,Cancelled,,4
+ORD000908,31-05-2024,,C146,Customer 285,Female,45,Pune,Maharashtra,P141,T-Shirt,Fashion,Apple,4,137857,5000,38,5,573789.3,Net Banking,Paid,xpressbees,In Transit,,5
+ORD000909,01-10-2024,,C295,Customer 116,Female,18,Delhi,Delhi,P174,Oil,Grocery,Apple,3,86625,5000,341,12,285841.92,UPI,Paid,Blue Dart,Cancelled,,4
+ORD000910,21-02-2024,27-02-2024,C352,Customer 123,Male,55,Pune,Maharashtra,P120,Cricket Bat,Sports,Nike,4,22198,0,202,18,105012.92,Net Banking,Pending,XpressBees,Returned,Wrong Product,3
+ORD000911,05-12-2024,12-12-2024,C381,Customer 55,Male,60,Bengaluru,Karnataka,P195,T-Shirt,Fashion,Lakme,5,58589,0,260,18,345981.9,Wallet,,Ecom Express,Returned,Wrong Product,4
+ORD000912,03-06-2024,,C111,Customer 79,Female,63,Delhi,Delhi,P034,Oil,Grocery,Nike,3,63555,5000,287,5,195249.6,COD,Pending,Blue Dart,Cancelled,,3
+ORD000913,06-08-2024,12-08-2024,C104,Customer 144,Male,23,Mumbai,Maharashtra,P012,Face Wash,Beauty,LG,5,20609,1000,269,5,107429.7,COD,Paid,Delhivery,Returned,Damaged,4
+ORD000914,15-08-2024,,C217,Customer 405,Female,31,Chennai,Tamil Nadu,P148,Lipstick,Beauty,LG,1,22592,5000,63,18,20832.9,UPI,Pending,Ecom Express,In Transit,,5
+ORD000915,10-01-2025,,C344,Customer 190,Female,34,Delhi,Delhi,P025,Face Wash,Beauty,Apple,1,69143,0,130,18,81742.14,Google Pay,Paid,xpressbees,Cancelled,,5
+ORD000916,29-05-2025,,C035,Customer 488,Female,60,Chennai,Tamil Nadu,P104,Football,Sports,Nike,2,138674,500,470,18,327235.24,Wallet,Pending,Delhivery,Cancelled,,3
+ORD000917,16-10-2025,,C358,Customer 46,Male,60,Chennai,Tamil Nadu,P056,Shampoo,Beauty,Apple,1,96509,0,497,5,101856.3,Net Banking,Pending,Ecom Express,In Transit,,3
+ORD000918,21-03-2025,,C084,Customer 449,Male,66,pune,Maharashtra,P081,Football,Sports,Nike,4,136459,0,133,5,573267.45,COD,,Blue Dart,Cancelled,,4
+ORD000919,25-12-2025,,C337,Customer 286,Female,29,Bengaluru,Karnataka,P196,Football,Sports,Apple,1,136015,1000,394,5,142179.45,UPI,Pending,Delhivery,In Transit,,5
+ORD000920,17-10-2025,19-10-2025,C474,Customer 47,Female,55,Chennai,Tamil Nadu,P063,Face Wash,Beauty,Puma,2,140765,1000,491,5,295072.05,Card,,Blue Dart,Returned,Damaged,5
+ORD000921,16-12-2025,19-12-2025,C469,Customer 445,Male,63,Chennai,Tamil Nadu,P024,Oil,Grocery,Boat,3,148156,500,171,18,524084.02,Card,Pending,Ecom Express,Returned,Damaged,5
+ORD000922,29-11-2025,06-12-2025,C225,Customer 193,Male,65,Pune,Maharashtra,P180,Rice,Grocery,LG,5,93586,0,278,18,552485.44,COD,,Delhivery,Delivered,,3
+ORD000923,15-09-2025,,C308,Customer 296,Male,37,Hyderabad,Telangana,P035,Shoes,Fashion,Lakme,1,148275,1000,104,18,173907.22,Wallet,,Ecom Express,Cancelled,,5
+ORD000924,12-09-2024,,C407,Customer 483,Male,21,Mumbai,Maharashtra,P088,T-Shirt,Fashion,LG,2,86636,0,17,12,194083.68,UPI,Paid,Delhivery,In Transit,,3
+ORD000925,25-02-2025,02-03-2025,C026,Customer 441,Female,38,Bengaluru,Karnataka,P198,Lipstick,Beauty,LG,4,46453,1000,279,18,218407.38,COD,,XpressBees,Delivered,,4
+ORD000926,04-10-2024,05-10-2024,C240,Customer 113,Male,39,pune,Maharashtra,P199,Lipstick,Beauty,Apple,2,138039,1000,129,5,288967.35,Google Pay,Pending,Ecom Express,Delivered,,5
+ORD000927,02-03-2024,06-03-2024,C027,Customer 433,Male,25,Chennai,Tamil Nadu,P125,Jeans,Fashion,Samsung,4,31419,5000,99,5,126813.75,Wallet,Pending,Blue Dart,Returned,Size Issue,4
+ORD000928,24-12-2025,,C382,Customer 411,Female,28,Pune,Maharashtra,P142,Cricket Bat,Sports,Apple,2,24758,5000,416,5,47178.6,Google Pay,Pending,XpressBees,Cancelled,,4
+ORD000929,26-07-2024,02-08-2024,C312,Customer 258,Male,24,Mumbai,Maharashtra,P137,Yoga Mat,Sports,Samsung,2,70923,5000,97,12,153376.16,Google Pay,,xpressbees,Returned,Wrong Product,4
+ORD000930,04-08-2024,11-08-2024,C436,Customer 283,Female,60,Hyderabad,Telangana,P104,Cookware,Home & Kitchen,Apple,4,87248,0,99,18,411927.38,COD,,XpressBees,Returned,Size Issue,5
+ORD000931,06-07-2025,13-07-2025,C236,Customer 35,Female,26,Chennai,Tamil Nadu,P021,Face Wash,Beauty,Boat,3,92349,0,354,5,291271.05,Wallet,Paid,Blue Dart,Delivered,,
+ORD000932,16-07-2024,20-07-2024,C352,Customer 102,Female,33,Mumbai,Maharashtra,P021,Bottle,Home & Kitchen,Apple,5,111791,1000,375,18,658829.4,Net Banking,,XpressBees,Returned,Wrong Product,4
+ORD000933,17-10-2025,,C145,Customer 230,Female,60,Delhi,Delhi,P018,Mixer,Home & Kitchen,Apple,2,91942,5000,60,18,211153.92,UPI,Pending,Delhivery,In Transit,,4
+ORD000934,16-06-2025,,C151,Customer 233,Female,42,Delhi,Delhi,P163,Mixer,Home & Kitchen,Apple,1,99350,5000,173,5,99249.15,Wallet,Paid,xpressbees,Cancelled,,4
+ORD000935,12-04-2024,15-04-2024,C133,Customer 363,Male,47,Pune,Maharashtra,P089,Oil,Grocery,Puma,4,53851,500,348,12,241082.24,Net Banking,,Delhivery,Returned,Size Issue,5
+ORD000936,15-04-2024,19-04-2024,C119,Customer 202,Male,23,Bengaluru,Karnataka,P177,Lipstick,Beauty,Boat,2,73591,500,396,18,173552.04,COD,,Delhivery,Returned,Size Issue,5
+ORD000937,26-03-2025,30-03-2025,C466,Customer 484,Male,43,Bengaluru,Karnataka,P159,T-Shirt,Fashion,Samsung,1,75755,1000,47,18,88266.36,Card,Pending,xpressbees,Delivered,,3
+ORD000938,09-08-2024,14-08-2024,C221,Customer 21,Male,26,pune,Maharashtra,P163,Yoga Mat,Sports,Nike,3,111195,0,404,18,394107.02,COD,Pending,XpressBees,Delivered,,5
+ORD000939,19-04-2024,,C406,Customer 151,Female,40,Chennai,Tamil Nadu,P174,Earbuds,Electronics,Puma,5,14847,5000,273,12,77848.96,Wallet,,xpressbees,In Transit,,4
+ORD000940,26-11-2024,01-12-2024,C078,Customer 225,Male,20,pune,Maharashtra,P100,Earbuds,Electronics,Nike,1,38649,500,117,12,42857.92,COD,Paid,Ecom Express,Returned,Wrong Product,4
+ORD000941,28-12-2024,30-12-2024,C213,Customer 227,Male,69,pune,Maharashtra,P052,Laptop,Electronics,Puma,1,53429,0,437,12,60329.92,UPI,,Blue Dart,Returned,Wrong Product,4
+ORD000942,07-05-2024,,C119,Customer 418,Male,28,Bengaluru,Karnataka,P109,Cricket Bat,Sports,Apple,3,140872,500,94,18,498207.8,COD,Paid,Delhivery,Cancelled,,3
+ORD000943,17-04-2025,,C463,Customer 189,Female,26,pune,Maharashtra,P153,Cookware,Home & Kitchen,Puma,2,108691,5000,100,5,223106.1,Net Banking,,Blue Dart,Cancelled,,5
+ORD000944,16-09-2025,,C320,Customer 316,Male,50,Mumbai,Maharashtra,P081,Oil,Grocery,Puma,1,28231,0,169,5,29820,Net Banking,,Delhivery,In Transit,,4
+ORD000945,05-04-2025,,C351,Customer 147,Female,67,pune,Maharashtra,P142,Face Wash,Beauty,Apple,2,147176,0,262,18,347644.52,UPI,Pending,Ecom Express,Cancelled,,4
+ORD000946,24-04-2024,,C274,Customer 171,Male,68,pune,Maharashtra,P058,Face Wash,Beauty,Nike,2,26885,500,247,18,63150.06,Card,Paid,xpressbees,Cancelled,,5
+ORD000947,13-10-2024,,C417,Customer 60,Female,39,Hyderabad,Telangana,P120,Jeans,Fashion,Apple,3,54053,500,261,18,191065.6,Card,Pending,Delhivery,In Transit,,4
+ORD000948,04-07-2024,11-07-2024,C450,Customer 239,Male,36,Mumbai,Maharashtra,P118,Phone,Electronics,Puma,5,134116,5000,379,5,699256.95,Google Pay,Pending,Delhivery,Delivered,,5
+ORD000949,20-03-2025,27-03-2025,C223,Customer 335,Female,18,Chennai,Tamil Nadu,P161,T-Shirt,Fashion,Apple,5,46821,500,446,12,262137.12,Google Pay,,XpressBees,Returned,Size Issue,5
+ORD000950,16-03-2024,,C310,Customer 332,Male,22,pune,Maharashtra,P194,Jeans,Fashion,Samsung,3,35977,500,315,5,113133.3,COD,Pending,Delhivery,Cancelled,,5
+ORD000951,28-05-2024,04-06-2024,C389,Customer 432,Male,67,Mumbai,Maharashtra,P152,Oil,Grocery,Apple,2,47362,5000,257,12,100778.72,Net Banking,Paid,Blue Dart,Returned,Wrong Product,4
+ORD000952,21-01-2024,,C160,Customer 444,Female,70,Hyderabad,Telangana,P050,T-Shirt,Fashion,Puma,5,60631,0,70,18,357805.5,Card,Paid,Delhivery,Cancelled,,4
+ORD000953,18-07-2025,25-07-2025,C317,Customer 216,Female,26,Pune,Maharashtra,P116,T-Shirt,Fashion,Nike,3,50625,0,318,5,159802.65,UPI,,Delhivery,Delivered,,3
+ORD000954,12-07-2025,,C454,Customer 131,Male,36,Pune,Maharashtra,P067,Lipstick,Beauty,LG,4,59310,5000,14,18,274059.72,Wallet,Paid,Blue Dart,Cancelled,,5
+ORD000955,07-12-2025,,C311,Customer 441,Male,41,Bengaluru,Karnataka,P096,Shampoo,Beauty,Boat,4,28568,0,474,12,128515.52,Card,,Ecom Express,In Transit,,4
+ORD000956,06-09-2024,12-09-2024,C129,Customer 145,Female,63,Chennai,Tamil Nadu,P100,Sugar,Grocery,Samsung,3,91889,0,326,5,289792.65,Card,Paid,XpressBees,Returned,Size Issue,5
+ORD000957,09-10-2025,11-10-2025,C075,Customer 117,Male,51,Pune,Maharashtra,P107,Laptop,Electronics,Apple,3,127921,0,67,5,403021.5,Net Banking,,XpressBees,Returned,Wrong Product,5
+ORD000958,08-07-2025,11-07-2025,C163,Customer 185,Female,24,Pune,Maharashtra,P154,Laptop,Electronics,LG,3,58481,5000,368,5,179351.55,Google Pay,Paid,Delhivery,Delivered,,5
+ORD000959,30-03-2024,04-04-2024,C304,Customer 153,Female,55,Hyderabad,Telangana,P130,Cricket Bat,Sports,Apple,1,60040,1000,393,5,62404.65,UPI,Paid,xpressbees,Returned,Wrong Product,4
+ORD000960,09-01-2024,,C363,Customer 86,Male,56,Delhi,Delhi,P099,Bottle,Home & Kitchen,Samsung,1,21128,500,255,5,21927.15,Wallet,Pending,Blue Dart,In Transit,,3
+ORD000961,01-09-2024,02-09-2024,C283,Customer 357,Male,67,Pune,Maharashtra,P076,Shampoo,Beauty,Puma,3,149591,1000,407,5,470589,COD,Paid,XpressBees,Delivered,,5
+ORD000962,16-07-2025,,C055,Customer 74,Female,63,Bengaluru,Karnataka,P119,Cricket Bat,Sports,Puma,5,53946,0,21,5,283238.55,Google Pay,Paid,Ecom Express,Cancelled,,4
+ORD000963,08-08-2025,,C436,Customer 357,Female,37,Hyderabad,Telangana,P063,Laptop,Electronics,Puma,4,13293,0,58,18,62811.4,Card,Pending,Blue Dart,Cancelled,,5
+ORD000964,07-05-2024,09-05-2024,C154,Customer 332,Female,25,pune,Maharashtra,P106,Yoga Mat,Sports,LG,5,139174,5000,466,12,774296.32,Google Pay,,Blue Dart,Returned,Wrong Product,3
+ORD000965,26-08-2024,31-08-2024,C443,Customer 209,Male,64,Chennai,Tamil Nadu,P015,Cookware,Home & Kitchen,Lakme,1,34923,0,322,5,37007.25,Net Banking,Pending,Blue Dart,Delivered,,3
+ORD000966,24-10-2025,,C294,Customer 37,Female,55,pune,Maharashtra,P048,Cricket Bat,Sports,Lakme,3,124069,500,236,5,390540.15,Card,Pending,Blue Dart,Cancelled,,3
+ORD000967,08-09-2024,,C329,Customer 163,Female,58,Chennai,Tamil Nadu,P141,Laptop,Electronics,Lakme,1,89958,0,378,5,94852.8,Google Pay,,xpressbees,In Transit,,5
+ORD000968,31-05-2024,01-06-2024,C362,Customer 387,Female,47,Mumbai,Maharashtra,P135,Yoga Mat,Sports,Puma,3,29625,0,397,5,93735.6,Google Pay,,Ecom Express,Delivered,,5
+ORD000969,16-06-2025,18-06-2025,C450,Customer 230,Female,28,Delhi,Delhi,P087,Sugar,Grocery,LG,2,123777,5000,214,18,286466.24,Wallet,Pending,Ecom Express,Delivered,,4
+ORD000970,06-08-2025,12-08-2025,C165,Customer 252,Male,24,Pune,Maharashtra,P020,T-Shirt,Fashion,LG,5,142545,500,415,12,798156.8,Net Banking,Pending,XpressBees,Returned,Size Issue,3
+ORD000971,15-11-2024,,C322,Customer 66,Male,41,pune,Maharashtra,P053,Earbuds,Electronics,Nike,3,85500,0,442,18,303191.56,UPI,Pending,XpressBees,Cancelled,,3
+ORD000972,16-04-2024,20-04-2024,C396,Customer 123,Male,61,Bengaluru,Karnataka,P136,Oil,Grocery,Lakme,2,112591,500,249,5,236177.55,Google Pay,,XpressBees,Delivered,,4
+ORD000973,22-08-2025,,C236,Customer 357,Female,40,Bengaluru,Karnataka,P081,Bottle,Home & Kitchen,Lakme,2,123899,0,335,12,277908.96,Card,Paid,Ecom Express,In Transit,,4
+ORD000974,28-08-2025,03-09-2025,C011,Customer 220,Male,18,Mumbai,Maharashtra,P026,Yoga Mat,Sports,Apple,2,115185,0,298,12,258348.16,COD,Paid,Delhivery,Delivered,,3
+ORD000975,25-11-2025,26-11-2025,C090,Customer 372,Male,40,pune,Maharashtra,P184,Cricket Bat,Sports,LG,4,15100,5000,40,18,65419.2,Google Pay,Paid,Delhivery,Returned,Wrong Product,4
+ORD000976,06-10-2025,,C483,Customer 380,Male,37,Chennai,Tamil Nadu,P097,Earbuds,Electronics,Nike,5,107257,0,0,12,600639.2,Wallet,Pending,Delhivery,Cancelled,,5
+ORD000977,14-12-2025,15-12-2025,C326,Customer 174,Female,41,Mumbai,Maharashtra,P119,Phone,Electronics,Nike,5,4948,500,25,5,25478.25,Net Banking,Pending,Delhivery,Returned,Damaged,4
+ORD000978,28-03-2025,31-03-2025,C263,Customer 133,Female,45,Delhi,Delhi,P187,Shoes,Fashion,Boat,3,9008,5000,219,5,23355.15,COD,Paid,Blue Dart,Returned,Damaged,3
+ORD000979,27-06-2024,,C480,Customer 261,Male,44,Mumbai,Maharashtra,P195,Football,Sports,Apple,1,139487,500,328,12,156032.8,Google Pay,Pending,Delhivery,Cancelled,,
+ORD000980,28-09-2024,,C479,Customer 374,Female,19,Mumbai,Maharashtra,P174,Shoes,Fashion,Nike,1,141817,500,464,18,167301.58,Wallet,Paid,Ecom Express,In Transit,,3
+ORD000981,29-12-2025,31-12-2025,C297,Customer 418,Female,56,Bengaluru,Karnataka,P059,Mixer,Home & Kitchen,LG,5,83196,500,124,12,465476.48,COD,,XpressBees,Returned,Damaged,4
+ORD000982,29-10-2025,31-10-2025,C161,Customer 225,Female,41,Delhi,Delhi,P030,Laptop,Electronics,Lakme,5,86087,500,495,18,507907.4,COD,Paid,Blue Dart,Delivered,,
+ORD000983,14-09-2024,,C378,Customer 486,Male,45,Mumbai,Maharashtra,P013,Rice,Grocery,Nike,1,102961,0,439,5,108570,Google Pay,,Ecom Express,Cancelled,,4
+ORD000984,03-04-2024,05-04-2024,C273,Customer 227,Female,34,Bengaluru,Karnataka,P048,Cookware,Home & Kitchen,Lakme,3,99833,1000,269,18,352546.24,UPI,Paid,Blue Dart,Returned,Wrong Product,5
+ORD000985,12-10-2025,14-10-2025,C317,Customer 382,Female,19,Delhi,Delhi,P066,Phone,Electronics,Lakme,3,75217,5000,105,18,260492.08,Card,,Ecom Express,Returned,Size Issue,5
+ORD000986,05-12-2025,,C298,Customer 1,Male,43,Delhi,Delhi,P032,T-Shirt,Fashion,Puma,2,123242,5000,298,5,253871.1,COD,Paid,Ecom Express,Cancelled,,3
+ORD000987,12-12-2024,14-12-2024,C227,Customer 233,Male,36,Delhi,Delhi,P194,Shampoo,Beauty,Nike,4,33123,0,93,5,139214.25,UPI,,Delhivery,Delivered,,3
+ORD000988,03-07-2025,05-07-2025,C232,Customer 396,Female,65,Bengaluru,Karnataka,P162,T-Shirt,Fashion,Boat,5,89176,5000,414,5,463358.7,Card,Pending,xpressbees,Returned,Damaged,3
+ORD000989,30-09-2024,,C439,Customer 330,Male,26,Chennai,Tamil Nadu,P126,Sugar,Grocery,Puma,2,61250,5000,22,18,138675.96,COD,Paid,Blue Dart,In Transit,,4
+ORD000990,12-09-2025,18-09-2025,C008,Customer 466,Female,18,Chennai,Tamil Nadu,P020,Jeans,Fashion,LG,4,2116,500,327,12,9285.92,Google Pay,Pending,XpressBees,Delivered,,4
+ORD000991,12-06-2024,18-06-2024,C417,Customer 381,Female,56,Chennai,Tamil Nadu,P182,Football,Sports,Lakme,1,26602,500,71,18,30884.14,Google Pay,Paid,Blue Dart,Returned,Wrong Product,3
+ORD000992,04-01-2025,05-01-2025,C242,Customer 477,Male,36,pune,Maharashtra,P126,Mixer,Home & Kitchen,Boat,2,127611,500,85,12,285383.84,COD,Pending,Delhivery,Returned,Wrong Product,5
+ORD000993,02-04-2025,08-04-2025,C362,Customer 408,Female,55,Delhi,Delhi,P129,Rice,Grocery,Lakme,4,147352,5000,485,5,614137.65,Google Pay,Pending,XpressBees,Returned,Wrong Product,5
+ORD000994,23-09-2024,30-09-2024,C476,Customer 202,Male,18,Chennai,Tamil Nadu,P115,Yoga Mat,Sports,Boat,5,102118,500,436,18,602420.68,Google Pay,Pending,Ecom Express,Delivered,,3
+ORD000995,26-01-2025,02-02-2025,C186,Customer 152,Male,18,Pune,Maharashtra,P198,Face Wash,Beauty,Lakme,1,146774,0,178,5,154299.6,Wallet,Paid,XpressBees,Delivered,,5
+ORD000996,27-01-2025,,C334,Customer 495,Male,65,Hyderabad,Telangana,P183,Football,Sports,Apple,5,136659,1000,145,5,716562,Google Pay,,xpressbees,Cancelled,,5
+ORD000997,01-03-2025,03-03-2025,C201,Customer 59,Female,70,Chennai,Tamil Nadu,P140,Cookware,Home & Kitchen,LG,5,126306,1000,324,12,706556.48,Net Banking,,Delhivery,Returned,Wrong Product,3
+ORD000998,23-03-2024,30-03-2024,C013,Customer 217,Male,47,Delhi,Delhi,P038,Jeans,Fashion,Samsung,5,20509,0,333,5,108021.9,Net Banking,,XpressBees,Returned,Wrong Product,
+ORD000999,02-06-2025,,C430,Customer 296,Female,26,Bengaluru,Karnataka,P035,Cookware,Home & Kitchen,Boat,5,11985,0,82,18,70808.26,Wallet,Pending,Blue Dart,Cancelled,,5
+ORD001000,04-07-2024,05-07-2024,C106,Customer 29,Male,33,Chennai,Tamil Nadu,P108,Laptop,Electronics,Boat,3,121620,500,287,18,430283.46,Google Pay,Paid,xpressbees,Returned,Damaged,3
