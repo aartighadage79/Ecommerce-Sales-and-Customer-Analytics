@@ -4,7 +4,7 @@
 
 *Tools Used
 -Power BI
--Excel/CSV
+-Excel
 
 *Key Analysis
 -Sales and revenue analysis
